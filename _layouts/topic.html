@@ -1,0 +1,47 @@
+---
+layout: default
+---
+{%- assign t = site.data.topics | where: "slug", page.topic | first -%}
+<section class="band band-title">
+  <div class="wrap">
+    <p class="eyebrow"><a href="{{ '/#topics' | relative_url }}">topics</a></p>
+    <h1>{{ t.title }}</h1>
+    <p class="lede">{{ t.blurb }}</p>
+  </div>
+</section>
+
+<section class="band band-white">
+  <div class="wrap prose">
+{{ content }}
+  </div>
+</section>
+
+{%- assign items = site.data.resources | where_exp: "r", "r.topics contains page.topic" -%}
+{%- if items.size > 0 %}
+<section class="band band-cream" id="resources">
+  <div class="wrap">
+    <h2>Resources</h2>
+    <p class="muted">{{ items.size }} links on this topic. See the <a href="{{ '/library/' | relative_url }}?topic={{ page.topic }}">library</a> to filter by stage and field.</p>
+    {%- for ty in site.data.labels.type_order -%}
+      {%- assign group = items | where: "type", ty -%}
+      {%- if group.size > 0 %}
+      <h3>{{ site.data.labels.type[ty] | capitalize }}</h3>
+      <ul class="resource-list">
+        {%- for r in group %}{% include resource-item.html r=r %}{% endfor %}
+      </ul>
+      {%- endif -%}
+    {%- endfor %}
+  </div>
+</section>
+{%- endif %}
+
+<section class="band band-white">
+  <div class="wrap">
+    <h2>Other topics</h2>
+    <ul class="topic-links">
+      {%- for o in site.data.topics %}{% unless o.slug == page.topic %}
+      <li><a href="{{ '/topics/' | append: o.slug | append: '/' | relative_url }}">{{ o.title }}</a></li>
+      {%- endunless %}{% endfor %}
+    </ul>
+  </div>
+</section>

@@ -1,0 +1,11 @@
+{%- assign r = include.r -%}
+<li class="resource">
+  <a class="resource-title" href="{{ r.url }}">{{ r.title }}</a>
+  <span class="resource-author">{{ r.author }}</span>
+  {%- if r.note %}<span class="resource-note">{{ r.note }}</span>{% endif %}
+  <span class="tags">
+    <span class="tag tag-type">{{ r.type }}</span>
+    {%- for f in r.field %}<span class="tag tag-field">{{ site.data.labels.field[f] }}</span>{% endfor -%}
+    {%- for s in r.stage %}<span class="tag tag-stage">{{ site.data.labels.stage[s] }}</span>{% endfor -%}
+  </span>
+</li>

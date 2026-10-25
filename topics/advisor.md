@@ -1,0 +1,47 @@
+---
+title: Working with your advisor
+topic: advisor
+---
+
+## Boss and mentor
+
+Your advisor is your ***boss*** as well as your ***mentor***. As your boss, they pay for your tuition and stipend, so preferably, you do work that can be funded by a particular grant, in which you probably had little to no input. But hopefully, if you found the right advisor (which means aligning in terms of research interest AND personality), it shouldn't be too hard for you to figure out a project that fits both of your interests.
+
+As your mentor, your advisor's purpose is to help you become an independent researcher. At some point, [the advisor-advisee dynamic will shift and you will go rogue](https://matt.might.net/articles/ways-to-fail-a-phd/), at which point you and your advisor might begin to diverge a bit. Hopefully not entirely, but just enough that sometimes you will have disagreements or different interests. Stick to your gut while also accepting their guidance. That's a balance you'll have to navigate.
+
+## Set expectations early
+
+At the start of your research journey, talk through expectations with your mentor: goals, hours, skills you want to learn, how you'll get feedback, and what success would look like for each of you.
+
+- [Advising Questionnaire](https://docs.google.com/spreadsheets/d/1TgvBLfBLhpiI2MGhVXGeqbirrgCHgiFi0zyY6mnvXCE/edit?usp=drive_link): I recommend making a copy and filling this out at the start of your PhD to set expectations and boundaries with your advisor.
+- [Individual Development Plan (IDP) for Doctoral Students](https://docs.google.com/document/d/1uyU50vvEAxGjDdKsduEZlmJRmDGdwpIr6a1EDeooG2Q/edit?usp=drive_link)
+- [CRA mentor-mentee contract](https://docs.google.com/document/d/1PABvFUXcjm9dXKPCrzpS0Hg7lsXzG11uXu2yBpiNN98/edit)
+
+## What each of you brings
+
+Andrew Begel suggests listing what you and your advisor each bring to the PhD. His version:
+
+- **What the student brings:** time management, intrinsic motivation, communication, perseverance, willingness to dive into data and prior work, clarity of mission, doing your own thinking, academic honesty, and telling your advisor when you're finished.
+- **What the advisor brings:** experience, expectation setting, teaching you how to do things, tools, knowledge of the literature, help writing papers, brainstorming, strategy, positioning and storytelling, funding, help getting a job, allyship, and learning to recognize good ideas.
+- **What you build together:** trust that your advisor has your back, no ghosting, and autonomy over time. Your advisor is not your gatekeeper, parent, or boss in every sense. Trust, but verify.
+
+## Meta-meetings
+
+Begel also recommends occasional meetings about the relationship itself, separate from research updates:
+
+- **Why am I here? (once a year)** What do I want to be when I grow up? Why do I want a PhD? What do I want my research to be about? What kind of impact do I want it to have on society? What will my path to the PhD look like? What tasks and activities make me feel good about myself and my work?
+- **Management and working styles (monthly in your first semester, then once a semester).** Discuss what each of you wants and needs from the relationship, and negotiate how you'll communicate and work together.
+- **Your PhD curriculum.** Plan the experiences you want over the PhD: a project sequence, learning to write reviews, technical and research skills, advising junior researchers, a doctoral consortium, a systematic literature review, teaching, presenting, meeting faculty, a starter project, conversations about the thesis proposal and your career, and an outside hobby. You can make your own [PhD Curriculum (aka Bucket List)](https://docs.google.com/document/d/1odv3E1QuMM6AUL3TuRaWxvKsZq8V90v27hpsOji1C6o/edit?usp=sharing).
+
+## Running good meetings
+
+- **Treat meetings as help-seeking, not tests.** Presenting your week as positively as possible and hiding what you couldn't do leaves you struggling silently with the same problems. Bring the problems and questions you need help with, including soft skills like time management, losing motivation, or managing undergraduate RAs.
+- **Your advisor wants you to succeed.** They plan to work with you for years. You are not being assessed for selection, as you were in undergrad; the goal is the shortest path to building you up as a researcher.
+- **Bring decisions, not a status list.** Before the meeting, write down the decisions that need to be made to reach your next goal. Sort out which questions need your advisor, which a labmate could answer, and what specific actions you need from your advisor, such as a recommendation letter by a certain date.
+- **Start with a recap.** Advisors are busy and often don't remember last week's meeting. Open by recapping what you decided last time, and keep running meeting notes for each project in a shared doc.
+
+## Methods and feedback
+
+- Advisors steer students toward the methods they know best. If you want to learn other methods, build projects that use them and find other experts to help.
+- Your advisor has much more experience using, publishing, and defending the methods they use often, so their feedback is most useful there.
+- Read your advisor's papers and think about why they matter.

@@ -1,0 +1,43 @@
+---
+layout: default
+title: Library
+---
+<section class="band band-title">
+  <div class="wrap">
+    <h1>Library</h1>
+    <p class="lede">Every link on the site in one place. Filter by topic, stage, field, and type, or search by title and author.</p>
+  </div>
+</section>
+
+<section class="band band-white">
+  <div class="wrap">
+    <div class="filters">
+      <input id="library-search" class="search" type="search" placeholder="Search titles, authors, and notes" aria-label="Search the library">
+      <div class="filter-row">
+        <span class="label">Topic</span>
+        <select id="filter-topic" class="chip" aria-label="Filter by topic">
+          <option value="">All topics</option>
+          {%- for t in site.data.topics %}<option value="{{ t.slug }}">{{ t.title }}</option>{% endfor %}
+        </select>
+      </div>
+      <div class="filter-row">
+        <span class="label">Stage</span>
+        {%- for s in site.data.labels.stage %}{% unless s[0] == "any" %}<button class="chip" type="button" data-group="stage" data-value="{{ s[0] }}" aria-pressed="false">{{ s[1] }}</button>{% endunless %}{% endfor %}
+      </div>
+      <div class="filter-row">
+        <span class="label">Field</span>
+        {%- for f in site.data.labels.field %}<button class="chip" type="button" data-group="field" data-value="{{ f[0] }}" aria-pressed="false">{{ f[1] }}</button>{% endfor %}
+      </div>
+      <div class="filter-row">
+        <span class="label">Type</span>
+        {%- for ty in site.data.labels.type_order %}<button class="chip" type="button" data-group="type" data-value="{{ ty }}" aria-pressed="false">{{ site.data.labels.type[ty] }}</button>{% endfor %}
+      </div>
+    </div>
+    <p id="library-count" class="count"></p>
+    <ul id="library-list" class="resource-list"></ul>
+  </div>
+</section>
+
+<script id="library-data" type="application/json">{{ site.data.resources | jsonify }}</script>
+<script id="library-labels" type="application/json">{{ site.data.labels | jsonify }}</script>
+<script src="{{ '/assets/js/library.js' | relative_url }}"></script>

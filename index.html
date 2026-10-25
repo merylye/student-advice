@@ -1,0 +1,73 @@
+---
+layout: default
+title: Advice for Students
+---
+<section class="hero">
+  <h1>Advice for Students</h1>
+  <p class="sub">For undergrads, RAs, and early PhD students, with a tilt toward computer science, HCI, and computational social science.</p>
+</section>
+
+<section class="band band-dark intro">
+  <div class="wrap">
+    <p>I curated this site primarily for early PhD students and undergrads interested in research. It is not a guide on applying to grad school, though some of the links might be helpful for that endeavor.</p>
+    <p>There is a ton of written advice, resources, and so on out on the internet. These are my favorites, accompanied by my own musings, advice I've collected from practicums and seminars, and a library of links you can filter by topic, stage, and field.</p>
+    <p class="tldr">tl;dr Make sure you enjoy what you do. High quality research takes time, and it's okay that it does!</p>
+  </div>
+</section>
+
+<section class="band band-white" id="topics">
+  <div class="wrap">
+    <h2>Topics</h2>
+    <div class="cards">
+      {%- for t in site.data.topics %}
+      <a class="card" href="{{ '/topics/' | append: t.slug | append: '/' | relative_url }}">
+        <span class="num">{{ forloop.index | prepend: '0' | slice: -2, 2 }}</span>
+        <h3>{{ t.title }}</h3>
+        <p>{{ t.blurb }}</p>
+      </a>
+      {%- endfor %}
+    </div>
+  </div>
+</section>
+
+<section class="band band-cream">
+  <div class="wrap">
+    <h2>Start here</h2>
+    <div class="split">
+      <div class="callout">
+        <h3>If you're an undergrad or RA</h3>
+        <p>Start with <a href="{{ '/topics/starting-out/' | relative_url }}">Starting out in research</a>, then browse the <a href="{{ '/library/' | relative_url }}?topic=starting-out">library</a>. If you're thinking about a PhD, read <a href="{{ '/topics/choosing/' | relative_url }}">Choosing a program and advisor</a>.</p>
+      </div>
+      <div class="callout">
+        <h3>If you're a new PhD student</h3>
+        <p>Read <a href="{{ '/topics/advisor/' | relative_url }}">Working with your advisor</a> and <a href="{{ '/topics/time-wellbeing/' | relative_url }}">Time, projects, and wellbeing</a> in your first month. Then work through the exercises on <a href="{{ '/try-this/' | relative_url }}">Try this</a>.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="band band-white">
+  <div class="wrap">
+    <h2>Favorite reads</h2>
+    {%- assign featured = site.data.resources | where: "featured", true -%}
+    <ul class="resource-list">
+      {%- for r in featured %}{% include resource-item.html r=r %}{% endfor %}
+    </ul>
+    <p style="margin-top:20px"><a href="{{ '/library/' | relative_url }}">Browse all {{ site.data.resources.size }} links in the library</a></p>
+  </div>
+</section>
+
+<section class="band band-sand">
+  <div class="wrap split">
+    <div>
+      <h2>Try this</h2>
+      <p>Exercises for finding research problems, framing your work, and planning your PhD, adapted from first-year PhD seminars.</p>
+      <p><a href="{{ '/try-this/' | relative_url }}">Go to the exercises</a></p>
+    </div>
+    <div>
+      <h2>Thoughts from me</h2>
+      <p>My own reflections on mentors, impact, and enjoying the process, plus a few favorite quotes from practicum speakers.</p>
+      <p><a href="{{ '/thoughts/' | relative_url }}">Read my thoughts</a></p>
+    </div>
+  </div>
+</section>

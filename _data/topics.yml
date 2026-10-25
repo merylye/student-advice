@@ -1,0 +1,33 @@
+- slug: starting-out
+  title: Starting out in research
+  blurb: For undergrads and RAs getting into research for the first time.
+- slug: choosing
+  title: Choosing a program and advisor
+  blurb: How to evaluate programs, advisors, and co-advising arrangements.
+- slug: advisor
+  title: Working with your advisor
+  blurb: Setting expectations, running meetings, and growing toward independence.
+- slug: time-wellbeing
+  title: Time, projects, and wellbeing
+  blurb: How much to take on, how to plan a semester, and how to take care of yourself.
+- slug: research
+  title: Doing research
+  blurb: Finding problems, reading and searching the literature, and asking good questions.
+- slug: writing
+  title: Writing
+  blurb: Structuring papers and becoming an academic writer.
+- slug: presenting
+  title: Presenting and networking
+  blurb: Talks, elevator pitches, conferences, and meeting people.
+- slug: reviewing
+  title: Reviewing and publishing
+  blurb: How peer review works, writing reviews, and responding to them.
+- slug: funding
+  title: Fellowships and funding
+  blurb: Writing fellowship proposals and understanding PhD finances.
+- slug: ai
+  title: Using generative AI
+  blurb: Using AI tools in research while keeping human oversight.
+- slug: careers
+  title: Careers and the long game
+  blurb: How the PhD changes over time, academia versus industry, and the job search.

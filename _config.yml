@@ -1,0 +1,26 @@
+title: Advice for Students
+description: >-
+  Advice, resources, and exercises for undergrads, RAs, and early PhD students,
+  with a tilt toward computer science, HCI, and computational social science.
+author: Meryl Ye
+url: "https://merylye.github.io"
+baseurl: "/student-advice"
+permalink: pretty
+markdown: kramdown
+kramdown:
+  input: GFM
+  auto_ids: true
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - check_links.py
+defaults:
+  - scope:
+      path: "topics"
+    values:
+      layout: topic
+  - scope:
+      path: ""
+    values:
+      layout: page

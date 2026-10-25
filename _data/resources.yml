@@ -1,0 +1,1079 @@
+# Library of links. Each entry appears in the Library and on every topic page listed under "topics".
+#
+# Fields:
+#   title, author, url  (required)
+#   topics: starting-out, choosing, advisor, time-wellbeing, research, writing,
+#           presenting, reviewing, funding, ai, careers
+#   stage:  prospective, early, mid, late, any
+#   field:  general, cs, hci, css
+#   type:   essay, slides, paper, video, book, template, collection, memoir
+#   note:   optional one-line description
+#   featured: true  (optional; shows on the home page)
+
+# ---------- Collections ----------
+- title: "awesome-phd-advice"
+  author: "Paul Liang"
+  url: "https://github.com/pliang279/awesome-phd-advice"
+  topics: [starting-out, choosing, research, writing, presenting, reviewing, funding, careers]
+  stage: [any]
+  field: [cs]
+  type: collection
+  note: "A large GitHub compilation of PhD advice, strongest on applications, fellowships, and the job search."
+  featured: true
+- title: "CS/HCI Research Hub"
+  author: "Andrew Kuznetsov"
+  url: "https://andrewkuz.net/cs-hci-research-hub/"
+  topics: [starting-out, research]
+  stage: [any]
+  field: [hci]
+  type: collection
+- title: "Grad School Advice"
+  author: "Jason Hong"
+  url: "http://www.cs.cmu.edu/~jasonh/advice.html"
+  topics: [choosing, research, careers]
+  stage: [any]
+  field: [hci, cs]
+  type: collection
+- title: "Advice for Research Students"
+  author: "Jason Eisner"
+  url: "https://www.cs.jhu.edu/~jason/advice/"
+  topics: [research, writing]
+  stage: [any]
+  field: [cs]
+  type: collection
+- title: "Advice for researchers and students"
+  author: "Michael Ernst"
+  url: "https://homes.cs.washington.edu/~mernst/advice/"
+  topics: [research, writing, presenting, careers]
+  stage: [any]
+  field: [cs]
+  type: collection
+- title: "CS PhD: the greatest hits"
+  author: "Angela Jiang"
+  url: "https://phdadvice.carrd.co/"
+  topics: [starting-out, research]
+  stage: [any]
+  field: [cs]
+  type: collection
+- title: "List of PhD reflections"
+  author: "Stephen Tu"
+  url: "https://stephentu.github.io/blog/reflections/2016/02/28/list-phd-reflections.html"
+  topics: [careers]
+  stage: [any]
+  field: [cs]
+  type: collection
+- title: "Checklists for Stat-ML PhD students"
+  author: "Aaditya Ramdas"
+  url: "https://www.stat.cmu.edu/~aramdas/checklists.html"
+  topics: [research, careers]
+  stage: [any]
+  field: [cs]
+  type: collection
+- title: "Grad School Resources"
+  author: "Kalpesh Krishna"
+  url: "https://martiansideofthemoon.github.io/2018/05/29/grad-resources.html"
+  topics: [choosing, research]
+  stage: [any]
+  field: [cs]
+  type: collection
+- title: "5 Great Reads on Academia and the Pursuit of Your PhD"
+  author: "Sauvik Das"
+  url: "https://sauvik-das.medium.com/5-great-reads-on-academia-and-the-pursuit-of-your-ph-d-cb29c46f634d"
+  topics: [careers, time-wellbeing]
+  stage: [any]
+  field: [hci]
+  type: collection
+- title: "FAQ for students"
+  author: "Amy J. Ko"
+  url: "https://faculty.washington.edu/ajko/faq"
+  topics: [choosing, advisor, research, reviewing]
+  stage: [any]
+  field: [hci]
+  type: collection
+  note: "Includes what to agree on up front when you are co-advised."
+- title: "SPARC: student guidance on research and PhD applications"
+  author: "Computing Research Association"
+  url: "https://sparc.cra.org/"
+  topics: [starting-out, choosing]
+  stage: [prospective]
+  field: [cs]
+  type: collection
+
+# ---------- Starting out ----------
+- title: "Undergrad to PhD, or not"
+  author: "John Hewitt"
+  url: "https://nlp.stanford.edu//~johnhew//undergrad-researchers.html"
+  topics: [starting-out]
+  stage: [prospective]
+  field: [cs]
+  type: essay
+  note: "Advice for undergrads interested in research."
+- title: "Grad school's hidden curriculum"
+  author: "Scatterplot (guest post)"
+  url: "https://scatter.wordpress.com/2018/07/24/guest-post-grad-schools-hidden-curriculum/"
+  topics: [starting-out, choosing]
+  stage: [prospective, early]
+  field: [general, css]
+  type: essay
+  featured: true
+- title: "Uncovering the hidden curriculum of university computing majors"
+  author: "Philip Guo and colleagues"
+  url: "https://pg.ucsd.edu/publications/hidden-curriculum-undergrad-mentoring_ICER-2023.pdf"
+  topics: [starting-out]
+  stage: [prospective]
+  field: [cs]
+  type: paper
+- title: "Research with Michael: getting started"
+  author: "Michael Bernstein"
+  url: "https://hci.stanford.edu/msb/gettingstarted/"
+  topics: [starting-out, advisor]
+  stage: [prospective, early]
+  field: [hci]
+  type: template
+  note: "A faculty member's onboarding guide for students joining his group."
+- title: "PhD Syllabus"
+  author: "Mor Naaman"
+  url: "https://s.tech.cornell.edu/phd-syllabus/"
+  topics: [starting-out, advisor, careers]
+  stage: [early]
+  field: [hci, css]
+  type: template
+- title: "CoALA Lab PhD Handbook"
+  author: "Ken Holstein"
+  url: "https://docs.google.com/document/d/1C9hor13LKhIdO47n36rQdYem7c9PRdaMOOGX9IGUkEM/edit"
+  topics: [starting-out, advisor]
+  stage: [early]
+  field: [hci]
+  type: template
+- title: "Getting a Computer Science PhD (FAQ)"
+  author: "Shriram Krishnamurthi"
+  url: "https://parentheticallyspeaking.org/articles/us-cs-phd-faq/"
+  topics: [starting-out, choosing]
+  stage: [prospective]
+  field: [cs]
+  type: essay
+- title: "Training computational social science students"
+  author: "Berkeley D-Lab"
+  url: "https://dlab.berkeley.edu/news/introducing-three-step-guide-training-computational-social-science-students"
+  topics: [starting-out, research]
+  stage: [prospective, early]
+  field: [css]
+  type: essay
+
+# ---------- Choosing a program and advisor ----------
+- title: "To Choose an Adviser, Be an \"Armchair Anthropologist\""
+  author: "Siri Carpenter (Science)"
+  url: "http://www.sciencemag.org/careers/2007/07/choose-adviser-be-armchair-anthropologist"
+  topics: [choosing]
+  stage: [prospective, early]
+  field: [general]
+  type: essay
+- title: "The Definitive \"what do I ask/look for\" in a PhD Advisor Guide"
+  author: "Andrew Kuznetsov"
+  url: "https://www.andrewkuz.net/blog/PhD-Advisor-Guide.html"
+  topics: [choosing]
+  stage: [prospective, early]
+  field: [hci]
+  type: essay
+  featured: true
+- title: "Questions to Ask a Prospective Ph.D. Advisor on Visit Day"
+  author: "Andrew Kuznetsov"
+  url: "https://blog.ml.cmu.edu/2020/03/02/questions-to-ask-a-prospective-ph-d-advisor-on-visit-day-with-thorough-and-forthright-explanations/"
+  topics: [choosing]
+  stage: [prospective]
+  field: [cs, hci]
+  type: essay
+- title: "PhD Grind Part 1 of N: advisor picking"
+  author: "Dan Tasse"
+  url: "https://talesnideas.blogspot.com/2014/08/phd-grind-part-1-of-n-advisor-picking.html"
+  topics: [choosing]
+  stage: [early]
+  field: [hci]
+  type: essay
+- title: "How to Pick a Graduate Advisor"
+  author: "Ben Barres (Neuron)"
+  url: "https://hst.mit.edu/sites/default/files/media/files/Barres%20BA.Neuron.80.275.2013.pdf"
+  topics: [choosing]
+  stage: [prospective, early]
+  field: [general]
+  type: paper
+- title: "How to Choose Your Grad School"
+  author: "Tim Dettmers"
+  url: "https://timdettmers.com/2022/03/13/how-to-choose-your-grad-school/"
+  topics: [choosing]
+  stage: [prospective]
+  field: [cs]
+  type: essay
+- title: "Applying to PhD Programs in Computer Science"
+  author: "Mor Harchol-Balter"
+  url: "https://www.cs.cmu.edu/~harchol/gradschooltalk.pdf"
+  topics: [choosing]
+  stage: [prospective]
+  field: [cs]
+  type: paper
+- title: "HOWTO: Get into grad school for science, engineering, math and computer science"
+  author: "Matt Might"
+  url: "https://matt.might.net/articles/how-to-apply-and-get-in-to-graduate-school-in-science-mathematics-engineering-or-computer-science/"
+  topics: [choosing]
+  stage: [prospective]
+  field: [cs]
+  type: essay
+- title: "Applying to grad school"
+  author: "Maarten Sap"
+  url: "https://maartensap.com/notes/01-apply-grad-school.html"
+  topics: [choosing]
+  stage: [prospective]
+  field: [cs]
+  type: essay
+- title: "CS-SOP: database of example statements of purpose"
+  author: "CS-SOP initiative"
+  url: "https://cs-sop.org"
+  topics: [choosing]
+  stage: [prospective]
+  field: [cs]
+  type: collection
+- title: "Inside PhD admissions: what readers look for in a Statement of Purpose"
+  author: "Nathan Schneider"
+  url: "https://nschneid.medium.com/inside-ph-d-admissions-what-readers-look-for-in-a-statement-of-purpose-3db4e6081f80"
+  topics: [choosing]
+  stage: [prospective]
+  field: [cs]
+  type: essay
+- title: "How to Write a Bad Statement"
+  author: "Andy Pavlo"
+  url: "https://www.cs.cmu.edu/~pavlo/blog/2015/10/how-to-write-a-bad-statement-for-a-computer-science-phd-admissions-application.html"
+  topics: [choosing]
+  stage: [prospective]
+  field: [cs]
+  type: essay
+- title: "Some suggestions on writing your statement of purpose"
+  author: "Jennifer Mankoff"
+  url: "https://www.cc.gatech.edu/fce/people/jmankoff/gradschool/sops.html"
+  topics: [choosing]
+  stage: [prospective]
+  field: [hci]
+  type: essay
+- title: "Ph.D. Applications: FAQ"
+  author: "Noah Smith"
+  url: "https://docs.google.com/document/d/1lT-bsIP0GKfh8l5sQnM2hCzzR9prt-QLx16rimUOdIM/edit"
+  topics: [choosing]
+  stage: [prospective]
+  field: [cs]
+  type: essay
+- title: "Reflecting on CS Graduate Admissions"
+  author: "David Andersen"
+  url: "https://da-data.blogspot.com/2015/03/reflecting-on-cs-graduate-admissions.html"
+  topics: [choosing]
+  stage: [prospective]
+  field: [cs]
+  type: essay
+
+# ---------- Working with your advisor ----------
+- title: "Advising Questionnaire"
+  author: "Template"
+  url: "https://docs.google.com/spreadsheets/d/1TgvBLfBLhpiI2MGhVXGeqbirrgCHgiFi0zyY6mnvXCE/edit?usp=drive_link"
+  topics: [advisor]
+  stage: [early]
+  field: [general]
+  type: template
+  note: "Make a copy and fill it out at the start of your PhD to set expectations and boundaries with your advisor."
+  featured: true
+- title: "Individual Development Plan (IDP) for Doctoral Students"
+  author: "Template"
+  url: "https://docs.google.com/document/d/1uyU50vvEAxGjDdKsduEZlmJRmDGdwpIr6a1EDeooG2Q/edit?usp=drive_link"
+  topics: [advisor, careers]
+  stage: [early, mid]
+  field: [general]
+  type: template
+- title: "Mentor-mentee contract"
+  author: "CRA (template)"
+  url: "https://docs.google.com/document/d/1PABvFUXcjm9dXKPCrzpS0Hg7lsXzG11uXu2yBpiNN98/edit"
+  topics: [advisor]
+  stage: [early]
+  field: [cs]
+  type: template
+- title: "Dear Advisee: What your advisor wants you to know"
+  author: "APA Monitor"
+  url: "https://www.apa.org/monitor/2012/07-08/advisee"
+  topics: [advisor]
+  stage: [early]
+  field: [general]
+  type: essay
+- title: "Dear Advisor: A wish list from your advisees"
+  author: "APA Monitor"
+  url: "https://www.apa.org/monitor/2012/07-08/advisor"
+  topics: [advisor]
+  stage: [early]
+  field: [general]
+  type: essay
+- title: "10 easy ways to fail a Ph.D."
+  author: "Matt Might"
+  url: "https://matt.might.net/articles/ways-to-fail-a-phd/"
+  topics: [advisor, time-wellbeing]
+  stage: [early, mid]
+  field: [cs]
+  type: essay
+- title: "Expectation Setting"
+  author: "Eugene Vinitsky"
+  url: "http://eugenevinitsky.github.io/posts/expectation_setting.html"
+  topics: [advisor]
+  stage: [early]
+  field: [cs]
+  type: essay
+- title: "Advice for New Graduate Students"
+  author: "Jennifer Rexford"
+  url: "https://freedom-to-tinker.com/2010/09/27/advice-new-graduate-students/"
+  topics: [advisor, starting-out]
+  stage: [early]
+  field: [cs]
+  type: essay
+- title: "15 pieces of advice I wish my PhD advisor had given me"
+  author: "Jim Kurose"
+  url: "http://www-net.cs.umass.edu/kurose/talks/student_keynote_final.pdf"
+  topics: [advisor, research]
+  stage: [early, mid]
+  field: [cs]
+  type: slides
+
+# ---------- Time, projects, and wellbeing ----------
+- title: "Time Management (lecture)"
+  author: "Randy Pausch"
+  url: "https://www.youtube.com/watch?v=oTugjssqOT0"
+  topics: [time-wellbeing]
+  stage: [any]
+  field: [general]
+  type: video
+  featured: true
+- title: "Productivity tips, hints, hacks and tricks for grad students and academics"
+  author: "Matt Might"
+  url: "https://matt.might.net/articles/productivity-tips-hints-hacks-tricks-for-grad-students-academics/"
+  topics: [time-wellbeing]
+  stage: [any]
+  field: [cs]
+  type: essay
+- title: "How to change your behavior"
+  author: "Matt Might"
+  url: "https://matt.might.net/articles/how-to-change-your-behavior/"
+  topics: [time-wellbeing]
+  stage: [any]
+  field: [general]
+  type: essay
+- title: "Grad student resolutions"
+  author: "Matt Might"
+  url: "https://matt.might.net/articles/grad-student-resolutions/"
+  topics: [time-wellbeing]
+  stage: [any]
+  field: [cs]
+  type: essay
+- title: "Console hacks: exploiting frequency"
+  author: "Matt Might"
+  url: "https://matt.might.net/articles/console-hacks-exploiting-frequency/"
+  topics: [time-wellbeing]
+  stage: [any]
+  field: [cs]
+  type: essay
+- title: "The No Club: Putting a Stop to Women's Dead-End Work"
+  author: "Linda Babcock, Brenda Peyser, Lise Vesterlund, Laurie Weingart"
+  url: "https://www.simonandschuster.ca/books/The-No-Club/Linda-Babcock/9781982152345"
+  topics: [time-wellbeing]
+  stage: [any]
+  field: [general]
+  type: book
+  note: "On learning to say no to work that won't advance you."
+- title: "How to say no"
+  author: "Deb Liu"
+  url: "https://debliu.substack.com/p/how-to-say-no"
+  topics: [time-wellbeing]
+  stage: [any]
+  field: [general]
+  type: essay
+- title: "Graduate student coaching"
+  author: "CMU Student Academic Success Center"
+  url: "https://www.cmu.edu/student-success/programs/coaching.html"
+  topics: [time-wellbeing]
+  stage: [any]
+  field: [general]
+  type: template
+  note: "One-on-one time management coaching for CMU graduate students."
+- title: "The Emotional Labor of Your PhD"
+  author: "Sauvik Das"
+  url: "https://sauvik-das.medium.com/the-emotional-labor-of-your-ph-d-84e24846daff"
+  topics: [time-wellbeing]
+  stage: [any]
+  field: [hci]
+  type: essay
+  featured: true
+- title: "A Letter to My Younger Self About Dealing With Rejection in Academia"
+  author: "Sauvik Das"
+  url: "https://medium.com/student-voices/a-letter-to-my-younger-self-about-dealing-with-rejection-in-academia-da4f46ae9a9f"
+  topics: [time-wellbeing, reviewing]
+  stage: [any]
+  field: [hci]
+  type: essay
+- title: "Tenured Professor Rogers Talks About: Imposter Syndrome"
+  author: "Casey Fiesler"
+  url: "https://cfiesler.medium.com/tenured-professor-rogers-talks-about-imposter-syndrome-229e0a546ac1"
+  topics: [time-wellbeing]
+  stage: [any]
+  field: [hci]
+  type: essay
+- title: "Reflections on my academic insecurity"
+  author: "Amy J. Ko"
+  url: "https://medium.com/bits-and-behavior/reflections-on-my-academic-insecurity-b2fa0df25b6e"
+  topics: [time-wellbeing]
+  stage: [any]
+  field: [hci]
+  type: essay
+- title: "The Genius Fallacy"
+  author: "Jean Yang"
+  url: "https://jxyzabc.blogspot.com/2017/09/the-genius-fallacy.html"
+  topics: [time-wellbeing]
+  stage: [any]
+  field: [cs]
+  type: essay
+- title: "7 ways PhD students and academics deal with stress, anxiety, and depression"
+  author: "Cheeky Scientist"
+  url: "https://cheekyscientist.com/7-ways-phd-students-academics-deal-stress-anxiety-depression/"
+  topics: [time-wellbeing]
+  stage: [any]
+  field: [general]
+  type: essay
+- title: "Finances for CS PhD students"
+  author: "David Andersen"
+  url: "https://da-data.blogspot.com/2016/09/finances-for-cs-phd-students.html"
+  topics: [time-wellbeing, funding]
+  stage: [early]
+  field: [cs]
+  type: essay
+- title: "A Survival Guide to a PhD"
+  author: "Andrej Karpathy"
+  url: "https://karpathy.github.io/2016/09/07/phd/"
+  topics: [time-wellbeing, research]
+  stage: [any]
+  field: [cs]
+  type: essay
+- title: "How to Be a Successful PhD Student"
+  author: "Mark Dredze and Hanna Wallach"
+  url: "https://www.cs.jhu.edu/~mdredze/publications/HowtoBeaSuccessfulPhDStudent.pdf"
+  topics: [time-wellbeing, research, advisor]
+  stage: [early]
+  field: [cs]
+  type: paper
+- title: "Advice to a Beginning Graduate Student"
+  author: "Manuel Blum"
+  url: "https://www.cs.cmu.edu/~mblum/research/pdf/grad.html"
+  topics: [starting-out, time-wellbeing]
+  stage: [early]
+  field: [cs]
+  type: essay
+- title: "10 tips for PhD students"
+  author: "Daniela Witten"
+  url: "https://imstat.org/2022/04/01/written-by-witten-so-long-and-thanks-for-all-the-tips/"
+  topics: [time-wellbeing, research]
+  stage: [any]
+  field: [general]
+  type: essay
+- title: "Successful PhD students"
+  author: "Matt Might"
+  url: "http://matt.might.net/articles/successful-phd-students/"
+  topics: [time-wellbeing]
+  stage: [early]
+  field: [cs]
+  type: essay
+- title: "PhD Comics"
+  author: "Jorge Cham"
+  url: "http://www.phdcomics.com/comics.php"
+  topics: [time-wellbeing]
+  stage: [any]
+  field: [general]
+  type: collection
+- title: "PhDLife Blog"
+  author: "University of Warwick"
+  url: "https://phdlife.warwick.ac.uk/"
+  topics: [time-wellbeing]
+  stage: [any]
+  field: [general]
+  type: collection
+- title: "CRA-WP Grad Cohort for Women"
+  author: "Computing Research Association"
+  url: "https://cra.org/cra-wp/grad-cohort-for-women/"
+  topics: [time-wellbeing, careers]
+  stage: [early, mid]
+  field: [cs]
+  type: template
+  note: "An annual mentorship workshop for women in years 1 to 3 of a computing PhD."
+
+# ---------- Doing research ----------
+- title: "How to Read a Paper"
+  author: "S. Keshav"
+  url: "https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf"
+  topics: [research]
+  stage: [any]
+  field: [cs]
+  type: paper
+  featured: true
+- title: "How to Read a Technical Paper"
+  author: "Jason Eisner"
+  url: "https://www.cs.jhu.edu/~jason/advice/how-to-read-a-paper.html"
+  topics: [research]
+  stage: [any]
+  field: [cs]
+  type: essay
+- title: "A Study Design Process"
+  author: "Amy J. Ko"
+  url: "https://faculty.washington.edu/ajko/papers/Ko2019StudyDesign.pdf"
+  topics: [research]
+  stage: [early]
+  field: [hci]
+  type: paper
+- title: "Research contributions in human-computer interaction"
+  author: "Jacob O. Wobbrock and Julie A. Kientz"
+  url: "https://dl.acm.org/doi/10.1145/2907069"
+  topics: [research, writing]
+  stage: [any]
+  field: [hci]
+  type: paper
+- title: "Framework of problem-based research: a guide for novice researchers"
+  author: "Timothy J. Ellis and Yair Levy"
+  url: "http://inform.nu/Articles/Vol11/ISJv11p017-033Ellis486.pdf"
+  topics: [research]
+  stage: [early]
+  field: [general]
+  type: paper
+- title: "Creative hypothesis generating in psychology: some useful heuristics"
+  author: "William J. McGuire"
+  url: "http://www2.psych.ubc.ca/~schaller/528Readings/McGuire1997.pdf"
+  topics: [research]
+  stage: [early]
+  field: [css, general]
+  type: paper
+- title: "How to look for ideas in computer science research"
+  author: "Digital Diplomacy (Medium)"
+  url: "https://medium.com/digital-diplomacy/how-to-look-for-ideas-in-computer-science-research-7a3fa6f4696f"
+  topics: [research]
+  stage: [early]
+  field: [cs]
+  type: essay
+- title: "Principles of Effective Research"
+  author: "Michael Nielsen"
+  url: "https://michaelnielsen.org/blog/principles-of-effective-research/"
+  topics: [research]
+  stage: [any]
+  field: [general]
+  type: essay
+- title: "You and Your Research"
+  author: "Richard Hamming"
+  url: "https://www.cs.virginia.edu/~robins/YouAndYourResearch.html"
+  topics: [research, careers]
+  stage: [any]
+  field: [general]
+  type: essay
+- title: "How to Have a Bad Career in Research/Academia"
+  author: "David Patterson"
+  url: "https://people.eecs.berkeley.edu/~pattrsn/talks/BadCareer.pdf"
+  topics: [research, careers]
+  stage: [any]
+  field: [cs]
+  type: slides
+- title: "How to Do Great Research"
+  author: "Nick Feamster and Alex Gray"
+  url: "https://greatresearch.org/"
+  topics: [research]
+  stage: [any]
+  field: [cs]
+  type: collection
+- title: "Useful Thoughts about Research"
+  author: "H.T. Kung"
+  url: "https://www.eecs.harvard.edu/htk/phdadvice/"
+  topics: [research]
+  stage: [any]
+  field: [cs]
+  type: essay
+- title: "Inciteful: explore citation networks"
+  author: "Inciteful"
+  url: "https://inciteful.xyz/"
+  topics: [research]
+  stage: [any]
+  field: [general]
+  type: template
+  note: "Shows foundational papers and forward and backward citations around a set of papers."
+- title: "ResearchRabbit"
+  author: "ResearchRabbit"
+  url: "https://www.researchrabbit.ai/"
+  topics: [research]
+  stage: [any]
+  field: [general]
+  type: template
+- title: "How I use Excel to manage my literature review"
+  author: "A Lawn Unto Herself"
+  url: "https://alawuntoherself.com/2016/05/20/how-i-use-excel-to-manage-my-literature-review/"
+  topics: [research]
+  stage: [early]
+  field: [general]
+  type: essay
+- title: "How to handle a large amount of literature"
+  author: "PhD Talk"
+  url: "http://phdtalk.blogspot.com/2011/01/how-to-handle-large-amount-of.html"
+  topics: [research]
+  stage: [early]
+  field: [general]
+  type: essay
+- title: "SOLVENT: A Mixed Initiative System for Finding Analogies between Research Papers"
+  author: "Chan, Chang, Hope, Shahaf, and Kittur"
+  url: "https://dl.acm.org/doi/abs/10.1145/3274300"
+  topics: [research]
+  stage: [any]
+  field: [hci]
+  type: paper
+- title: "Building Confidence In Yourself and Your Ideas"
+  author: "Video"
+  url: "https://www.youtube.com/watch?v=al-15mMAS18&t=248s"
+  topics: [research]
+  stage: [early]
+  field: [general]
+  type: video
+  note: "On when to pivot and how to build conviction, from the startup world. Read \"investor\" as \"advisor.\""
+
+# ---------- Writing ----------
+- title: "SIGCHI Conference Paper Format (paper outline)"
+  author: "Jacob O. Wobbrock"
+  url: "https://faculty.washington.edu/wobbrock/pubs/Wobbrock-2015.pdf"
+  topics: [writing]
+  stage: [any]
+  field: [hci]
+  type: paper
+  featured: true
+- title: "How to Write an HCI Paper"
+  author: "Mina Khan"
+  url: "https://minakhan.medium.com/how-to-write-hci-paper-b2c443597361"
+  topics: [writing]
+  stage: [early]
+  field: [hci]
+  type: essay
+- title: "The Day You Became an Academic Writer"
+  author: "Sauvik Das"
+  url: "https://sauvik-das.medium.com/the-day-you-became-an-academic-writer-2706ae01b2d1"
+  topics: [writing]
+  stage: [early]
+  field: [hci]
+  type: essay
+- title: "Resources for academic writing in HCI"
+  author: "Sauvik Das"
+  url: "https://medium.com/gt-ups-course/resources-for-academic-writing-in-hci-82a27249cb5f"
+  topics: [writing]
+  stage: [any]
+  field: [hci]
+  type: collection
+- title: "Writing a Page Turner: How to Tell a Story in Your Scientific Paper"
+  author: "LSE Impact Blog"
+  url: "https://blogs.lse.ac.uk/impactofsocialsciences/2018/05/21/writing-a-page-turner-how-to-tell-a-story-in-your-scientific-paper/"
+  topics: [writing]
+  stage: [any]
+  field: [general, css]
+  type: essay
+- title: "Best paper awards in computer science, by conference"
+  author: "Jeff Huang"
+  url: "https://jeffhuang.com/best_paper_awards.html"
+  topics: [writing, research]
+  stage: [any]
+  field: [cs, hci]
+  type: collection
+  note: "Good papers to study for structure."
+- title: "Why (and how) academics should blog their papers"
+  author: "Casey Fiesler"
+  url: "https://cfiesler.medium.com/why-and-how-academics-should-blog-their-papers-e6869559b8ea"
+  topics: [writing]
+  stage: [mid]
+  field: [hci]
+  type: essay
+- title: "Notes on writing"
+  author: "Fredo Durand"
+  url: "http://people.csail.mit.edu/fredo/PUBLI/writing.pdf"
+  topics: [writing]
+  stage: [any]
+  field: [cs]
+  type: paper
+- title: "Ten Simple Rules for Mathematical Writing"
+  author: "Dimitri Bertsekas"
+  url: "http://www.mit.edu/~dimitrib/Ten_Rules.html"
+  topics: [writing]
+  stage: [any]
+  field: [cs]
+  type: essay
+- title: "Advice on Research and Writing"
+  author: "Mark Leone"
+  url: "http://www.cs.cmu.edu/afs/cs.cmu.edu/user/mleone/web/how-to.html"
+  topics: [writing, research]
+  stage: [any]
+  field: [cs]
+  type: collection
+
+# ---------- Presenting and networking ----------
+- title: "Giving an Academic Talk"
+  author: "Jonathan Shewchuk"
+  url: "https://people.eecs.berkeley.edu/~jrs/speaking.html"
+  topics: [presenting]
+  stage: [any]
+  field: [cs]
+  type: essay
+  note: "If you read one thing about talks, make it this."
+  featured: true
+- title: "The secret structure of great talks"
+  author: "Nancy Duarte (TED)"
+  url: "http://www.ted.com/talks/nancy_duarte_the_secret_structure_of_great_talks"
+  topics: [presenting]
+  stage: [any]
+  field: [general]
+  type: video
+- title: "How to give a technical presentation"
+  author: "Michael Ernst"
+  url: "https://homes.cs.washington.edu/~mernst/advice/giving-talk.html"
+  topics: [presenting]
+  stage: [any]
+  field: [cs]
+  type: essay
+- title: "What are the elements of an effective elevator pitch?"
+  author: "Academia Stack Exchange"
+  url: "https://academia.stackexchange.com/questions/1779/what-are-the-elements-of-an-effective-elevator-pitch"
+  topics: [presenting]
+  stage: [any]
+  field: [general]
+  type: essay
+- title: "Networking on the Network: A Guide to Professional Skills for PhD Students"
+  author: "Phil Agre"
+  url: "https://vlsicad.ucsd.edu/Research/Advice/network.html"
+  topics: [presenting, careers]
+  stage: [any]
+  field: [general]
+  type: essay
+- title: "Nine things I wish I had known the first time I came to NeurIPS"
+  author: "Jennifer Wortman Vaughan"
+  url: "https://medium.com/@jennwv/nine-things-i-wish-i-had-known-the-first-time-i-came-to-nips-b939330661ed"
+  topics: [presenting]
+  stage: [early]
+  field: [cs]
+  type: essay
+- title: "Hitchhiker's guide to organizing an academic workshop"
+  author: "Ben Eysenbach and Surya Bhupatiraju"
+  url: "https://medium.com/@erl.leads/hitchhikers-guide-to-organizing-an-academic-workshop-cc9a5b1c32c9"
+  topics: [presenting]
+  stage: [mid]
+  field: [cs]
+  type: essay
+- title: "Always be EPIC"
+  author: "Sauvik Das"
+  url: "https://sauvik-das.medium.com/always-be-epic-97bf5dcd8ba5"
+  topics: [presenting, research]
+  stage: [any]
+  field: [hci]
+  type: essay
+
+# ---------- Reviewing and publishing ----------
+- title: "A quick guide to reviewing papers quick"
+  author: "Sauvik Das"
+  url: "https://sauvik-das.medium.com/a-quick-guide-to-reviewing-papers-quick-fe9a493ed228"
+  topics: [reviewing]
+  stage: [early, mid]
+  field: [hci]
+  type: essay
+  featured: true
+- title: "How to write a reviewer report"
+  author: "Stanley Chan"
+  url: "https://engineering.purdue.edu/ChanGroup/write_review.html"
+  topics: [reviewing]
+  stage: [early, mid]
+  field: [cs]
+  type: essay
+- title: "How to write a good review (CVPR 2020)"
+  author: "CVPR"
+  url: "https://sites.google.com/view/making-reviews-great-again/"
+  topics: [reviewing]
+  stage: [early, mid]
+  field: [cs]
+  type: collection
+- title: "Writing rebuttals"
+  author: "Niklas Elmqvist"
+  url: "https://sites.umiacs.umd.edu/elm/2016/11/19/writing-rebuttals/"
+  topics: [reviewing]
+  stage: [mid]
+  field: [hci]
+  type: essay
+- title: "Jeff's rebuttal guide"
+  author: "Jeffrey Bigham"
+  url: "http://jeffreybigham.com/blog/2019/jeffs-rebuttal-guide.html"
+  topics: [reviewing]
+  stage: [mid]
+  field: [hci]
+  type: essay
+
+# ---------- Fellowships and funding ----------
+- title: "Fellowship tips"
+  author: "Philip Guo"
+  url: "http://www.pgbovine.net/fellowship-tips.htm"
+  topics: [funding]
+  stage: [prospective, early]
+  field: [cs]
+  type: essay
+  featured: true
+- title: "Guide to applying to US science PhD programs and fellowships"
+  author: "DJ Strouse"
+  url: "http://djstrouse.com/guide-to-applying-to-us-science-phd-programs-and-fellowships/"
+  topics: [funding, choosing]
+  stage: [prospective, early]
+  field: [general]
+  type: essay
+- title: "NSF Fellowship links and example applications"
+  author: "Alex Lang"
+  url: "https://www.alexhunterlang.com/nsf-fellowship"
+  topics: [funding]
+  stage: [prospective, early]
+  field: [general]
+  type: collection
+- title: "Extensive collection of NSF GRFP essays"
+  author: "Alex Lang"
+  url: "https://docs.google.com/spreadsheets/d/1xoezGhbtcpg3BvNdag2F5dTQM-Xl2EELUgAfG1eUg0s/edit#gid=0"
+  topics: [funding]
+  stage: [prospective, early]
+  field: [general]
+  type: collection
+- title: "NSF links"
+  author: "Jennifer Wang"
+  url: "http://www.jenniferwang.org/nsf.html"
+  topics: [funding]
+  stage: [prospective, early]
+  field: [general]
+  type: collection
+- title: "Tips for the NSF GRFP application"
+  author: "URI Graduate Writing Center"
+  url: "https://web.uri.edu/graduate-writing-center/tips-for-the-nsf-grfp-application/"
+  topics: [funding]
+  stage: [prospective, early]
+  field: [general]
+  type: essay
+- title: "NSF GRFP tips"
+  author: "Tara Safavi"
+  url: "https://tsafavi.github.io/nsf-grfp.html"
+  topics: [funding]
+  stage: [prospective, early]
+  field: [cs]
+  type: essay
+- title: "Advice for applying to the NSF GRFP"
+  author: "Christine Liu"
+  url: "http://www.christineliuart.com/writing/2018/8/31/advice-for-applying-to-the-nsf-grfp"
+  topics: [funding]
+  stage: [prospective, early]
+  field: [general]
+  type: essay
+
+# ---------- Generative AI ----------
+- title: "AI-Native PhD Students"
+  author: "Eytan Adar"
+  url: "https://eytanadar.medium.com/ai-native-phd-students-f9f6eebc1f91"
+  topics: [ai]
+  stage: [any]
+  field: [hci]
+  type: essay
+  featured: true
+- title: "Ethical Costs and Epistemic Risks of LLMs"
+  author: "Reading list"
+  url: "https://docs.google.com/document/d/1Fv9TDqghKOQAMUyLNdxUI-eaQIWc2QAuTx0bSJsc-yU/edit?tab=t.0#heading=h.xhqegzmlpvuq"
+  topics: [ai]
+  stage: [any]
+  field: [general]
+  type: collection
+
+# ---------- Careers ----------
+- title: "Advice for New PhD Students: Your Research Career is a Long Game"
+  author: "Casey Fiesler"
+  url: "https://cfiesler.medium.com/advice-for-new-phd-students-your-research-career-is-a-long-game-4721abbd80ac"
+  topics: [careers, starting-out]
+  stage: [early]
+  field: [hci]
+  type: essay
+  featured: true
+- title: "The Shape of Your PhD"
+  author: "Sauvik Das"
+  url: "https://sauvik-das.medium.com/the-shape-of-your-ph-d-426975399d88"
+  topics: [careers, research]
+  stage: [any]
+  field: [hci]
+  type: essay
+- title: "The Academic Job Search: It's Not You, It's Them"
+  author: "Casey Fiesler"
+  url: "https://cfiesler.medium.com/the-academic-job-search-its-not-you-it-s-them-41d3f4d47735"
+  topics: [careers]
+  stage: [late]
+  field: [hci]
+  type: essay
+- title: "Ph.D. students must break away from undergraduate mentality"
+  author: "Jason Hong (CACM)"
+  url: "https://cacm.acm.org/magazines/2013/7/165494-ph-d-students-must-break-away-from-undergraduate-mentality/fulltext"
+  topics: [careers, starting-out]
+  stage: [early]
+  field: [cs]
+  type: essay
+- title: "Advice for early-stage Ph.D. students"
+  author: "Philip Guo"
+  url: "https://pg.ucsd.edu/early-stage-PhD-advice.htm"
+  topics: [careers, starting-out, research]
+  stage: [early]
+  field: [cs, hci]
+  type: essay
+- title: "Tips for Computer Science Faculty Applications"
+  author: "Yisong Yue"
+  url: "https://yisongyue.medium.com/checklist-of-tips-for-computer-science-faculty-applications-9fd2480649cc"
+  topics: [careers]
+  stage: [late]
+  field: [cs]
+  type: essay
+- title: "The academic job search for computer scientists in 10 questions"
+  author: "Nicolas Papernot and Elissa Redmiles"
+  url: "https://docs.google.com/document/u/1/d/e/2PACX-1vSeOnC_QdaJVc3OuuMfDHVlk3QotUxvghytRFaDsrdA0uovD5axQjp8kJCM4Evu1cCf9Hg_u_Stabu1/pub"
+  topics: [careers]
+  stage: [late]
+  field: [cs, hci]
+  type: essay
+- title: "Computer science graduate job and interview guide"
+  author: "Weimer, Le Goues, Fry, Leach, Huang, and Angstadt"
+  url: "https://csguides.github.io/grad-job-guide/"
+  topics: [careers]
+  stage: [late]
+  field: [cs]
+  type: collection
+- title: "Interview questions for computer science faculty jobs"
+  author: "csfaculty.github.io"
+  url: "https://csfaculty.github.io/"
+  topics: [careers]
+  stage: [late]
+  field: [cs]
+  type: collection
+- title: "Getting an academic job"
+  author: "Michael Ernst"
+  url: "https://homes.cs.washington.edu/~mernst/advice/academic-job.html"
+  topics: [careers]
+  stage: [late]
+  field: [cs]
+  type: essay
+- title: "Academic job search advice"
+  author: "Matt Might"
+  url: "http://matt.might.net/articles/advice-for-academic-job-hunt/"
+  topics: [careers]
+  stage: [late]
+  field: [cs]
+  type: essay
+- title: "How to ask for a letter of recommendation"
+  author: "Gautam Kamath"
+  url: "https://kamathematics.wordpress.com/2021/08/18/how-to-ask-for-a-letter-of-recommendation/"
+  topics: [careers, choosing]
+  stage: [any]
+  field: [cs]
+  type: essay
+- title: "The Last Lecture"
+  author: "Randy Pausch"
+  url: "https://www.youtube.com/watch?v=ji5_MqicxSo"
+  topics: [careers]
+  stage: [any]
+  field: [general]
+  type: video
+- title: "The Illustrated Guide to a Ph.D."
+  author: "Matt Might"
+  url: "https://matt.might.net/articles/phd-school-in-pictures/"
+  topics: [careers, starting-out]
+  stage: [any]
+  field: [general]
+  type: essay
+- title: "Matt Might's articles"
+  author: "Matt Might"
+  url: "https://matt.might.net/articles/"
+  topics: [careers, time-wellbeing]
+  stage: [any]
+  field: [cs]
+  type: collection
+- title: "Sauvik Das's blog"
+  author: "Sauvik Das"
+  url: "https://sauvik-das.medium.com/"
+  topics: [careers, writing]
+  stage: [any]
+  field: [hci]
+  type: collection
+- title: "Get a Life, PhD (blog)"
+  author: "Tanya Golash-Boza"
+  url: "https://getalifephd.blogspot.com/"
+  topics: [time-wellbeing, writing]
+  stage: [any]
+  field: [general, css]
+  type: collection
+- title: "Make a PhD Curriculum (aka Bucket List)"
+  author: "Template"
+  url: "https://docs.google.com/document/d/1odv3E1QuMM6AUL3TuRaWxvKsZq8V90v27hpsOji1C6o/edit?usp=sharing"
+  topics: [careers, advisor]
+  stage: [early]
+  field: [general]
+  type: template
+
+# ---------- Memoirs and fun reads ----------
+- title: "The Ph.D. Grind"
+  author: "Philip Guo"
+  url: "https://pg.ucsd.edu/PhD-memoir.htm"
+  topics: [careers]
+  stage: [any]
+  field: [cs]
+  type: memoir
+  note: "A classic."
+  featured: true
+- title: "The Calculus of Friendship"
+  author: "Steven Strogatz"
+  url: "https://press.princeton.edu/books/paperback/9780691150383/the-calculus-of-friendship"
+  topics: [careers]
+  stage: [any]
+  field: [general]
+  type: memoir
+- title: "The Worlds I See"
+  author: "Fei-Fei Li"
+  url: "https://us.macmillan.com/books/9781250897930/theworldsisee/"
+  topics: [careers]
+  stage: [any]
+  field: [cs]
+  type: memoir
+- title: "I Loved Graduate School"
+  author: "Peter Bailis"
+  url: "https://www.bailis.org/blog/i-loved-graduate-school/"
+  topics: [careers]
+  stage: [any]
+  field: [cs]
+  type: memoir
+- title: "What My PhD Was Like"
+  author: "Jean Yang"
+  url: "https://jxyzabc.blogspot.com/2016/02/my-phd-abridged.html"
+  topics: [careers]
+  stage: [any]
+  field: [cs]
+  type: memoir
+- title: "How to get a Ph.D. in computer science if you're me"
+  author: "Chris Martens"
+  url: "https://lambdamaphone.blogspot.com/2015/11/how-to-get-phd-in-computer-science-if.html"
+  topics: [careers]
+  stage: [any]
+  field: [cs]
+  type: memoir
+- title: "The N=1 Guide to Grad School"
+  author: "Adam Marcus"
+  url: "https://marcua.net/writing/gradschool-guide/"
+  topics: [careers]
+  stage: [any]
+  field: [cs]
+  type: memoir
+- title: "Farewell to MIT"
+  author: "Evan Jones"
+  url: "https://www.evanjones.ca/farewell-mit.html"
+  topics: [careers]
+  stage: [any]
+  field: [cs]
+  type: memoir
+- title: "So long, and thanks for the Ph.D."
+  author: "Ronald T. Azuma"
+  url: "https://www.cs.unc.edu/~azuma/hitch4.html"
+  topics: [careers, time-wellbeing]
+  stage: [any]
+  field: [cs]
+  type: memoir

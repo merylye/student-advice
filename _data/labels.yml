@@ -1,0 +1,21 @@
+stage:
+  prospective: prospective / undergrad
+  early: early PhD
+  mid: mid PhD
+  late: late PhD / job market
+  any: any stage
+field:
+  general: general
+  cs: CS
+  hci: HCI
+  css: CSS / societal computing
+type:
+  essay: essays and blog posts
+  collection: collections
+  template: templates and tools
+  paper: papers and chapters
+  slides: slides and talks
+  video: videos
+  book: books
+  memoir: memoirs and fun reads
+type_order: [template, essay, collection, paper, slides, video, book, memoir]
