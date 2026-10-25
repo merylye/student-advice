@@ -101,8 +101,8 @@ li > strong:first-child { font-weight: 700; }
   display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 12px;
   margin-bottom: 12px;
 }
-.group .tile { min-height: 0; padding: 18px 22px; justify-content: flex-start; gap: 6px; }
-.group .tile-title { font-size: 21px; }
+.group .tile { min-height: 96px; padding: 20px 24px; justify-content: center; }
+.group .tile-title { font-size: 22px; }
 .group .tile-blurb { font-size: 14.5px; }
 .group:last-child { margin-bottom: 0; }
 .group-head { display: flex; flex-direction: column; justify-content: flex-end; padding: 8px 8px 8px 0; }

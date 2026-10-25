@@ -24,7 +24,6 @@ title: Advice for Students
       {%- for t in ts %}
       <a class="tile" style="background: {{ g.color }}" href="{{ '/topics/' | append: t.slug | append: '/' | relative_url }}">
         <span class="tile-title">{{ t.title }}</span>
-        <span class="tile-blurb">{{ t.blurb }}</span>
       </a>
       {%- endfor %}
     </div>
