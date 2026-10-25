@@ -46,7 +46,6 @@ For example, Gilbert and Karahalios (CHI 2009) asked: "The existing literature s
 - **Test a question against explicit criteria.** Is it interesting, theoretically sound, important, novel, and informative under every plausible outcome ([Ko](https://faculty.washington.edu/ajko/papers/Ko2019StudyDesign.pdf))? Does it fill a gap, extend prior work, or address flaws in current solutions ([Ellis and Levy](http://inform.nu/Articles/Vol11/ISJv11p017-033Ellis486.pdf))?
 - **Write the argument for your question as claims with evidence.** A short chain of claims, each backed by sources, is quick to revise and easy to get feedback on. Expect readers to ask "says who?" and "based on what?" ([Ko](https://faculty.washington.edu/ajko/papers/Ko2019StudyDesign.pdf)).
 - **Derive questions in order.** Topic leads to problem, problem to goals, goals to specific answerable questions, and questions to method ([Ellis and Levy](http://inform.nu/Articles/Vol11/ISJv11p017-033Ellis486.pdf)).
-- **Keep several explanations in play.** Seek multiple explanations for a relation, and track evidence that contradicts your theory ([McGuire](http://www2.psych.ubc.ca/~schaller/528Readings/McGuire1997.pdf); [Nielsen](https://michaelnielsen.org/blog/principles-of-effective-research/)).
 - **Generalize from small observations.** Pursue a surprising small finding if it may belong to a larger space, and solve problems as instances of a class ([Qian](https://medium.com/digital-diplomacy/how-to-look-for-ideas-in-computer-science-research-7a3fa6f4696f); [Hamming](https://www.cs.princeton.edu/~jrex/teaching/spring2005/fft/hamming.html)).
 
 William McGuire's [49 heuristics for generating hypotheses](http://www2.psych.ubc.ca/~schaller/528Readings/McGuire1997.pdf) fall into five groups:
@@ -103,7 +102,6 @@ More advice on reading:
 - **Identify the key people and venues.** Notice which authors recur, check their websites, and browse recent proceedings of the top venues. Ask senior people for their favorite papers ([Keshav](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf); [Kung](https://www.eecs.harvard.edu/htk/phdadvice/)).
 - **Use existing guides.** Surveys, syllabi, tutorials, textbook chapters, and dissertation literature reviews save time. Eisner suggests reading later explanations of an idea before its original paper ([Eisner](https://www.cs.jhu.edu/~jason/advice/how-to-read-a-paper.html)).
 - **Keep a searchable record of what you read**, such as a notes file with a citation at the top of each entry, or a spreadsheet with one row per source and columns for conclusions and your reactions ([Eisner](https://www.cs.jhu.edu/~jason/advice/how-to-read-a-paper.html); [A Lawn Unto Herself](https://alawuntoherself.com/2016/05/20/how-i-use-excel-to-manage-my-literature-review/)). It should support synthesis, not only storage. Write down each paper's key contribution to you, and share the list (with your keywords) with your advisor so they can spot blind spots.
-- **Don't use LLMs to find references.** They make up literature, favor work that is popular in the press, and misattribute credit. They can help summarize papers, label content, or get past writer's block, but check everything.
 
 ## Designing studies
 
@@ -135,10 +133,6 @@ Identify your core assumption, then design the smallest, cheapest test that woul
 
 - **Seek feedback and critics.** Hold project reviews with outsiders and avoid working in isolation ([Patterson](https://people.eecs.berkeley.edu/~pattrsn/talks/BadCareer.pdf); [Kung](https://www.eecs.harvard.edu/htk/phdadvice/)).
 - **Surround yourself with stimulating people.** Talk regularly with labmates, attend reading groups, and start one if none exists ([Hamming](https://www.cs.princeton.edu/~jrex/teaching/spring2005/fft/hamming.html); [Nielsen](https://michaelnielsen.org/blog/principles-of-effective-research/)).
-- **Take responsibility.** Don't make excuses, track how you spend your time, and know your faults ([Hamming](https://www.cs.princeton.edu/~jrex/teaching/spring2005/fft/hamming.html); [Nielsen](https://michaelnielsen.org/blog/principles-of-effective-research/)).
-- **Commit and keep at it.** Sustained, well-directed effort compounds ([Hamming](https://www.cs.princeton.edu/~jrex/teaching/spring2005/fft/hamming.html)).
 - **Write down a vision and build distinctive skills.** Decide what kind of researcher you want to become and build a combination of abilities few others have ([Nielsen](https://michaelnielsen.org/blog/principles-of-effective-research/)).
-- **Protect hard problems from all-or-nothing outcomes.** Keep publishing smaller work alongside a hard problem ([Nielsen](https://michaelnielsen.org/blog/principles-of-effective-research/)).
-- **Explain why the problem matters before the details**, and practice talks and tough questions ([Hamming](https://www.cs.princeton.edu/~jrex/teaching/spring2005/fft/hamming.html); [Patterson](https://people.eecs.berkeley.edu/~pattrsn/talks/BadCareer.pdf)).
 - **Handling conflict.** Hamming advises picking your battles and presenting accomplished facts instead of asking permission. Nielsen advises addressing conflicts directly and early, after preparing for the conversation.
 

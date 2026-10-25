@@ -25,7 +25,6 @@ topic: funding
 - **Read the program solicitation first.** Formatting errors can get an application rejected without review. Keep the instructions beside your draft as you edit ([Safavi](https://tsafavi.github.io/nsf-grfp.html); [Liu](http://www.christineliuart.com/writing/2018/8/31/advice-for-applying-to-the-nsf-grfp)).
 - **Address Intellectual Merit and Broader Impacts explicitly**, with headers for both in each essay ([Safavi](https://tsafavi.github.io/nsf-grfp.html); [Lang](https://www.alexhunterlang.com/nsf-fellowship); [Liu](http://www.christineliuart.com/writing/2018/8/31/advice-for-applying-to-the-nsf-grfp)).
 - **Make Broader Impacts concrete and personal.** Describe specific outreach, teaching, mentoring, or public communication and your role in it. Every guide treats this as central ([Strouse](http://djstrouse.com/guide-to-applying-to-us-science-phd-programs-and-fellowships/); [URI Graduate Writing Center](https://web.uri.edu/graduate-writing-center/tips-for-the-nsf-grfp-application/); [Safavi](https://tsafavi.github.io/nsf-grfp.html); [Liu](http://www.christineliuart.com/writing/2018/8/31/advice-for-applying-to-the-nsf-grfp)).
-- **Back claims with evidence:** publications, presentations, awards, and preliminary data ([Safavi](https://tsafavi.github.io/nsf-grfp.html); [URI](https://web.uri.edu/graduate-writing-center/tips-for-the-nsf-grfp-application/)).
 
 ## The research proposal
 
@@ -39,12 +38,6 @@ topic: funding
 - **Tell a story with evidence.** Use concrete examples instead of adjectives about yourself, organize around a theme, and avoid clichéd openings ([Liu](http://www.christineliuart.com/writing/2018/8/31/advice-for-applying-to-the-nsf-grfp); [URI](https://web.uri.edu/graduate-writing-center/tips-for-the-nsf-grfp-application/)).
 - **Don't undersell yourself.** Bold key results, awards, and contributions for busy reviewers, and use clear topic sentences ([Safavi](https://tsafavi.github.io/nsf-grfp.html); [Liu](http://www.christineliuart.com/writing/2018/8/31/advice-for-applying-to-the-nsf-grfp)).
 - **How much research to include?** URI says the personal statement should focus on you, with research mentioned to show qualifications. Strouse and Safavi put more weight on research.
-
-## Letters, feedback, and examples
-
-- **Pick letter writers who know you well.** A strong letter from a lesser-known professor beats a mediocre one from a famous one ([Strouse](http://djstrouse.com/guide-to-applying-to-us-science-phd-programs-and-fellowships/); [Lang](https://www.alexhunterlang.com/nsf-fellowship)).
-- **Get many rounds of feedback** from past winners, professors who have written NSF proposals, writing centers, and peers. Expect a weak first draft ([Liu](http://www.christineliuart.com/writing/2018/8/31/advice-for-applying-to-the-nsf-grfp); [Safavi](https://tsafavi.github.io/nsf-grfp.html)).
-- **Read past winning essays.** [Alex Lang's collection](https://www.alexhunterlang.com/nsf-fellowship) is the standard place to start, and several examples are in the library below.
 
 ## Funding and finances
 

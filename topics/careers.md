@@ -9,32 +9,17 @@ topic: careers
 - **Year 4: focus.** Spend your time on what relates to your research and goals.
 - **Years 5 and 6: finish.** Focus on the thesis and your career, and say no to almost everything else.
 
-## Research before coursework
-
-- **Grades matter little.** Pass your classes and spend your energy on research ([Might](https://matt.might.net/articles/ways-to-fail-a-phd/); [Guo](https://pg.ucsd.edu/early-stage-PhD-advice.htm); [Azuma](https://www.cs.unc.edu/~azuma/hitch4.html)).
-- **Start research instead of endlessly preparing.** Learning should serve your research ([Might](https://matt.might.net/articles/ways-to-fail-a-phd/)).
-- **Read with the long term in mind.** Track every paper with notes on why it matters ([Fiesler](https://cfiesler.medium.com/advice-for-new-phd-students-your-research-career-is-a-long-game-4721abbd80ac)), and read recent well-regarded papers to build taste ([Guo](https://pg.ucsd.edu/early-stage-PhD-advice.htm)).
-- **Know your reason for being there.** Without a strong reason for the PhD, a master's may be the better choice ([Azuma](https://www.cs.unc.edu/~azuma/hitch4.html)).
-
 ## Expect it to be hard
 
-- **Disillusionment is normal.** Most students hit a low point when ideas fail and rejections pile up ([Das](https://sauvik-das.medium.com/the-shape-of-your-ph-d-426975399d88)). Research is harder than undergraduate work, technically and emotionally ([Guo](https://pg.ucsd.edu/early-stage-PhD-advice.htm)).
 - **Volume closes the gap between taste and skill.** Your early work will disappoint you, and doing a lot of it is how it improves ([Das](https://sauvik-das.medium.com/the-shape-of-your-ph-d-426975399d88); [Guo](https://pg.ucsd.edu/early-stage-PhD-advice.htm)).
 - **Drop perfectionism.** "Good enough" beats "perfect" ([Might](https://matt.might.net/articles/ways-to-fail-a-phd/)). Write rough first drafts and prototypes ([Marcus](https://marcua.net/writing/gradschool-guide/); [Guo](https://pg.ucsd.edu/early-stage-PhD-advice.htm)). Jean Yang learned that a paper can do much less than her first one and still be publishable ([Yang](https://jxyzabc.blogspot.com/2016/02/my-phd-abridged.html)).
-- **Scope the dissertation.** Aim for a manageable contribution, keep it narrow, and save other ideas for later ([Might](https://matt.might.net/articles/ways-to-fail-a-phd/); [Fiesler](https://cfiesler.medium.com/advice-for-new-phd-students-your-research-career-is-a-long-game-4721abbd80ac)). Limit yourself to about two active projects ([Marcus](https://marcua.net/writing/gradschool-guide/)).
+- **Scope the dissertation.** Aim for a manageable contribution, keep it narrow, and save other ideas for later ([Might](https://matt.might.net/articles/ways-to-fail-a-phd/); [Fiesler](https://cfiesler.medium.com/advice-for-new-phd-students-your-research-career-is-a-long-game-4721abbd80ac)).
 - **Persist before switching.** Give a project three to nine months before switching, and switch if it has stalled for a year ([Guo](https://pg.ucsd.edu/early-stage-PhD-advice.htm)).
-- **Don't work alone.** Evan Jones's main regret was working by himself ([Jones](https://www.evanjones.ca/farewell-mit.html)). Collaboration gives accountability and momentum ([Marcus](https://marcua.net/writing/gradschool-guide/)).
 - **How many hours?** Matt Might says a PhD doesn't fit a 9-to-5 schedule. Philip Guo says to treat it as a job with a fixed schedule and evenings off. Fiesler and Marcus warn against working every waking hour.
 
 ## Research taste
 
 Early on, it's natural to judge your work by other people's opinions: your advisor, reviewers, the audience at a talk. Over time, develop your own sense of what good research is. Different communities value different kinds of work, so one community's judgment doesn't define the value of yours.
-
-## Impact and visibility
-
-- **Impact outlasts paper counts.** People remember the kind of work you do ([Fiesler](https://cfiesler.medium.com/advice-for-new-phd-students-your-research-career-is-a-long-game-4721abbd80ac)), and fewer high-impact papers beat many low-impact ones ([Ernst](https://homes.cs.washington.edu/~mernst/advice/academic-job.html)).
-- **Make your work visible.** Keep a simple website with your CV and papers, and blog about your work ([Guo](https://pg.ucsd.edu/early-stage-PhD-advice.htm); [Fiesler](https://cfiesler.medium.com/advice-for-new-phd-students-your-research-career-is-a-long-game-4721abbd80ac); [Marcus](https://marcua.net/writing/gradschool-guide/)).
-- **Build your network early.** Go to conferences and workshops from the start ([Marcus](https://marcua.net/writing/gradschool-guide/); [Azuma](https://www.cs.unc.edu/~azuma/hitch4.html)), and give talks at nearby universities when you travel ([Ernst](https://homes.cs.washington.edu/~mernst/advice/academic-job.html)).
 
 ## Academia or industry
 

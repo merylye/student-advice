@@ -7,7 +7,6 @@ topic: starting-out
 
 - **Be proactive.** Don't take it personally if faculty/PhD students aren't approaching you. Initiate contact, come to office hours, and ask for specific things. It is much easier for a mentor to respond to a specific request than to a vague ask for mentorship.
 - **Find multiple mentors.** Rather than searching for one perfect mentor, build a team where each person provides something you need. Mentors can be faculty, staff, or other students.
-- **Read your mentor's papers first.** Before you meet, read two or three of their recent papers and think about why the work matters. It gives you something specific to talk about and shows you've done the work.
 
 ## Getting your first research position
 
@@ -21,21 +20,13 @@ topic: starting-out
 
 - **Research uses different skills than coursework.** You choose the problems, they may have no known answer, and you may end up knowing more than anyone about your topic. Grades are a weak signal of research ability ([Hewitt](https://www.cs.columbia.edu/~johnhew/undergrad-researchers.html); [CRA](https://conquer.cra.org/wp-content/uploads/2021/11/ThePhDinComputing_CRAEWebinar.pdf)). Most of your early attempts won't work. The skill you are building is figuring out what to try next.
 - **Expect to spend time confused.** Not knowing what you don't know is part of starting out. Asking questions early saves weeks of going in the wrong direction.
-- **Treat meetings as a chance to get help.** Bring the problems you are stuck on, along with the things that went well.
+- **Write to think and to learn.** Writing extends your reasoning, and writing down what you read helps you learn hard material ([Blum](https://www.cs.cmu.edu/~mblum/research/pdf/grad.html)).
 
 ## The hidden curriculum
 
 - **Expect unwritten rules.** Much of how research works, from authorship norms to how often to check in, is never written down, and not knowing these norms can feel like not belonging. First-generation students and others outside academic networks are often less comfortable asking ([Calarco](https://scatter.wordpress.com/2018/07/24/guest-post-grad-schools-hidden-curriculum/); [Nakai and Guo](https://pg.ucsd.edu/publications/hidden-curriculum-undergrad-mentoring_ICER-2023.pdf)).
 - **Ask anyway.** Assume someone can teach you any new task, look for that information before struggling alone, and test whether professors will answer, since most will ([Calarco](https://scatter.wordpress.com/2018/07/24/guest-post-grad-schools-hidden-curriculum/)). A good first question for a senior student in the lab: what do you wish you had known when you joined?
-- **Cover different needs with different mentors:** topic, methods, writing, and life advice. Include peers, postdocs, and people a few years ahead ([Calarco](https://scatter.wordpress.com/2018/07/24/guest-post-grad-schools-hidden-curriculum/); [Krishnamurthi](https://parentheticallyspeaking.org/articles/us-cs-phd-faq/)).
 - **Pass it on.** Share what you learn with newer students. Peer-written guides handed out in intro courses reach students who are not already well connected ([Calarco](https://scatter.wordpress.com/2018/07/24/guest-post-grad-schools-hidden-curriculum/); [Nakai and Guo](https://pg.ucsd.edu/publications/hidden-curriculum-undergrad-mentoring_ICER-2023.pdf)).
-
-## Habits from the start
-
-- **Write to think and to learn.** Writing extends your reasoning, and writing down what you read helps you learn hard material ([Blum](https://www.cs.cmu.edu/~mblum/research/pdf/grad.html)).
-- **Learn from failures.** Study published solutions to problems you missed, and try to disprove what you are trying to prove ([Blum](https://www.cs.cmu.edu/~mblum/research/pdf/grad.html)).
-- **Pick lasting problems you enjoy.** Choose work you will keep thinking about, and avoid chasing trends that may fade before you finish ([Blum](https://www.cs.cmu.edu/~mblum/research/pdf/grad.html); [Krishnamurthi](https://parentheticallyspeaking.org/articles/us-cs-phd-faq/)).
-- **Get feedback from more than your advisor.** Show your advisor you are reading and thinking, and ask peers to read your writing ([Blum](https://www.cs.cmu.edu/~mblum/research/pdf/grad.html); [CRA](https://conquer.cra.org/wp-content/uploads/2021/11/ThePhDinComputing_CRAEWebinar.pdf)).
 
 ## Evaluating good research
 

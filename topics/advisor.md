@@ -22,7 +22,6 @@ More on expectations:
 - **Ask what is expected of you each year.** Written expectations keep you from overworking toward impossible goals or underestimating the effort needed ([Vinitsky](http://eugenevinitsky.github.io/posts/expectation_setting.html)).
 - **Raise trouble early.** If you're falling behind, talk with your advisor so you can find the cause together ([Vinitsky](http://eugenevinitsky.github.io/posts/expectation_setting.html)). If you're stuck for about a week, ask your advisor, a senior student, or a postdoc ([Guo](https://pg.ucsd.edu/early-stage-PhD-advice.htm)), and say "I'm overwhelmed" before a deadline turns into a crisis ([Marcus](https://marcua.net/writing/gradschool-guide/)).
 - **Ask how much of each paper you should draft yourself** ([Guo](https://pg.ucsd.edu/early-stage-PhD-advice.htm)).
-- **With two advisors, settle the terms up front:** each advisor's role, who covers long-term funding, how authorship works, and who resolves disagreements. You shouldn't have to mediate between them ([Ko](https://faculty.washington.edu/ajko/faq)). Having no clear lead advisor is a common way students fall through the cracks ([Guo](https://pg.ucsd.edu/early-stage-PhD-advice.htm)).
 
 ## Running good meetings
 
@@ -41,24 +40,22 @@ More on expectations:
 
 ## Taking ownership
 
-- **Expect to take over direction.** Early on, your advisor directs the work; later you choose topics and start papers yourself ([Might](https://matt.might.net/articles/ways-to-fail-a-phd/)). By year three, you set the direction ([Vinitsky](http://eugenevinitsky.github.io/posts/expectation_setting.html)).
 - **Drive your own projects.** Your advisor isn't a day-to-day boss, so create your own deadlines and accountability, such as lab talks and scheduled one-on-ones ([Guo](https://pg.ucsd.edu/early-stage-PhD-advice.htm)).
 - **Contribute your own ideas.** Students want room to propose ideas beyond grunt work ([APA, Dear Advisor](https://www.apa.org/monitor/2012/07-08/advisor)). Chris Martens found that moving to a problem she devised herself was a turning point ([Martens](https://lambdamaphone.blogspot.com/2015/11/how-to-get-phd-in-computer-science-if.html)).
-- **Make up for gaps.** No advisor is perfect, so take initiative where yours falls short ([Guo](https://pg.ucsd.edu/early-stage-PhD-advice.htm)), and find other mentors, including senior students and faculty elsewhere ([Fiesler](https://cfiesler.medium.com/advice-for-new-phd-students-your-research-career-is-a-long-game-4721abbd80ac)).
-- **Go ahead without your advisor's buy-in?** Matt Might says a later-stage student should start papers "even against the advisor's wishes." The APA's advisees instead ask advisors to be more open to student ideas.
+- **Make up for gaps.** No advisor is perfect, so take initiative where yours falls short ([Guo](https://pg.ucsd.edu/early-stage-PhD-advice.htm)).
 
 ## The professional side
 
-- **Your advisor is also your boss.** Keep personal matters mostly out of the relationship ([APA, Dear Advisee](https://www.apa.org/monitor/2012/07-08/advisee)), and as a funded RA, expect to deliver results ([Azuma](https://www.cs.unc.edu/~azuma/hitch4.html)).
+- **Keep it professional.** Keep personal matters mostly out of the relationship ([APA, Dear Advisee](https://www.apa.org/monitor/2012/07-08/advisee)), and as a funded RA, expect to deliver results ([Azuma](https://www.cs.unc.edu/~azuma/hitch4.html)).
 - **Choose your committee carefully and listen to it.** Avoid members who are in conflict with your advisor ([APA, Dear Advisee](https://www.apa.org/monitor/2012/07-08/advisee)), and keep them informed, since they remember the advice they gave ([Might](https://matt.might.net/articles/ways-to-fail-a-phd/)).
 - **Be good to staff and peers.** Department staff can help with pay, equipment, and paperwork ([APA, Dear Advisee](https://www.apa.org/monitor/2012/07-08/advisee)). Peers can give feedback on papers and tips on working with particular faculty ([Rexford](https://blog.citp.princeton.edu/2010/09/27/advice-new-graduate-students/)).
-- **Know your advisor's situation.** Untenured advisors are often more hands-on and need your work for their tenure case ([Guo](https://pg.ucsd.edu/early-stage-PhD-advice.htm)).
 
 ## Asking for recommendation letters
 
 - **Ask people who know your research.** Research-based letters count much more than letters from course instructors ([Kamath](https://kamathematics.wordpress.com/2021/08/18/how-to-ask-for-a-letter-of-recommendation/); [Ko](https://faculty.washington.edu/ajko/faq)).
 - **Give plenty of lead time.** Ko asks for at least two weeks and prefers a month; Kamath asks for at least six weeks ([Kamath](https://kamathematics.wordpress.com/2021/08/18/how-to-ask-for-a-letter-of-recommendation/); [Ko](https://faculty.washington.edu/ajko/faq)). Earlier is safer.
-- **Make the writer's job easy.** Send a spreadsheet of programs and deadlines, your statement, and your CV, and waive your right to see the letter ([Kamath](https://kamathematics.wordpress.com/2021/08/18/how-to-ask-for-a-letter-of-recommendation/); [Ernst](https://homes.cs.washington.edu/~mernst/advice/academic-job.html)).
+- **Ask whether they can write a *strong* letter.** This gives the writer a graceful way to decline ([Harchol-Balter](https://www.cs.cmu.edu/~harchol/gradschooltalk.pdf); [Might](https://matt.might.net/articles/how-to-apply-and-get-in-to-graduate-school-in-science-mathematics-engineering-or-computer-science/)).
+- **Make the writer's job easy.** Send a spreadsheet of programs and deadlines, your statement, CV, and transcript, and a list of concrete work you did with them. Give an early deadline, send reminders, thank them, and waive your right to see the letter ([Kamath](https://kamathematics.wordpress.com/2021/08/18/how-to-ask-for-a-letter-of-recommendation/); [Ernst](https://homes.cs.washington.edu/~mernst/advice/academic-job.html); [Sap](https://maartensap.com/notes/01-apply-grad-school.html); [Sherry](https://people.eecs.berkeley.edu/~justine/advice.pdf)).
 - **Draft your own letter?** Ernst suggests offering to help. Kamath calls it unacceptable for writers to have applicants draft letters they sign, and advises being positive and specific if you're asked to.
 
 ## Methods and feedback

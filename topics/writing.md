@@ -20,9 +20,6 @@ Jacob Wobbrock's [annotated CHI paper template](https://faculty.washington.edu/w
 ## Structuring the paper
 
 - **Outline before you draft.** An outline is cheaper to change than paragraphs and shows you the flow ([Das](https://medium.com/gt-ups-course/resources-for-academic-writing-in-hci-82a27249cb5f); [Durand](http://people.csail.mit.edu/fredo/PUBLI/writing.pdf); [Vetterli](http://mri.beckman.illinois.edu/resources/good_paper.pdf)). Plan your figures at the outline stage too ([Durand](http://people.csail.mit.edu/fredo/PUBLI/writing.pdf)).
-- **Invest in the front matter.** Most readers see only the title, abstract, and introduction ([Vetterli](http://mri.beckman.illinois.edu/resources/good_paper.pdf)). The abstract should stand on its own and report findings with numbers ([Wobbrock](https://faculty.washington.edu/wobbrock/pubs/Wobbrock-2015.pdf); [Durand](http://people.csail.mit.edu/fredo/PUBLI/writing.pdf)).
-- **Make the introduction state your contributions** as an explicit list ([Wobbrock](https://faculty.washington.edu/wobbrock/pubs/Wobbrock-2015.pdf); [Durand](http://people.csail.mit.edu/fredo/PUBLI/writing.pdf)).
-- **Organize related work by theme.** Classify and compare prior work instead of listing who did what, and say how you differ or build on it without attacking it ([Wobbrock](https://faculty.washington.edu/wobbrock/pubs/Wobbrock-2015.pdf); [Durand](http://people.csail.mit.edu/fredo/PUBLI/writing.pdf); [Vetterli](http://mri.beckman.illinois.edu/resources/good_paper.pdf)).
 - **Titles: catchy or informative?** Wobbrock and Vetterli accept a catchy title as long as it isn't cute. Durand prefers informative titles, after a quotable but vague title sent one of his papers to the wrong reviewers.
 
 ## Telling the story
@@ -31,7 +28,7 @@ Jacob Wobbrock's [annotated CHI paper template](https://faculty.washington.edu/w
 - **State the problem precisely.** Set up a clear gap or a method that fails ([Clemens](https://blogs.lse.ac.uk/impactofsocialsciences/2018/05/21/writing-a-page-turner-how-to-tell-a-story-in-your-scientific-paper/)).
 - **Order by logic, not chronology.** Don't narrate the project in the order you did it ([Clemens](https://blogs.lse.ac.uk/impactofsocialsciences/2018/05/21/writing-a-page-turner-how-to-tell-a-story-in-your-scientific-paper/); [Vetterli](http://mri.beckman.illinois.edu/resources/good_paper.pdf)).
 - **Motivate each component.** Introduce each piece through the challenge it solves, and explain why you made each choice ([Durand](http://people.csail.mit.edu/fredo/PUBLI/writing.pdf)). Results should "make a point" ([Vetterli](http://mri.beckman.illinois.edu/resources/good_paper.pdf)).
-- **Don't over-claim.** It gets papers rejected ([Wobbrock](https://faculty.washington.edu/wobbrock/pubs/Wobbrock-2015.pdf); [Durand](http://people.csail.mit.edu/fredo/PUBLI/writing.pdf)). Report results plainly; a p = 0.43 is not "trending towards significance" ([Das](https://sauvik-das.medium.com/the-day-you-became-an-academic-writer-2706ae01b2d1)).
+- **Report results plainly.** A p = 0.43 is not "trending towards significance" ([Das](https://medium.com/gt-ups-course/resources-for-academic-writing-in-hci-82a27249cb5f)).
 - **Give the discussion room.** Discussions are often too short ([Clemens](https://blogs.lse.ac.uk/impactofsocialsciences/2018/05/21/writing-a-page-turner-how-to-tell-a-story-in-your-scientific-paper/)).
 
 ## Clarity for the reader
@@ -60,7 +57,6 @@ Jacob Wobbrock's [annotated CHI paper template](https://faculty.washington.edu/w
 - **Where to start?** Durand starts with the overview. Das outlines the introduction first but writes it last, and starts with the methods when stuck.
 - **Expect to rewrite.** Delete and redo sections, and let drafts sit before rereading ([Durand](http://people.csail.mit.edu/fredo/PUBLI/writing.pdf); [Vetterli](http://mri.beckman.illinois.edu/resources/good_paper.pdf)).
 - **Get outside readers.** Ask non-authors to read drafts, and read your work aloud. Early feedback should target scope and approach; later feedback should target exposition ([Durand](http://people.csail.mit.edu/fredo/PUBLI/writing.pdf)).
-- **Plan backward from the deadline.** An outline two months out, a full draft one month out, and a complete submission 24 hours early ([Durand](http://people.csail.mit.edu/fredo/PUBLI/writing.pdf)).
 
 ## Sharing your work publicly
 

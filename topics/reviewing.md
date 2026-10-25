@@ -49,6 +49,3 @@ Review a paper on your own, then discuss it in a small group as if you were the 
 - **Spend space where it counts.** Focus on undecided reviewers, and expect scores to move only a little ([Bigham](http://jeffreybigham.com/blog/2019/jeffs-rebuttal-guide.html)).
 - **Fix the paper too.** If a reviewer misunderstood, fix the writing that caused it, and make every promised change if accepted ([Elmqvist](https://sites.umiacs.umd.edu/elm/2016/11/19/writing-rebuttals/)).
 
-## Rejection
-
-Most good papers get rejected at least once. Different communities value different kinds of work, and developing your own sense of what good research is makes any one rejection matter less.
