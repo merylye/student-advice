@@ -98,9 +98,12 @@ li > strong:first-child { font-weight: 700; }
 }
 .pill:hover { color: var(--ink); box-shadow: inset 0 0 0 2px var(--ink); }
 .group {
-  display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 16px;
-  margin-bottom: 16px;
+  display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 12px;
+  margin-bottom: 12px;
 }
+.group .tile { min-height: 0; padding: 18px 22px; justify-content: flex-start; gap: 6px; }
+.group .tile-title { font-size: 21px; }
+.group .tile-blurb { font-size: 14.5px; }
 .group:last-child { margin-bottom: 0; }
 .group-head { display: flex; flex-direction: column; justify-content: flex-end; padding: 8px 8px 8px 0; }
 .group-head h2 { margin: 4px 0 6px; font-size: 34px; line-height: 1.05; }
@@ -186,6 +189,5 @@ select.chip { padding-right: 28px; }
   .sticker-wrap { padding: 8px 4px; }
   .reads { padding: 28px 20px; }
   .group-head h2 { font-size: 28px; }
-  .tile { min-height: 160px; }
   .topic-links { columns: 1; }
 }
