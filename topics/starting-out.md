@@ -3,11 +3,17 @@ title: Starting Out in Research
 topic: starting-out
 ---
 
+## What research is like
+
+- **Research uses different skills than coursework.** You choose the problems, they may have no known answer, and you may end up knowing more than anyone about your topic. Grades are a weak signal of research ability ([Hewitt](https://www.cs.columbia.edu/~johnhew/undergrad-researchers.html); [CRA](https://conquer.cra.org/wp-content/uploads/2021/11/ThePhDinComputing_CRAEWebinar.pdf)). Most of your early attempts won't work. The skill you are building is figuring out what to try next.
+- **Expect to spend time confused.** Not knowing what you don't know is part of starting out. Asking questions early saves weeks of going in the wrong direction.
+- **Write to think and to learn.** Writing extends your reasoning, and writing down what you read helps you learn hard material ([Blum](https://www.cs.cmu.edu/~mblum/research/pdf/grad.html)).
+
 ## Getting involved
 
 - **Be proactive.** Don't take it personally if faculty/PhD students aren't approaching you. Initiate contact, come to office hours, and ask for specific things. It is much easier for a mentor to respond to a specific request than to a vague ask for mentorship.
-- **Find multiple mentors.** Rather than searching for one perfect mentor, build a team where each person provides something you need. Mentors can be faculty, staff, or other students.
 - **Good mentors make all the difference.** A good mentor can foster a passion, and a bad mentor can kill an interest. Build your team of mentors deliberately, and when you're ready, become one for someone younger than you.
+- **Find multiple mentors.** Rather than searching for one perfect mentor, build a team where each person provides something you need. Mentors can be faculty, staff, or other students.
 
 ## Getting your first research position
 
@@ -16,12 +22,6 @@ topic: starting-out
 - **Apply for funded summer research.** Look into NSF REUs and your university's undergraduate research funding. Contact professors in late fall and by February, since deadlines cluster then ([Hewitt](https://www.cs.columbia.edu/~johnhew/undergrad-researchers.html); [Stanford CS](https://cs.stanford.edu/degrees/phd/PhD/GraduateSchoolAdvice.pdf)).
 - **Make time during the year.** Aim to work a few hours a week with a professor across a full academic year, and consider a lighter course load if you can still graduate on time ([Hewitt](https://www.cs.columbia.edu/~johnhew/undergrad-researchers.html)).
 - **Build a portfolio if you lack publications.** Projects, reimplementations, blog posts, and follow-up work on papers all count ([Krishnamurthi](https://parentheticallyspeaking.org/articles/us-cs-phd-faq/)). For computational social science, D-Lab's guide lists three steps: skills, a portfolio, and community ([D-Lab](https://dlab.berkeley.edu/news/introducing-three-step-guide-training-computational-social-science-students)).
-
-## What research is like
-
-- **Research uses different skills than coursework.** You choose the problems, they may have no known answer, and you may end up knowing more than anyone about your topic. Grades are a weak signal of research ability ([Hewitt](https://www.cs.columbia.edu/~johnhew/undergrad-researchers.html); [CRA](https://conquer.cra.org/wp-content/uploads/2021/11/ThePhDinComputing_CRAEWebinar.pdf)). Most of your early attempts won't work. The skill you are building is figuring out what to try next.
-- **Expect to spend time confused.** Not knowing what you don't know is part of starting out. Asking questions early saves weeks of going in the wrong direction.
-- **Write to think and to learn.** Writing extends your reasoning, and writing down what you read helps you learn hard material ([Blum](https://www.cs.cmu.edu/~mblum/research/pdf/grad.html)).
 
 ## The hidden curriculum
 

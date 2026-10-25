@@ -6,6 +6,10 @@
   group: start
   title: Choosing a Program and Advisor
   blurb: Applying to PhD programs, and evaluating programs, advisors, and co-advising arrangements.
+- slug: funding
+  group: start
+  title: Fellowships and Grants
+  blurb: Writing fellowship proposals and understanding PhD finances.
 - slug: advisor
   group: work
   title: Working with Your Advisor/Mentor
@@ -30,10 +34,6 @@
   group: share
   title: Reviewing and Publishing
   blurb: How peer review works, writing reviews, and responding to them.
-- slug: funding
-  group: long
-  title: Fellowships and Grants
-  blurb: Writing fellowship proposals and understanding PhD finances.
 - slug: ai
   group: long
   title: Using Generative AI

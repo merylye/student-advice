@@ -3,6 +3,13 @@ title: Fellowships and Grants
 topic: funding
 ---
 
+## Why and when to apply
+
+- **Fellowships give you freedom.** Funding that follows you frees you from TA duties and grant-specific work, and widens your choice of thesis topic ([Strouse](http://djstrouse.com/guide-to-applying-to-us-science-phd-programs-and-fellowships/)).
+- **Start at least two months before the deadline**, and update your CV before you write. The NSF GRFP deadline usually falls in October or November, earlier than most grad school deadlines ([Strouse](http://djstrouse.com/guide-to-applying-to-us-science-phd-programs-and-fellowships/); [Liu](http://www.christineliuart.com/writing/2018/8/31/advice-for-applying-to-the-nsf-grfp)). Check current dates.
+- **Know the options.** Major US fellowships include NSF GRFP, Ford, NDSEG, DOE CSGF, and Hertz ([Strouse](http://djstrouse.com/guide-to-applying-to-us-science-phd-programs-and-fellowships/)). Federal awards generally can't be combined.
+- **Check eligibility in the current program solicitation.** GRFP rules about who can apply and how many times have changed over the years, and older guides conflict.
+
 ## Writing a fellowship proposal
 
 - **Learn from successful proposals.** Read several and synthesize a template of the elements they share and what they do well.
@@ -19,13 +26,6 @@ topic: funding
 
 Write a paragraph about what drives your interest in research: an experience, a question you couldn't stop thinking about, or a problem you saw up close. Use it to look past your current topic or method and consider problems and approaches you haven't thought of, and to find a project that combines your interests with your advisor's. It also becomes the core of a fellowship personal statement.
 </div>
-
-## Why and when to apply
-
-- **Fellowships give you freedom.** Funding that follows you frees you from TA duties and grant-specific work, and widens your choice of thesis topic ([Strouse](http://djstrouse.com/guide-to-applying-to-us-science-phd-programs-and-fellowships/)).
-- **Start at least two months before the deadline**, and update your CV before you write. The NSF GRFP deadline usually falls in October or November, earlier than most grad school deadlines ([Strouse](http://djstrouse.com/guide-to-applying-to-us-science-phd-programs-and-fellowships/); [Liu](http://www.christineliuart.com/writing/2018/8/31/advice-for-applying-to-the-nsf-grfp)). Check current dates.
-- **Know the options.** Major US fellowships include NSF GRFP, Ford, NDSEG, DOE CSGF, and Hertz ([Strouse](http://djstrouse.com/guide-to-applying-to-us-science-phd-programs-and-fellowships/)). Federal awards generally can't be combined.
-- **Check eligibility in the current program solicitation.** GRFP rules about who can apply and how many times have changed over the years, and older guides conflict.
 
 ## Using the review criteria (NSF GRFP)
 
@@ -54,6 +54,15 @@ Write a paragraph about what drives your interest in research: an experience, a 
 
 - **Compare stipends against cost of living.** [PhD Stipends](https://www.phdstipends.com) collects thousands of self-reported stipends by school and department. Pair it with the [MIT Living Wage Calculator](https://livingwage.mit.edu) for the city. A 2022 analysis that combined the two found MIT's stipends fell around the 80th percentile once adjusted for cost of living, so a higher number on paper can mean less in practice ([Stipends analysis](https://web.mit.edu/julianst/www/phdstipends/stipends.html)).
 - **Self-reported data is noisy.** Treat these numbers as a starting point, and confirm the current stipend, summer funding, and fees with the program and its students during visits.
+
+### Money
+
+David Andersen's [advice on finances for CS PhD students](https://da-data.blogspot.com/2016/09/finances-for-cs-phd-students.html) (from 2016, so check current limits and figures):
+
+- **Spend less than your stipend**, and save most of any internship pay.
+- **Consider a Roth IRA.** Grad school is usually your lowest tax bracket, so after-tax retirement savings are a good deal. Check whether your school offers a Roth 403(b).
+- **Invest simply.** Use low-cost index or target-date funds, and avoid day-trading, market timing, and stock picking.
+- **Plan for transition costs.** Keep savings for moving and deposits after graduation, think hard before buying a home, and pay down high-interest debt.
 
 ### Conference travel
 

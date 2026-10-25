@@ -8,6 +8,7 @@ topic: writing
 Jacob Wobbrock's [annotated CHI paper template](https://faculty.washington.edu/wobbrock/pubs/Wobbrock-2015.pdf) explains what each section should do:
 
 - **Title.** Engaging without being cute.
+- **Titles: catchy or informative?** Wobbrock and Vetterli accept a catchy title as long as it isn't cute. Durand prefers informative titles, after a quotable but vague title sent one of his papers to the wrong reviewers.
 - **Abstract.** Describe the work, not the paper. Use at most one sentence of motivation, then what you did and what you found, with specific numbers, in one paragraph under 200 words.
 - **Introduction.** Five moves: the state of the world, the big "BUT" (a problem or opportunity), what you did, your key findings, and your one to three contributions. A gap in the literature is weak motivation on its own, and "more research is needed" should not be your main implication. "Over-claiming is a sure way to get your paper rejected."
 - **Related work.** Who did relevant work, what they found, and how your work differs. Group prior work by theme so it teaches the reader, and differentiate on question, method, technology, or result instead of claiming superiority.
@@ -17,10 +18,14 @@ Jacob Wobbrock's [annotated CHI paper template](https://faculty.washington.edu/w
 - **Discussion.** What the results mean, what surprised you, whether you met the introduction's promises, and what did or did not work, with an optional limitations paragraph.
 - **Future work and conclusion.** One or two big-picture next steps instead of a to-do list, then confirm you delivered what the introduction claimed.
 
-## Structuring the paper
+## Literature reviews and selling your ideas
 
-- **Outline before you draft.** An outline is cheaper to change than paragraphs and shows you the flow ([Das](https://medium.com/gt-ups-course/resources-for-academic-writing-in-hci-82a27249cb5f); [Durand](http://people.csail.mit.edu/fredo/PUBLI/writing.pdf); [Vetterli](http://mri.beckman.illinois.edu/resources/good_paper.pdf)). Plan your figures at the outline stage too ([Durand](http://people.csail.mit.edu/fredo/PUBLI/writing.pdf)).
-- **Titles: catchy or informative?** Wobbrock and Vetterli accept a catchy title as long as it isn't cute. Durand prefers informative titles, after a quotable but vague title sent one of his papers to the wrong reviewers.
+- **A literature review is an argument.** It is key to "selling" your research. Summarize what has been done, what has not been done, and what needs to be done, and link any research question or hypothesis clearly to the review.
+- **Don't try to cover everything.** Select the research most relevant to your paper and use it as evidence that your research is important and your findings relevant.
+- **Literature appears throughout a paper.** In the introduction it establishes potential impact; in data and methods it credits others and offers comparisons; in the discussion it shows how your work confirms or extends others'.
+- **Do four things with the literature:** summarize, synthesize, compare, and critique. By the end, you should be able to say what we know, what we don't know, what needs to be done, and how your research contributes.
+- **Write a core statement.** One or two sentences that describe the area, its connection to improving something, and the open question.
+- **Avoid common errors:** a review that isn't logically organized, doesn't relate the literature to your study, leaves out a major author or paper, reads like a series of disjointed summaries, or doesn't argue a point.
 
 ## Telling the story
 
@@ -48,17 +53,9 @@ Summarize a piece of work in two sentences: the state of the world *before* it, 
 - **Make figures self-contained.** Captions should make sense without the text, and figures should appear near where they're cited ([Durand](http://people.csail.mit.edu/fredo/PUBLI/writing.pdf); [Vetterli](http://mri.beckman.illinois.edu/resources/good_paper.pdf)).
 - **Cut words.** Write "we found" instead of "in this paper, we have found," and drop "Note that" ([Durand](http://people.csail.mit.edu/fredo/PUBLI/writing.pdf); [Vetterli](http://mri.beckman.illinois.edu/resources/good_paper.pdf)).
 
-## Literature reviews and selling your ideas
-
-- **A literature review is an argument.** It is key to "selling" your research. Summarize what has been done, what has not been done, and what needs to be done, and link any research question or hypothesis clearly to the review.
-- **Don't try to cover everything.** Select the research most relevant to your paper and use it as evidence that your research is important and your findings relevant.
-- **Literature appears throughout a paper.** In the introduction it establishes potential impact; in data and methods it credits others and offers comparisons; in the discussion it shows how your work confirms or extends others'.
-- **Do four things with the literature:** summarize, synthesize, compare, and critique. By the end, you should be able to say what we know, what we don't know, what needs to be done, and how your research contributes.
-- **Write a core statement.** One or two sentences that describe the area, its connection to improving something, and the open question.
-- **Avoid common errors:** a review that isn't logically organized, doesn't relate the literature to your study, leaves out a major author or paper, reads like a series of disjointed summaries, or doesn't argue a point.
-
 ## The writing process
 
+- **Outline before you draft.** An outline is cheaper to change than paragraphs and shows you the flow ([Das](https://medium.com/gt-ups-course/resources-for-academic-writing-in-hci-82a27249cb5f); [Durand](http://people.csail.mit.edu/fredo/PUBLI/writing.pdf); [Vetterli](http://mri.beckman.illinois.edu/resources/good_paper.pdf)). Plan your figures at the outline stage too ([Durand](http://people.csail.mit.edu/fredo/PUBLI/writing.pdf)).
 - **Write regularly.** Write a little every day, and read well-written work ([Das](https://medium.com/gt-ups-course/resources-for-academic-writing-in-hci-82a27249cb5f); [Vetterli](http://mri.beckman.illinois.edu/resources/good_paper.pdf)).
 - **Write early in the project.** Early writing exposes flaws in your thinking while you can still change course ([Das](https://medium.com/gt-ups-course/resources-for-academic-writing-in-hci-82a27249cb5f); [Durand](http://people.csail.mit.edu/fredo/PUBLI/writing.pdf)).
 - **Where to start?** Durand starts with the overview. Das outlines the introduction first but writes it last, and starts with the methods when stuck.

@@ -11,18 +11,15 @@ topic: research
 - Some studies, such as ethnographic work, surface new little p's instead of solving one. The results of any study can open new little p's.
 - Keep the big P in view throughout a project; don't dig into little p's while losing sight of it.
 
-## Novelty and gaps
-
-- **Something nobody has studied is not automatically worth studying.** Nobody has tested whether you can sit in every chair, and it isn't a useful question. You don't need to study every chair to know a chair will hold your weight.
-- **Don't exaggerate the distance from previous work.** It is very unlikely that nobody has looked into a question worth asking. Name the closest prior work on every dimension and say exactly what you do differently.
-- **Let the justification fall out of the problem.** The gap should be a clear missing space or a consequential difference from previous approaches, not a contrived intersection.
-- **Start from a real-world problem or puzzle**, then ask whether it also matters to academia. Strong questions matter to both.
-
 ## Finding problems worth working on
 
 - **Work on important problems.** Important results come from important questions ([Hamming](https://www.cs.princeton.edu/~jrex/teaching/spring2005/fft/hamming.html); [Kung](https://www.eecs.harvard.edu/htk/phdadvice/)), or as Patterson puts it, solve a problem someone cares about ([Patterson](https://people.eecs.berkeley.edu/~pattrsn/talks/BadCareer.pdf)).
 - **Importance requires a way in.** A problem is important when you have a reasonable attack on it ([Hamming](https://www.cs.princeton.edu/~jrex/teaching/spring2005/fft/hamming.html)). Difficulty and importance are different things, and important work often unifies, connects, or enables other work ([Nielsen](https://michaelnielsen.org/blog/principles-of-effective-research/)).
 - **Ground the problem in the literature.** A research problem is a gap between the current and ideal state with no acceptable solution, documented by several sources. A topic, a hunch, or a yes/no question isn't a research problem on its own ([Ellis and Levy](http://inform.nu/Articles/Vol11/ISJv11p017-033Ellis486.pdf); [Ko](https://faculty.washington.edu/ajko/papers/Ko2019StudyDesign.pdf)).
+- **Something nobody has studied is not automatically worth studying.** Nobody has tested whether you can sit in every chair, and it isn't a useful question. You don't need to study every chair to know a chair will hold your weight.
+- **Don't exaggerate the distance from previous work.** It is very unlikely that nobody has looked into a question worth asking. Name the closest prior work on every dimension and say exactly what you do differently.
+- **Let the justification fall out of the problem.** The gap should be a clear missing space or a consequential difference from previous approaches, not a contrived intersection.
+- **Start from a real-world problem or puzzle**, then ask whether it also matters to academia. Strong questions matter to both.
 - **Use idea-generation patterns.** Tabulate papers by assumptions, methods, and data and look for empty cells; extend your own work along new dimensions; apply tools or data only you have; reproduce prior work; mine "future work" sections; talk to practitioners about their pain points ([Qian](https://medium.com/digital-diplomacy/how-to-look-for-ideas-in-computer-science-research-7a3fa6f4696f); [Ellis and Levy](http://inform.nu/Articles/Vol11/ISJv11p017-033Ellis486.pdf); [Ko](https://faculty.washington.edu/ajko/papers/Ko2019StudyDesign.pdf)).
 - **Read and work across fields.** Mastering a neighboring field others ignore gives you an advantage ([Qian](https://medium.com/digital-diplomacy/how-to-look-for-ideas-in-computer-science-research-7a3fa6f4696f); [Nielsen](https://michaelnielsen.org/blog/principles-of-effective-research/)).
 - **Look where others aren't.** Be wary of crowded, fashionable subfields, and look for confused areas that may hide a simplifying idea ([Nielsen](https://michaelnielsen.org/blog/principles-of-effective-research/); [Kung](https://www.eecs.harvard.edu/htk/phdadvice/)).
@@ -34,6 +31,47 @@ topic: research
 > "People always say to follow your passion and it will lead to the thing you should do. But if you like a lot of different things, it doesn't matter which one you pick, because you'll be happy no matter which you end up with. Do the things you're excited about, and even if you're picking one among many, know that you'll be happy, and you can worry about writing a cohesive narrative onto it later."
 >
 > Sarah Scheffler (Fall Practicum 2024)
+
+## Reading papers
+
+S. Keshav's [three-pass method](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf) is the most widely used approach:
+
+- **Pass 1 (5 to 10 minutes).** Read the title, abstract, introduction, section headings, and conclusions, and glance at the references. Then answer the "five Cs": *category* (what type of paper is it?), *context* (what work does it build on?), *correctness* (do the assumptions look valid?), *contributions* (what are the main ones?), and *clarity* (is it well written?). Decide whether to keep going.
+- **Pass 2 (up to an hour).** Read carefully but skip proofs and details. Look closely at figures and graphs, and mark references you haven't read.
+- **Pass 3 (several hours).** Virtually recreate the work: make the same assumptions and see whether you'd reach the same conclusions. This is where you find hidden assumptions and ideas for future work.
+
+More advice on reading:
+
+- **Write as you read.** Take margin notes, restate ideas in your own words for your future self, and record questions, assumptions, and ideas for future work ([Eisner](https://www.cs.jhu.edu/~jason/advice/how-to-read-a-paper.html); [Kung](https://www.eecs.harvard.edu/htk/phdadvice/)).
+- **Read creatively as well as critically.** Ask what is good in a paper, where else it could apply, and what you would do next. Judging why papers are good or bad builds your own taste ([Eisner](https://www.cs.jhu.edu/~jason/advice/how-to-read-a-paper.html); [Qian](https://medium.com/digital-diplomacy/how-to-look-for-ideas-in-computer-science-research-7a3fa6f4696f)).
+- **Give hard papers time.** In a new area a paper can take hours. Start early, read slowly, read with a friend, and go to background material when stuck ([Eisner](https://www.cs.jhu.edu/~jason/advice/how-to-read-a-paper.html)).
+- **Read a few papers deeply and skim the rest.** Nielsen suggests picking about a dozen key papers a year to read carefully while skimming widely ([Nielsen](https://michaelnielsen.org/blog/principles-of-effective-research/)).
+- **Balance reading with your own thinking.** Hamming warns against absorbing others' solutions before thinking a problem through yourself, and Kung says thinking matters more than reading. Eisner and Keshav put more weight on careful reading ([Hamming](https://www.cs.princeton.edu/~jrex/teaching/spring2005/fft/hamming.html); [Kung](https://www.eecs.harvard.edu/htk/phdadvice/)).
+
+## Searching and managing the literature
+
+- **Ask an expert.** Find people who have already synthesized the literature for you, from the top down (review papers, book chapters) and from the bottom up (one strong paper, expanded outward). Your advisor's papers and what they cite, related work sections, course reading lists, labmates, and the authors themselves are all good starting points.
+- **Turn each search into a question.** Break your area into smaller p's or subquestions first. Each search should be a question, not a cluster of broad ideas.
+- **Track your keywords.** Start from your research question, circle the most important terms, think of synonyms, and collect new keywords from your first pass. Ask scientists in nearby areas what they call it.
+- **Start from a few recent papers and follow citations both ways.** Find three to five recent papers or a survey, read their related-work sections, then follow references backward and citing papers forward until no new work appears ([Keshav](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf); [Ellis and Levy](http://inform.nu/Articles/Vol11/ISJv11p017-033Ellis486.pdf)).
+- **Identify the key people and venues.** Notice which authors recur, check their websites, and browse recent proceedings of the top venues. Ask senior people for their favorite papers ([Keshav](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf); [Kung](https://www.eecs.harvard.edu/htk/phdadvice/)).
+- **Use existing guides.** Surveys, syllabi, tutorials, textbook chapters, and dissertation literature reviews save time. Eisner suggests reading later explanations of an idea before its original paper ([Eisner](https://www.cs.jhu.edu/~jason/advice/how-to-read-a-paper.html)).
+- **Keep a searchable record of what you read**, such as a notes file with a citation at the top of each entry, or a spreadsheet with one row per source and columns for conclusions and your reactions ([Eisner](https://www.cs.jhu.edu/~jason/advice/how-to-read-a-paper.html); [A Lawn Unto Herself](https://alawuntoherself.com/2016/05/20/how-i-use-excel-to-manage-my-literature-review/)). It should support synthesis, not only storage. Write down each paper's key contribution to you, and share the list (with your keywords) with your advisor so they can spot blind spots.
+
+## Mapping a research space
+
+<div class="exercise" markdown="1">
+### Try it: map your research space
+<p class="meta">45 minutes · works best at a whiteboard with someone else</p>
+
+1. Write your problem in the middle. List the populations or contexts it affects and how you'd measure it.
+2. **Problem abstraction:** What class of problems is this one instance of? List other places the same problem shows up.
+3. **Active ingredient:** What do you hypothesize is making the difference?
+4. **Current strategies:** How do people currently try to solve this class of problems, technical or not?
+5. Draw lines between strategies, populations, and active ingredients. Circle the holes: combinations nobody has tried.
+
+Example: a project on conversation branching for virtual patients led to the abstraction "where is retrying important?", which pointed to parallel work in sports, learning sciences, educational games, music, and design prototyping.
+</div>
 
 ## Formulating research questions
 
@@ -85,47 +123,6 @@ The Heilmeier Catechism asks similar questions: What are you trying to do, with 
 Set a timer and write ten research questions about your area, one per minute. Don't judge them as you go. Afterward, pick the two most promising and check each against the questions above.
 </div>
 
-## Mapping a research space
-
-<div class="exercise" markdown="1">
-### Try it: map your research space
-<p class="meta">45 minutes · works best at a whiteboard with someone else</p>
-
-1. Write your problem in the middle. List the populations or contexts it affects and how you'd measure it.
-2. **Problem abstraction:** What class of problems is this one instance of? List other places the same problem shows up.
-3. **Active ingredient:** What do you hypothesize is making the difference?
-4. **Current strategies:** How do people currently try to solve this class of problems, technical or not?
-5. Draw lines between strategies, populations, and active ingredients. Circle the holes: combinations nobody has tried.
-
-Example: a project on conversation branching for virtual patients led to the abstraction "where is retrying important?", which pointed to parallel work in sports, learning sciences, educational games, music, and design prototyping.
-</div>
-
-## Reading papers
-
-S. Keshav's [three-pass method](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf) is the most widely used approach:
-
-- **Pass 1 (5 to 10 minutes).** Read the title, abstract, introduction, section headings, and conclusions, and glance at the references. Then answer the "five Cs": *category* (what type of paper is it?), *context* (what work does it build on?), *correctness* (do the assumptions look valid?), *contributions* (what are the main ones?), and *clarity* (is it well written?). Decide whether to keep going.
-- **Pass 2 (up to an hour).** Read carefully but skip proofs and details. Look closely at figures and graphs, and mark references you haven't read.
-- **Pass 3 (several hours).** Virtually recreate the work: make the same assumptions and see whether you'd reach the same conclusions. This is where you find hidden assumptions and ideas for future work.
-
-More advice on reading:
-
-- **Write as you read.** Take margin notes, restate ideas in your own words for your future self, and record questions, assumptions, and ideas for future work ([Eisner](https://www.cs.jhu.edu/~jason/advice/how-to-read-a-paper.html); [Kung](https://www.eecs.harvard.edu/htk/phdadvice/)).
-- **Read creatively as well as critically.** Ask what is good in a paper, where else it could apply, and what you would do next. Judging why papers are good or bad builds your own taste ([Eisner](https://www.cs.jhu.edu/~jason/advice/how-to-read-a-paper.html); [Qian](https://medium.com/digital-diplomacy/how-to-look-for-ideas-in-computer-science-research-7a3fa6f4696f)).
-- **Give hard papers time.** In a new area a paper can take hours. Start early, read slowly, read with a friend, and go to background material when stuck ([Eisner](https://www.cs.jhu.edu/~jason/advice/how-to-read-a-paper.html)).
-- **Read a few papers deeply and skim the rest.** Nielsen suggests picking about a dozen key papers a year to read carefully while skimming widely ([Nielsen](https://michaelnielsen.org/blog/principles-of-effective-research/)).
-- **Balance reading with your own thinking.** Hamming warns against absorbing others' solutions before thinking a problem through yourself, and Kung says thinking matters more than reading. Eisner and Keshav put more weight on careful reading ([Hamming](https://www.cs.princeton.edu/~jrex/teaching/spring2005/fft/hamming.html); [Kung](https://www.eecs.harvard.edu/htk/phdadvice/)).
-
-## Searching and managing the literature
-
-- **Ask an expert.** Find people who have already synthesized the literature for you, from the top down (review papers, book chapters) and from the bottom up (one strong paper, expanded outward). Your advisor's papers and what they cite, related work sections, course reading lists, labmates, and the authors themselves are all good starting points.
-- **Turn each search into a question.** Break your area into smaller p's or subquestions first. Each search should be a question, not a cluster of broad ideas.
-- **Track your keywords.** Start from your research question, circle the most important terms, think of synonyms, and collect new keywords from your first pass. Ask scientists in nearby areas what they call it.
-- **Start from a few recent papers and follow citations both ways.** Find three to five recent papers or a survey, read their related-work sections, then follow references backward and citing papers forward until no new work appears ([Keshav](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf); [Ellis and Levy](http://inform.nu/Articles/Vol11/ISJv11p017-033Ellis486.pdf)).
-- **Identify the key people and venues.** Notice which authors recur, check their websites, and browse recent proceedings of the top venues. Ask senior people for their favorite papers ([Keshav](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf); [Kung](https://www.eecs.harvard.edu/htk/phdadvice/)).
-- **Use existing guides.** Surveys, syllabi, tutorials, textbook chapters, and dissertation literature reviews save time. Eisner suggests reading later explanations of an idea before its original paper ([Eisner](https://www.cs.jhu.edu/~jason/advice/how-to-read-a-paper.html)).
-- **Keep a searchable record of what you read**, such as a notes file with a citation at the top of each entry, or a spreadsheet with one row per source and columns for conclusions and your reactions ([Eisner](https://www.cs.jhu.edu/~jason/advice/how-to-read-a-paper.html); [A Lawn Unto Herself](https://alawuntoherself.com/2016/05/20/how-i-use-excel-to-manage-my-literature-review/)). It should support synthesis, not only storage. Write down each paper's key contribution to you, and share the list (with your keywords) with your advisor so they can spot blind spots.
-
 ## Designing studies
 
 - **Let the question choose the method.** Comparisons call for controlled designs, while questions about barriers call for qualitative work ([Ko](https://faculty.washington.edu/ajko/papers/Ko2019StudyDesign.pdf)).
@@ -133,6 +130,15 @@ More advice on reading:
 - **Pilot everything.** Pilot every element of the study and the analysis before collecting real data ([Ko](https://faculty.washington.edu/ajko/papers/Ko2019StudyDesign.pdf)). Build throwaway prototypes and vary one parameter at a time ([Kung](https://www.eecs.harvard.edu/htk/phdadvice/)).
 - **Outline the paper before running the study.** Draft the introduction, claims, related work, method, analysis plan, and limitations, then review it as a peer reviewer would ([Ko](https://faculty.washington.edu/ajko/papers/Ko2019StudyDesign.pdf)).
 - **Keep designs simple and reproducible** ([Patterson](https://people.eecs.berkeley.edu/~pattrsn/talks/BadCareer.pdf)), and expect your plan to change during execution ([Kung](https://www.eecs.harvard.edu/htk/phdadvice/)).
+
+## Moving fast: lean research
+
+<div class="exercise" markdown="1">
+### Try it: plan a lean test
+<p class="meta">30 minutes · alone</p>
+
+Write down the core assumption your project depends on. Then design the smallest, cheapest thing you could do to validate or invalidate it: a handful of interviews, a paper prototype, a pilot study, or a quick look at existing data. List three pieces of evidence that this test will teach you what you need to know.
+</div>
 
 ## Kinds of contributions
 
@@ -148,19 +154,9 @@ Wobbrock and Kientz describe [seven types of HCI research contributions](https:/
 
 A paper can make more than one contribution, but name the primary one. Artifact papers don't require an empirical study.
 
-## Moving fast: lean research
-
-<div class="exercise" markdown="1">
-### Try it: plan a lean test
-<p class="meta">30 minutes · alone</p>
-
-Write down the core assumption your project depends on. Then design the smallest, cheapest thing you could do to validate or invalidate it: a handful of interviews, a paper prototype, a pilot study, or a quick look at existing data. List three pieces of evidence that this test will teach you what you need to know.
-</div>
-
 ## Habits of effective researchers
 
 - **Seek feedback and critics.** Hold project reviews with outsiders and avoid working in isolation ([Patterson](https://people.eecs.berkeley.edu/~pattrsn/talks/BadCareer.pdf); [Kung](https://www.eecs.harvard.edu/htk/phdadvice/)).
 - **Surround yourself with stimulating people.** Talk regularly with labmates, attend reading groups, and start one if none exists ([Hamming](https://www.cs.princeton.edu/~jrex/teaching/spring2005/fft/hamming.html); [Nielsen](https://michaelnielsen.org/blog/principles-of-effective-research/)).
 - **Write down a vision and build distinctive skills.** Decide what kind of researcher you want to become and build a combination of abilities few others have ([Nielsen](https://michaelnielsen.org/blog/principles-of-effective-research/)).
 - **Handling conflict.** Hamming advises picking your battles and presenting accomplished facts instead of asking permission. Nielsen advises addressing conflicts directly and early, after preparing for the conversation.
-

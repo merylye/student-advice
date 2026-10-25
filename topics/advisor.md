@@ -30,15 +30,12 @@ More on expectations:
 List the experiences you want during your PhD: a project sequence, technical and research skills, reviewing papers, mentoring junior researchers, teaching, a doctoral consortium, a systematic literature review, giving talks, meeting faculty, and an outside hobby. Revisit it each year with your advisor. Start from this [PhD Curriculum (aka Bucket List) template](https://docs.google.com/document/d/1odv3E1QuMM6AUL3TuRaWxvKsZq8V90v27hpsOji1C6o/edit?usp=sharing).
 </div>
 
-## Running good meetings
+## Meetings and staying in touch
 
 - **Treat meetings as help-seeking, not tests.** Presenting your week as positively as possible and hiding what you couldn't do leaves you struggling silently with the same problems. Bring the problems and questions you need help with, including soft skills like time management, losing motivation, or managing undergraduate RAs.
 - **Your advisor wants you to succeed.** They plan to work with you for years. You are not being assessed for selection, as you were in undergrad; the goal is the shortest path to building you up as a researcher.
 - **Bring decisions, not a status list.** Before the meeting, write down the decisions that need to be made to reach your next goal. Sort out which questions need your advisor, which a labmate could answer, and what specific actions you need from your advisor, such as a recommendation letter by a certain date.
 - **Start with a recap.** Advisors are busy and often don't remember last week's meeting. Open by recapping what you decided last time, and keep running meeting notes for each project in a shared doc.
-
-## Staying in touch
-
 - **Keep in regular contact.** Advisors like students who stop by outside scheduled meetings ([APA, Dear Advisee](https://www.apa.org/monitor/2012/07-08/advisee)), and feedback every week or two reduces uncertainty and isolation ([Guo](https://pg.ucsd.edu/early-stage-PhD-advice.htm)). Send regular status reports to your advisor and committee ([Azuma](https://www.cs.unc.edu/~azuma/hitch4.html)).
 - **Try first, then ask.** Solve what you can before bringing a problem to your advisor ([APA, Dear Advisee](https://www.apa.org/monitor/2012/07-08/advisee); [Azuma](https://www.cs.unc.edu/~azuma/hitch4.html)).
 - **Bring specific options.** Ask your advisor to choose among a few concrete options, and come with prepared questions ([Guo](https://pg.ucsd.edu/early-stage-PhD-advice.htm)).
@@ -50,6 +47,12 @@ List the experiences you want during your PhD: a project sequence, technical and
 - **Drive your own projects.** Your advisor isn't a day-to-day boss, so create your own deadlines and accountability, such as lab talks and scheduled one-on-ones ([Guo](https://pg.ucsd.edu/early-stage-PhD-advice.htm)).
 - **Contribute your own ideas.** Students want room to propose ideas beyond grunt work ([APA, Dear Advisor](https://www.apa.org/monitor/2012/07-08/advisor)). Chris Martens found that moving to a problem she devised herself was a turning point ([Martens](https://lambdamaphone.blogspot.com/2015/11/how-to-get-phd-in-computer-science-if.html)).
 - **Make up for gaps.** No advisor is perfect, so take initiative where yours falls short ([Guo](https://pg.ucsd.edu/early-stage-PhD-advice.htm)).
+
+## Methods and feedback
+
+- Advisors steer students toward the methods they know best. If you want to learn other methods, build projects that use them and find other experts to help.
+- Your advisor has much more experience using, publishing, and defending the methods they use often, so their feedback is most useful there.
+- Read your advisor's papers and think about why they matter.
 
 ## The professional side
 
@@ -64,9 +67,3 @@ List the experiences you want during your PhD: a project sequence, technical and
 - **Ask whether they can write a *strong* letter.** This gives the writer a graceful way to decline ([Harchol-Balter](https://www.cs.cmu.edu/~harchol/gradschooltalk.pdf); [Might](https://matt.might.net/articles/how-to-apply-and-get-in-to-graduate-school-in-science-mathematics-engineering-or-computer-science/)).
 - **Make the writer's job easy.** Send a spreadsheet of programs and deadlines, your statement, CV, and transcript, and a list of concrete work you did with them. Give an early deadline, send reminders, thank them, and waive your right to see the letter ([Kamath](https://kamathematics.wordpress.com/2021/08/18/how-to-ask-for-a-letter-of-recommendation/); [Ernst](https://homes.cs.washington.edu/~mernst/advice/academic-job.html); [Sap](https://maartensap.com/notes/01-apply-grad-school.html); [Sherry](https://people.eecs.berkeley.edu/~justine/advice.pdf)).
 - **Draft your own letter?** Ernst suggests offering to help. Kamath calls it unacceptable for writers to have applicants draft letters they sign, and advises being positive and specific if you're asked to.
-
-## Methods and feedback
-
-- Advisors steer students toward the methods they know best. If you want to learn other methods, build projects that use them and find other experts to help.
-- Your advisor has much more experience using, publishing, and defending the methods they use often, so their feedback is most useful there.
-- Read your advisor's papers and think about why they matter.

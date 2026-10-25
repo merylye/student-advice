@@ -22,18 +22,6 @@ topic: time-wellbeing
 - **Protect deep work.** Most productive work happens in a few quiet hours a day. Schedule them on purpose, for example in the morning.
 - **Don't overthink. Do something each week.** Searching for the "right" question or experiment leads to meeting after meeting with nothing to show. Sketch, build, pilot, and test; the more small experiments you run, the faster you find what works.
 
-## Work-life balance in grad school
-
-- **Treat grad school as a full-time job, and plan your work.** Start early, set internal deadlines, and break big tasks into smaller subtasks. Leave trivial repetitive tasks (formatting, references) to the end of the day.
-- **Tasks are not equal, mentally.** A new draft, a revision, debugging, and processing email each take a different kind of energy. Plan your day around that.
-- **Block out time before and after meetings and classes** to think things through.
-- **Organize and document everything.** Take notes, record lessons learned, and turn repeated tasks into a process.
-- **Learn to say no (but not all the time).** Reading recommendation: *The No Club* (see resources below).
-- **Set limits.** You don't have to reply immediately; use scheduled send. If a meeting time is too early or too late, suggest another.
-- **Take real time off on weekends, even a couple of hours.** Go out. Socialize outside your research group. Do not isolate yourself. Find mentors, and become one.
-- **Take care of your health:** eat, sleep, exercise (even 20 minutes makes a difference), keep your medical appointments, and stay home when sick.
-- **It's your paper.** You are the one who is excited about finishing it. No one cares more about *your* research than *you*.
-
 ## Habits and productivity
 
 - **Make the productive choice the easy one.** Set up your workspace and devices so working is the path of least resistance: work on campus, block distracting sites, and keep reminders where your triggers happen ([Might](https://matt.might.net/articles/productivity-tips-hints-hacks-tricks-for-grad-students-academics/); [Might](https://matt.might.net/articles/how-to-change-your-behavior/)). Make your most frequent tasks the fastest ones ([Might](https://matt.might.net/articles/console-hacks-exploiting-frequency/)).
@@ -58,11 +46,21 @@ Write down what you learned as advice to your future self. Schedule an email to 
 
 ## Saying no
 
+- **Learn to say no (but not all the time).** Reading recommendation: *The No Club* (see resources below).
 - **Decline by stating what you're saying yes to.** Define your goals, accept what fits them, and explain that context when you turn something down ([Ami Vora, on Deb Liu's newsletter](https://debliu.substack.com/p/how-to-say-no)).
 - **Take a day before committing.** Say yes only if you're still excited the next day ([Vora](https://debliu.substack.com/p/how-to-say-no)).
 - **Drop tasks that don't matter.** Stop doing a task and see what breaks; if nothing does, take it off your list ([Vora](https://debliu.substack.com/p/how-to-say-no)).
 - **Separate urgent from important.** Put research ahead of lower-value tasks ([Dredze and Wallach](https://www.cs.jhu.edu/~mdredze/publications/HowtoBeaSuccessfulPhDStudent.pdf)).
 - **Keep a list of what you've done.** When you feel you aren't doing enough, review a list of accomplishments that wouldn't have happened without you ([Vora](https://debliu.substack.com/p/how-to-say-no)), or keep a daily note of small wins ([Sorbara, Cheeky Scientist](https://cheekyscientist.com/7-ways-phd-students-academics-deal-stress-anxiety-depression/)).
+
+## Work-life balance in grad school
+
+- **Treat grad school as a full-time job, and plan your work.** Start early, set internal deadlines, and break big tasks into smaller subtasks. Leave trivial repetitive tasks (formatting, references) to the end of the day.
+- **Tasks are not equal, mentally.** A new draft, a revision, debugging, and processing email each take a different kind of energy. Plan your day around that.
+- **Block out time before and after meetings and classes** to think things through.
+- **Organize and document everything.** Take notes, record lessons learned, and turn repeated tasks into a process.
+- **Set limits.** You don't have to reply immediately; use scheduled send. If a meeting time is too early or too late, suggest another.
+- **It's your paper.** You are the one who is excited about finishing it. No one cares more about *your* research than *you*.
 
 ## Failure and rejection
 
@@ -74,6 +72,14 @@ Write down what you learned as advice to your future self. Schedule an email to 
 - **Keep showing up.** Perseverance predicts success better than brilliance ([Might](http://matt.might.net/articles/successful-phd-students/); [Yang](https://jxyzabc.blogspot.com/2017/09/the-genius-fallacy.html)).
 - **Learn from what went wrong.** Write down what failed, why, and what you'd change, and talk to your advisor when persistent failure suggests it's time to change course ([Dredze and Wallach](https://www.cs.jhu.edu/~mdredze/publications/HowtoBeaSuccessfulPhDStudent.pdf)).
 
+## Expect it to be hard
+
+- **Volume closes the gap between taste and skill.** Your early work will disappoint you, and doing a lot of it is how it improves ([Das](https://sauvik-das.medium.com/the-shape-of-your-ph-d-426975399d88); [Guo](https://pg.ucsd.edu/early-stage-PhD-advice.htm)).
+- **Drop perfectionism.** "Good enough" beats "perfect" ([Might](https://matt.might.net/articles/ways-to-fail-a-phd/)). Write rough first drafts and prototypes ([Marcus](https://marcua.net/writing/gradschool-guide/); [Guo](https://pg.ucsd.edu/early-stage-PhD-advice.htm)). Jean Yang learned that a paper can do much less than her first one and still be publishable ([Yang](https://jxyzabc.blogspot.com/2016/02/my-phd-abridged.html)).
+- **Scope the dissertation.** Aim for a manageable contribution, keep it narrow, and save other ideas for later ([Might](https://matt.might.net/articles/ways-to-fail-a-phd/); [Fiesler](https://cfiesler.medium.com/advice-for-new-phd-students-your-research-career-is-a-long-game-4721abbd80ac)).
+- **Persist before switching.** Give a project three to nine months before switching, and switch if it has stalled for a year ([Guo](https://pg.ucsd.edu/early-stage-PhD-advice.htm)).
+- **How many hours?** Matt Might says a PhD doesn't fit a 9-to-5 schedule. Philip Guo says to treat it as a job with a fixed schedule and evenings off. Fiesler and Marcus warn against working every waking hour.
+
 ## Imposter syndrome and comparison
 
 - **Almost everyone feels this.** Tenured professors and successful researchers describe the same feelings ([Fiesler](https://cfiesler.medium.com/tenured-professor-rogers-talks-about-imposter-syndrome-229e0a546ac1); [Ko](https://medium.com/bits-and-behavior/reflections-on-my-academic-insecurity-b2fa0df25b6e)).
@@ -84,27 +90,11 @@ Write down what you learned as advice to your future self. Schedule an email to 
 
 ## Taking care of yourself
 
+- **Take real time off on weekends, even a couple of hours.** Go out. Socialize outside your research group. Do not isolate yourself. Find mentors, and become one.
+- **Take care of your health:** eat, sleep, exercise (even 20 minutes makes a difference), keep your medical appointments, and stay home when sick.
 - **Don't let the PhD take over your life.** If you do, you will burn out. Schedule exercise, meal prep, hobbies, and social time the same way you schedule classes and meetings, and plan a vacation each semester.
 - **Pay attention to what helps you work.** Sleep, sunshine, caffeine, forgetting to eat, and exercise can make or break a day. Without noticing those connections, it's easy to doubt your ability to do research instead.
 - **Everyone in grad school is smart, so strive to be kind as well**, to yourself, your collaborators, and everyone outside research.
 - **Watch for depression and act on it.** "It's OK to get depressed. It's not OK to do nothing about it" ([Might](https://matt.might.net/articles/grad-student-resolutions/)). Depression and anxiety are treatable, and there is no shame in therapy or medication ([Sorbara](https://cheekyscientist.com/7-ways-phd-students-academics-deal-stress-anxiety-depression/)).
 - **Find support.** Therapy and counseling are common among PhD students; find out what your university's counseling service and health insurance cover.
 - **Define success on your own terms.** Academia is one path among many ([Dredze and Wallach](https://www.cs.jhu.edu/~mdredze/publications/HowtoBeaSuccessfulPhDStudent.pdf)).
-
-## Money
-
-David Andersen's [advice on finances for CS PhD students](https://da-data.blogspot.com/2016/09/finances-for-cs-phd-students.html) (from 2016, so check current limits and figures):
-
-- **Spend less than your stipend**, and save most of any internship pay.
-- **Consider a Roth IRA.** Grad school is usually your lowest tax bracket, so after-tax retirement savings are a good deal. Check whether your school offers a Roth 403(b).
-- **Invest simply.** Use low-cost index or target-date funds, and avoid day-trading, market timing, and stock picking.
-- **Plan for transition costs.** Keep savings for moving and deposits after graduation, think hard before buying a home, and pay down high-interest debt.
-
-## Teaching
-
-From Jason Eisner's [guide to being a teaching assistant](https://www.cs.jhu.edu/~jason/advice/how-to-ta.html):
-
-- **Prioritize discussion in sections.** Have students work problems in small groups and explain their answers, since listening alone may not produce learning.
-- **Give fast, specific feedback.** Return feedback within a week, include praise, reuse comments for common errors, and share common mistakes with the class.
-- **Grade fairly.** Agree on the rubric with the instructor, grade consistently, read answers charitably, never penalize twice for one error, and let a different TA handle regrades.
-- **Be available and inclusive.** Hold office hours near due dates, route questions to the class forum, and protect student privacy.

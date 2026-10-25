@@ -3,6 +3,8 @@ title: Reviewing and Publishing
 topic: reviewing
 ---
 
+**Reviewing pays off.** It teaches you to write, builds relationships with editors, and gives you early access to new work ([Chan](https://engineering.purdue.edu/ChanGroup/write_review.html)).
+
 ## How peer review works (CHI as an example)
 
 - Papers chairs oversee subcommittee chairs, who each manage a group of associate chairs (ACs).
@@ -33,7 +35,6 @@ Processes change from year to year and venue to venue, so check the current call
 - **Don't penalize papers for discussing their limitations** ([CVPR 2022](https://cvpr2022.thecvf.com/sites/default/files/2021-11/How%20to%20be%20a%20good%20reviewer-tutorials%20for%20cvpr2022%20reviewers.pptx.pdf)).
 - **Be compassionate and constructive.** Comment on the work, never the authors, and suggest how to improve the paper ([Das](https://sauvik-das.medium.com/a-quick-guide-to-reviewing-papers-quick-fe9a493ed228); [CVPR 2022](https://cvpr2022.thecvf.com/sites/default/files/2021-11/How%20to%20be%20a%20good%20reviewer-tutorials%20for%20cvpr2022%20reviewers.pptx.pdf)).
 - **Be reliable.** Submit on time, read the rebuttal and say whether it changed your view, and send ethics concerns to the chairs ([CVPR 2022](https://cvpr2022.thecvf.com/sites/default/files/2021-11/How%20to%20be%20a%20good%20reviewer-tutorials%20for%20cvpr2022%20reviewers.pptx.pdf)).
-- **Reviewing pays off.** It teaches you to write, builds relationships with editors, and gives you early access to new work ([Chan](https://engineering.purdue.edu/ChanGroup/write_review.html)).
 
 ## Practice: a mock program committee
 
@@ -48,4 +49,3 @@ Review a paper on your own, then discuss it in a small group as if you were the 
 - **Admit weaknesses?** Elmqvist advises never admitting a major flaw and presenting concerns as needing minor clarification. Bigham advises accepting some limitations to build credibility.
 - **Spend space where it counts.** Focus on undecided reviewers, and expect scores to move only a little ([Bigham](http://jeffreybigham.com/blog/2019/jeffs-rebuttal-guide.html)).
 - **Fix the paper too.** If a reviewer misunderstood, fix the writing that caused it, and make every promised change if accepted ([Elmqvist](https://sites.umiacs.umd.edu/elm/2016/11/19/writing-rebuttals/)).
-

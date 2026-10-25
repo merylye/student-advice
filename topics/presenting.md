@@ -75,7 +75,4 @@ Explain your research using only the thousand most common English words. Whereve
 - **Prepare and follow up.** Before the event, pick people to meet and read their work. Within a few days afterward, email new contacts and mention specific ideas you discussed ([International Conference Alerts](https://internationalconferencealerts.com/blog/how-to-make-a-plan-to-attend-international-academic-conferences/); [Cai](https://medium.com/syncedreview/neurips-2018-through-the-eyes-of-first-timers-5156384900bd)).
 - **Take breaks**, especially if you're an introvert ([Vaughan](https://medium.com/@jennwv/nine-things-i-wish-i-had-known-the-first-time-i-came-to-nips-b939330661ed)).
 - **Explore outside your area.** Attend a tutorial (a crash course for non-experts) or a workshop on an unfamiliar topic ([Vaughan](https://medium.com/@jennwv/nine-things-i-wish-i-had-known-the-first-time-i-came-to-nips-b939330661ed); [Cai](https://medium.com/syncedreview/neurips-2018-through-the-eyes-of-first-timers-5156384900bd)).
-
-## Visibility and organizing events
-
 - **Organizing a workshop takes months and a team.** Start about seven months ahead with at least two co-organizers, recruit speakers before the proposal deadline, keep backup reviewers and speakers, and start fundraising as soon as you're accepted ([Eysenbach and Bhupatiraju](https://medium.com/@erl.leads/hitchhikers-guide-to-organizing-an-academic-workshop-cc9a5b1c32c9)).

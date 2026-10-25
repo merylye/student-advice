@@ -9,14 +9,6 @@ topic: careers
 - **Year 4: focus.** Spend your time on what relates to your research and goals.
 - **Years 5 and 6: finish.** Focus on the thesis and your career, and say no to almost everything else.
 
-## Expect it to be hard
-
-- **Volume closes the gap between taste and skill.** Your early work will disappoint you, and doing a lot of it is how it improves ([Das](https://sauvik-das.medium.com/the-shape-of-your-ph-d-426975399d88); [Guo](https://pg.ucsd.edu/early-stage-PhD-advice.htm)).
-- **Drop perfectionism.** "Good enough" beats "perfect" ([Might](https://matt.might.net/articles/ways-to-fail-a-phd/)). Write rough first drafts and prototypes ([Marcus](https://marcua.net/writing/gradschool-guide/); [Guo](https://pg.ucsd.edu/early-stage-PhD-advice.htm)). Jean Yang learned that a paper can do much less than her first one and still be publishable ([Yang](https://jxyzabc.blogspot.com/2016/02/my-phd-abridged.html)).
-- **Scope the dissertation.** Aim for a manageable contribution, keep it narrow, and save other ideas for later ([Might](https://matt.might.net/articles/ways-to-fail-a-phd/); [Fiesler](https://cfiesler.medium.com/advice-for-new-phd-students-your-research-career-is-a-long-game-4721abbd80ac)).
-- **Persist before switching.** Give a project three to nine months before switching, and switch if it has stalled for a year ([Guo](https://pg.ucsd.edu/early-stage-PhD-advice.htm)).
-- **How many hours?** Matt Might says a PhD doesn't fit a 9-to-5 schedule. Philip Guo says to treat it as a job with a fixed schedule and evenings off. Fiesler and Marcus warn against working every waking hour.
-
 ## Research taste
 
 Early on, it's natural to judge your work by other people's opinions: your advisor, reviewers, the audience at a talk. Over time, develop your own sense of what good research is. Different communities value different kinds of work, so one community's judgment doesn't define the value of yours.
@@ -30,7 +22,17 @@ People choose differently, for different reasons:
 - Some choose academia for the freedom to pivot and to be judged by the interesting things they bring into the world.
 - Many students won't become professors, and you "can't bet on an academic position" ([APA, Dear Advisor](https://www.apa.org/monitor/2012/07-08/advisor); [Bailis](https://www.bailis.org/blog/i-loved-graduate-school/)). Choose the track where you create the most leverage ([Lazowska](http://lazowska.cs.washington.edu/jobs.pdf)).
 - Some care most about impact on policy or communities. That requires translating your work for those audiences and building relationships with them, beyond publishing.
-- **Impact starts local.** Big-picture societal impact is hard to see or control, and thinking too far ahead gets stressful. Focus on what you can do for your local community and bubble, and the gratification is much more immediate. Let your interests and passions guide the rest.
+
+**Impact starts local.** Big-picture societal impact is hard to see or control, and thinking too far ahead gets stressful. Focus on what you can do for your local community and bubble, and the gratification is much more immediate. Let your interests and passions guide the rest.
+
+## Teaching
+
+From Jason Eisner's [guide to being a teaching assistant](https://www.cs.jhu.edu/~jason/advice/how-to-ta.html):
+
+- **Prioritize discussion in sections.** Have students work problems in small groups and explain their answers, since listening alone may not produce learning.
+- **Give fast, specific feedback.** Return feedback within a week, include praise, reuse comments for common errors, and share common mistakes with the class.
+- **Grade fairly.** Agree on the rubric with the instructor, grade consistently, read answers charitably, never penalize twice for one error, and let a different TA handle regrades.
+- **Be available and inclusive.** Hold office hours near due dates, route questions to the class forum, and protect student privacy.
 
 ## The academic job search
 
