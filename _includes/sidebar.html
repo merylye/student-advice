@@ -1,0 +1,33 @@
+<a class="skip" href="#main">Skip to content</a>
+<aside class="sidebar">
+  <a class="wordmark" href="{{ '/' | relative_url }}">advice for students</a>
+  <details class="menu" open>
+    <summary>Menu</summary>
+    <nav aria-label="Main">
+      <p class="menu-label">Topics</p>
+      <ul class="menu-list">
+        {%- for t in site.data.topics %}
+        {%- assign g = site.data.groups | where: "slug", t.group | first %}
+        {%- assign href = '/topics/' | append: t.slug | append: '/' %}
+        <li><a href="{{ href | relative_url }}"{% if page.url == href %} aria-current="page"{% endif %}><span class="menu-dot" style="background: {{ g.color }}"></span>{{ t.title }}</a></li>
+        {%- endfor %}
+      </ul>
+      <ul class="menu-list menu-pages">
+        <li><a href="{{ '/exercises/' | relative_url }}"{% if page.url == '/exercises/' %} aria-current="page"{% endif %}>Exercises</a></li>
+        <li><a href="{{ '/library/' | relative_url }}"{% if page.url == '/library/' %} aria-current="page"{% endif %}>Library</a></li>
+        <li><a href="{{ '/thoughts/' | relative_url }}"{% if page.url == '/thoughts/' %} aria-current="page"{% endif %}>Other Thoughts</a></li>
+        <li><a href="{{ '/sources/' | relative_url }}"{% if page.url == '/sources/' %} aria-current="page"{% endif %}>Sources</a></li>
+      </ul>
+    </nav>
+  </details>
+</aside>
+<script>
+  (function () {
+    try {
+      if (window.matchMedia('(max-width: 900px)').matches) {
+        var m = document.querySelector('.menu');
+        if (m) m.removeAttribute('open');
+      }
+    } catch (e) {}
+  })();
+</script>

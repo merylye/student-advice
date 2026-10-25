@@ -18,16 +18,12 @@ title: Advice for Students
 <section class="band" id="topics">
   <div class="wrap">
     <h2>Topics</h2>
-    {%- for g in site.data.groups %}
-    {%- assign ts = site.data.topics | where: "group", g.slug %}
-    <div class="group">
-      {%- for t in ts %}
-      <a class="tile" style="background: {{ g.color }}" href="{{ '/topics/' | append: t.slug | append: '/' | relative_url }}">
-        <span class="tile-title">{{ t.title | replace: "Work-Life", "<span class='nowrap'>Work-Life</span>" }}</span>
-      </a>
+    <div class="topic-grid">
+      {%- for t in site.data.topics %}
+      {%- assign g = site.data.groups | where: "slug", t.group | first %}
+      <a class="topic-cell" style="background: {{ g.color }}" href="{{ '/topics/' | append: t.slug | append: '/' | relative_url }}"><span>{{ t.title | replace: "Work-Life", "<span class='nowrap'>Work-Life</span>" }}</span></a>
       {%- endfor %}
     </div>
-    {%- endfor %}
   </div>
 </section>
 
@@ -41,7 +37,7 @@ title: Advice for Students
       </div>
       <div class="callout">
         <h3>If you're a new PhD student</h3>
-        <p>Read <a href="{{ '/topics/advisor/' | relative_url }}">Working with Your Advisor/Mentor</a> and <a href="{{ '/topics/time-wellbeing/' | relative_url }}">Time Management and Work-Life Balance</a> in your first month. Then work through the exercises on <a href="{{ '/try-this/' | relative_url }}">Try this</a>.</p>
+        <p>Read <a href="{{ '/topics/advisor/' | relative_url }}">Working with Your Advisor/Mentor</a> and <a href="{{ '/topics/time-wellbeing/' | relative_url }}">Time Management and Work-Life Balance</a> in your first month. Then work through the <a href="{{ '/exercises/' | relative_url }}">Exercises</a>.</p>
       </div>
     </div>
   </div>
@@ -49,12 +45,12 @@ title: Advice for Students
 
 <section class="band">
   <div class="wrap feature-row">
-    <a class="feature feature-dark" href="{{ '/try-this/' | relative_url }}">
-      <span class="tile-title">Try this</span>
-      <span class="tile-blurb">Exercises for finding research problems, framing your work, and planning your PhD, adapted from first-year PhD seminars.</span>
+    <a class="feature feature-dark" href="{{ '/exercises/' | relative_url }}">
+      <span class="tile-title">Exercises</span>
+      <span class="tile-blurb">For finding research problems, framing your work, and planning your PhD, adapted from first-year PhD seminars.</span>
     </a>
     <a class="feature feature-accent" href="{{ '/thoughts/' | relative_url }}">
-      <span class="tile-title">Thoughts from me</span>
+      <span class="tile-title">Other Thoughts</span>
       <span class="tile-blurb">My own reflections on mentors, impact, and enjoying the process, plus a few favorite quotes from practicum speakers.</span>
     </a>
     <a class="feature feature-outline" href="{{ '/library/' | relative_url }}">

@@ -1,7 +1,7 @@
 ---
-title: Try this
+title: Exercises
 lede: Exercises for finding research problems, framing your work, and planning your PhD. Most take under an hour; several work well with a friend or your cohort.
-permalink: /try-this/
+permalink: /exercises/
 ---
 
 <div class="exercise" markdown="1">

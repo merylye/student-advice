@@ -35,13 +35,3 @@ layout: default
 </section>
 {%- endif %}
 
-<section class="band band-white">
-  <div class="wrap">
-    <h2>Other topics</h2>
-    <ul class="topic-links">
-      {%- for o in site.data.topics %}{% unless o.slug == page.topic %}
-      <li><a href="{{ '/topics/' | append: o.slug | append: '/' | relative_url }}">{{ o.title }}</a></li>
-      {%- endunless %}{% endfor %}
-    </ul>
-  </div>
-</section>

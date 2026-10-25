@@ -47,7 +47,7 @@ A quick way to understand any paper, including your own project, is to answer fi
 4. What did they find, why is it important, and what are the shortcomings and limitations?
 5. How does it generalize? What are the new directions, implications, and next steps?
 
-You can practice this on [Try this](../../try-this/).
+You can practice this on [Exercises](../../exercises/).
 
 ## Thinking about a PhD?
 

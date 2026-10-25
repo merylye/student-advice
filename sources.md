@@ -1,11 +1,8 @@
 ---
-title: About
-permalink: /about/
+title: Sources
+permalink: /sources/
 ---
 
-I'm Meryl Ye, a PhD student in Societal Computing at Carnegie Mellon University. I started this collection as a Google Doc for early PhD students and undergrads interested in research, and turned it into a site so it would be easier to navigate.
-
-The advice here is written for all PhD students, with a tilt toward computer science, HCI, and computational social science, because that's what I know best.
 
 ## Credits
 

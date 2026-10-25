@@ -1,5 +1,5 @@
 ---
-title: Thoughts from me
+title: Other Thoughts
 permalink: /thoughts/
 ---
 

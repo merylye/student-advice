@@ -76,7 +76,7 @@ The Heilmeier Catechism, shared by Kathleen Carley, asks similar questions: What
 - **Active ingredient.** What do you hypothesize is making the difference?
 - **Current strategies.** How do people currently try to solve that class of problems, technical or not?
 
-For example, a project on conversation branching for virtual patients (big P: not enough therapists) led to the abstraction "where is retrying important?", with parallel spaces in sports, learning sciences, educational games, music, and design prototyping. Those analogies pointed to new research questions. See the exercise on [Try this](../../try-this/).
+For example, a project on conversation branching for virtual patients (big P: not enough therapists) led to the abstraction "where is retrying important?", with parallel spaces in sports, learning sciences, educational games, music, and design prototyping. Those analogies pointed to new research questions. See the exercise on [Exercises](../../exercises/).
 
 ## Reading papers
 
