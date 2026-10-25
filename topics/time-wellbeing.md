@@ -24,8 +24,6 @@ topic: time-wellbeing
 
 ## Work-life balance in grad school
 
-From Hanan Hibshi's talk on work-life balance:
-
 - **Treat grad school as a full-time job, and plan your work.** Start early, set internal deadlines, and break big tasks into smaller subtasks. Leave trivial repetitive tasks (formatting, references) to the end of the day.
 - **Tasks are not equal, mentally.** A new draft, a revision, debugging, and processing email each take a different kind of energy. Plan your day around that.
 - **Block out time before and after meetings and classes** to think things through.
