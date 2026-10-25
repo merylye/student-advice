@@ -39,15 +39,6 @@ A quick way to understand any paper, including your own project, is to answer fi
 4. What did they find, why is it important, and what are the shortcomings and limitations?
 5. How does it generalize? What are the new directions, implications, and next steps?
 
-<div class="exercise" markdown="1">
-### Try it: read two papers with the rubric
-<p class="meta">30 minutes · alone or in a group</p>
-
-Pick two very different papers by faculty you might work with, ones that approach research and measure success differently. For each, write one sentence per question above.
-
-Then present one paper in three minutes, one slide per question. The goal is condensing the paper to its clearest, most compelling story.
-</div>
-
 ## Thinking about a PhD?
 
 A PhD is a job where you are trained to become an independent researcher.
