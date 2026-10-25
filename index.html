@@ -15,59 +15,18 @@ title: Advice for Students
   </div>
 </section>
 
-<section class="band" id="topics">
-  <div class="wrap">
-    <h2>Topics</h2>
-    <div class="topic-grid">
-      {%- for t in site.data.topics %}
-      {%- assign g = site.data.groups | where: "slug", t.group | first %}
-      <a class="topic-cell" style="background: {{ g.color }}" href="{{ '/topics/' | append: t.slug | append: '/' | relative_url }}"><span>{{ t.title | replace: "Work-Life", "<span class='nowrap'>Work-Life</span>" }}</span></a>
-      {%- endfor %}
-    </div>
+<section class="band band-white" id="thoughts">
+  <div class="wrap prose">
+    <h2>Thoughts from Me</h2>
+    {%- capture thoughts %}{% include thoughts.md %}{% endcapture %}
+    {{ thoughts | markdownify }}
   </div>
 </section>
 
-<section class="band">
-  <div class="wrap">
-    <h2>Start here</h2>
-    <div class="split">
-      <div class="callout">
-        <h3>If you're an undergrad or RA</h3>
-        <p>Start with <a href="{{ '/topics/starting-out/' | relative_url }}">Starting Out in Research</a>, then browse the <a href="{{ '/library/' | relative_url }}?topic=starting-out">library</a>. If you're thinking about a PhD, read <a href="{{ '/topics/choosing/' | relative_url }}">Choosing a Program and Advisor</a>.</p>
-      </div>
-      <div class="callout">
-        <h3>If you're a new PhD student</h3>
-        <p>Read <a href="{{ '/topics/advisor/' | relative_url }}">Working with Your Advisor/Mentor</a> and <a href="{{ '/topics/time-wellbeing/' | relative_url }}">Time Management and Work-Life Balance</a> in your first month. Then work through the <a href="{{ '/exercises/' | relative_url }}">Exercises</a>.</p>
-      </div>
-    </div>
-  </div>
-</section>
-
-<section class="band">
-  <div class="wrap feature-row">
-    <a class="feature feature-dark" href="{{ '/exercises/' | relative_url }}">
-      <span class="tile-title">Exercises</span>
-      <span class="tile-blurb">For finding research problems, framing your work, and planning your PhD, adapted from first-year PhD seminars.</span>
-    </a>
-    <a class="feature feature-accent" href="{{ '/thoughts/' | relative_url }}">
-      <span class="tile-title">Other Thoughts</span>
-      <span class="tile-blurb">My own reflections on mentors, impact, and enjoying the process, plus a few favorite quotes from practicum speakers.</span>
-    </a>
-    <a class="feature feature-outline" href="{{ '/library/' | relative_url }}">
-      <span class="tile-title">Library</span>
-      <span class="tile-blurb">All {{ site.data.resources.size }} links on the site, filterable by topic, stage, and field.</span>
-    </a>
-  </div>
-</section>
-
-<section class="band band-last">
-  <div class="wrap">
-    <div class="reads">
-      <h2>Favorite reads</h2>
-      {%- assign featured = site.data.resources | where: "featured", true -%}
-      <ul class="resource-list">
-        {%- for r in featured %}{% include resource-item.html r=r %}{% endfor %}
-      </ul>
-    </div>
+<section class="band" id="sources">
+  <div class="wrap prose">
+    <h2>Sources</h2>
+    {%- capture sources %}{% include sources.md %}{% endcapture %}
+    {{ sources | markdownify }}
   </div>
 </section>

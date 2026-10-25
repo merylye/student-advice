@@ -1,10 +1,4 @@
----
-title: Sources
-permalink: /sources/
----
-
-
-## Credits
+### Credits
 
 This site draws on:
 
@@ -13,6 +7,6 @@ This site draws on:
 - Talks from the CMU Societal Computing practicum, including Andrew Begel on advisor relationships, Hanan Hibshi on work-life balance, Kathleen Carley on literature reviews, and Sarah Scheffler and Nicolas Christin.
 - The many people whose blog posts, guides, and memoirs are linked throughout.
 
-## Suggest a link
+### Suggest a link
 
 Know a resource that belongs here, or found a broken link? [Open an issue](https://github.com/merylye/student-advice/issues/new) on GitHub.
