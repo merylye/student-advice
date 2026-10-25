@@ -68,7 +68,7 @@ Can you articulate:
 - The scope and speed at which you can fill it
 - How well it aligns with your interests and values
 
-The Heilmeier Catechism, shared by Kathleen Carley, asks similar questions: What are you trying to do, with no jargon? How is it done today, and what are the limits of current practice? What is new in your approach, and why do you think it will succeed? Who cares? What are the risks? How long will it take? What are the midterm and final "exams" that check for success?
+The Heilmeier Catechism asks similar questions: What are you trying to do, with no jargon? How is it done today, and what are the limits of current practice? What is new in your approach, and why do you think it will succeed? Who cares? What are the risks? How long will it take? What are the midterm and final "exams" that check for success?
 
 ## Mapping a research space
 
