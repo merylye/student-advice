@@ -1,5 +1,5 @@
 ---
-title: Starting out in research
+title: Starting Out in Research
 topic: starting-out
 ---
 
@@ -60,4 +60,4 @@ A PhD is a job where you are trained to become an independent researcher.
 - **Master's first?** Stanford CS says an MS "isn't required!" and recommends applying straight to the PhD if you want research. Krishnamurthi suggests a research-track master's if your CS background is weak or you want to test research first, and CRA notes a master's may shorten the PhD ([Stanford CS](https://cs.stanford.edu/degrees/phd/PhD/GraduateSchoolAdvice.pdf); [Krishnamurthi](https://parentheticallyspeaking.org/articles/us-cs-phd-faq/); [CRA](https://conquer.cra.org/wp-content/uploads/2021/11/ThePhDinComputing_CRAEWebinar.pdf)).
 - **Build toward three strong letters.** One professor who knows your work well is worth more than brief stints with many. Count your likely strong letters by junior year, and if you have fewer than three, work with more faculty ([Hewitt](https://www.cs.columbia.edu/~johnhew/undergrad-researchers.html); [Stanford CS](https://cs.stanford.edu/degrees/phd/PhD/GraduateSchoolAdvice.pdf)).
 
-If you're applying, see [Choosing a program and advisor](../choosing/).
+If you're applying, see [Choosing a Program and Advisor](../choosing/).

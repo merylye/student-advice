@@ -1,5 +1,5 @@
 ---
-title: Using generative AI
+title: Using Generative AI
 topic: ai
 ---
 

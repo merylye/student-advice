@@ -1,5 +1,5 @@
 ---
-title: Working with your advisor
+title: Working with Your Advisor/Mentor
 topic: advisor
 ---
 

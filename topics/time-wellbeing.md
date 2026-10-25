@@ -1,5 +1,5 @@
 ---
-title: Time, projects, and wellbeing
+title: Time Management and Work-Life Balance
 topic: time-wellbeing
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Careers and the long game
+title: Careers
 topic: careers
 ---
 

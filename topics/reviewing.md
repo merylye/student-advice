@@ -1,5 +1,5 @@
 ---
-title: Reviewing and publishing
+title: Reviewing and Publishing
 topic: reviewing
 ---
 

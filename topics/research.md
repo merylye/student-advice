@@ -1,5 +1,5 @@
 ---
-title: Doing research
+title: Doing Research
 topic: research
 ---
 

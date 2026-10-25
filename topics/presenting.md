@@ -1,5 +1,5 @@
 ---
-title: Presenting and networking
+title: Presenting and Networking
 topic: presenting
 ---
 

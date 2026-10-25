@@ -1,5 +1,5 @@
 ---
-title: Fellowships and funding
+title: Fellowships and Grants
 topic: funding
 ---
 
