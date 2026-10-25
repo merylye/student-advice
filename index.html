@@ -23,7 +23,7 @@ title: Advice for Students
     <div class="group">
       {%- for t in ts %}
       <a class="tile" style="background: {{ g.color }}" href="{{ '/topics/' | append: t.slug | append: '/' | relative_url }}">
-        <span class="tile-title">{{ t.title }}</span>
+        <span class="tile-title">{{ t.title | replace: "Work-Life", "<span class='nowrap'>Work-Life</span>" }}</span>
       </a>
       {%- endfor %}
     </div>
