@@ -24,14 +24,6 @@ More on expectations:
 - **Ask how much of each paper you should draft yourself** ([Guo](https://pg.ucsd.edu/early-stage-PhD-advice.htm)).
 - **With two advisors, settle the terms up front:** each advisor's role, who covers long-term funding, how authorship works, and who resolves disagreements. You shouldn't have to mediate between them ([Ko](https://faculty.washington.edu/ajko/faq)). Having no clear lead advisor is a common way students fall through the cracks ([Guo](https://pg.ucsd.edu/early-stage-PhD-advice.htm)).
 
-## Meta-meetings
-
-Andrew Begel recommends occasional meetings about the relationship itself, separate from research updates:
-
-- **Why am I here? (once a year)** What do I want to be when I grow up? Why do I want a PhD? What do I want my research to be about? What kind of impact do I want it to have on society? What will my path to the PhD look like? What tasks and activities make me feel good about myself and my work?
-- **Management and working styles (monthly in your first semester, then once a semester).** Discuss what each of you wants and needs from the relationship, and negotiate how you'll communicate and work together.
-- **Your PhD curriculum.** Plan the experiences you want over the PhD: a project sequence, learning to write reviews, technical and research skills, advising junior researchers, a doctoral consortium, a systematic literature review, teaching, presenting, meeting faculty, a starter project, conversations about the thesis proposal and your career, and an outside hobby. You can make your own [PhD Curriculum (aka Bucket List)](https://docs.google.com/document/d/1odv3E1QuMM6AUL3TuRaWxvKsZq8V90v27hpsOji1C6o/edit?usp=sharing).
-
 ## Running good meetings
 
 - **Treat meetings as help-seeking, not tests.** Presenting your week as positively as possible and hiding what you couldn't do leaves you struggling silently with the same problems. Bring the problems and questions you need help with, including soft skills like time management, losing motivation, or managing undergraduate RAs.
