@@ -31,6 +31,10 @@ topic: research
 - **How ambitious to be early on?** Nielsen advises beginners to work mainly on tractable problems, and Kung warns against goals too big to finish. Hamming emphasizes daring to take on important problems. Together they suggest ambition paired with a feasible attack.
 - **Talk to experienced people before committing.** Ask senior researchers what remains unresolved, and talk to the audience you hope will care ([Ellis and Levy](http://inform.nu/Articles/Vol11/ISJv11p017-033Ellis486.pdf); [Ko](https://faculty.washington.edu/ajko/papers/Ko2019StudyDesign.pdf)).
 
+> "People always say to follow your passion and it will lead to the thing you should do. But if you like a lot of different things, it doesn't matter which one you pick, because you'll be happy no matter which you end up with. Do the things you're excited about, and even if you're picking one among many, know that you'll be happy, and you can worry about writing a cohesive narrative onto it later."
+>
+> Sarah Scheffler (Fall Practicum 2024)
+
 ## Formulating research questions
 
 A good research question expresses a gap or new direction in the literature, is specific enough to be meaningful, can be answered with available methods and data, and provides the basis for understanding your paper's contribution. Expect to iterate between literature, data, and methods; it is normal to refine questions once you see what your data can answer.
@@ -69,6 +73,10 @@ Can you articulate:
 - How well it aligns with your interests and values
 
 The Heilmeier Catechism asks similar questions: What are you trying to do, with no jargon? How is it done today, and what are the limits of current practice? What is new in your approach, and why do you think it will succeed? Who cares? What are the risks? How long will it take? What are the midterm and final "exams" that check for success?
+
+> "Sometimes what your advisor thinks is a good first project is actually a good last project."
+>
+> Nicolas Christin (Fall Practicum 2024)
 
 <div class="exercise" markdown="1">
 ### Try it: 10 research questions in 10 minutes
