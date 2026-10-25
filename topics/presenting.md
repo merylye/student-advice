@@ -46,13 +46,25 @@ From the talk guides:
 - **Stay composed.** If you get flustered, take a drink and continue. Don't announce that you're running out of time ([Shewchuk](https://people.eecs.berkeley.edu/~jrs/speaking.html); [Ernst](https://homes.cs.washington.edu/~mernst/advice/giving-talk.html)).
 - **Repeat each question before answering it**, and say "I don't know" when you don't ([Ernst](https://homes.cs.washington.edu/~mernst/advice/giving-talk.html)).
 
-Record yourself at least once. It's uncomfortable and very useful. Because your own content is so familiar, ask others what landed and whether you spoke too fast.
+<div class="exercise" markdown="1">
+### Try it: record a two-minute talk
+<p class="meta">1 hour · with a friend</p>
+
+Prepare a two-minute talk on your research, record it, and watch it. Write down at least three things you notice about yourself and your slides. Then ask someone else what landed and whether you spoke too fast.
+</div>
 
 ## Elevator pitches
 
 - **Prepare a 30- to 60-second version of your research.** Focus on your goals and why the work excites you, and leave out technical details ([Academia Stack Exchange](https://academia.stackexchange.com/questions/1779/what-are-the-elements-of-an-effective-elevator-pitch); [Vaughan](https://medium.com/@jennwv/nine-things-i-wish-i-had-known-the-first-time-i-came-to-nips-b939330661ed)). Try different hooks and frames, and aim to create a knowledge gap that makes the listener ask a question.
 - **Make versions for different audiences:** experts in your subfield, your broader field, and the general public. Rehearse until it comes without effort ([Academia Stack Exchange](https://academia.stackexchange.com/questions/1779/what-are-the-elements-of-an-effective-elevator-pitch); [Vaughan](https://medium.com/@jennwv/nine-things-i-wish-i-had-known-the-first-time-i-came-to-nips-b939330661ed)).
 - **Connect your pitch to the other person's.** When someone tells you their work, start yours with a specific connection ("I also look at how people learn, but in the context of interface design"), not "I also do HCI research."
+
+<div class="exercise" markdown="1">
+### Try it: explain it with common words
+<p class="meta">15 minutes · alone</p>
+
+Explain your research using only the thousand most common English words. Wherever you get stuck, you've found jargon you'll need to define for a general audience.
+</div>
 
 ## Conferences and networking
 

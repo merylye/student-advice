@@ -55,7 +55,7 @@ If you haven't gotten into grad school yet, here are my two cents:
 - **How much to tailor?** Dettmers reuses one statement and changes only the advisor section, and most of the NLP student panel kept 80 to 90% identical. Nguyen says a statement that can go to several programs with few changes is too generic ([Dettmers](https://timdettmers.com/2018/11/26/phd-applications/); [Liu et al.](https://blog.nelsonliu.me/2019/10/24/student-perspectives-on-applying-to-nlp-phd-programs/); [Nguyen](https://raw.githubusercontent.com/nguyenthanhvuh/phd-cs-us/main/demystify.pdf)).
 - **Personal material?** Pavlo, MIT CommLab, and Nguyen advise against personal backstory. Sherry and the NLP student panel encourage a personal, honest voice, and Pavlo allows a personal story about something you built or investigated ([Pavlo](https://www.cs.cmu.edu/~pavlo/blog/2015/10/how-to-write-a-bad-statement-for-a-computer-science-phd-admissions-application.html); [Sherry](https://people.eecs.berkeley.edu/~justine/advice.pdf); [Liu et al.](https://blog.nelsonliu.me/2019/10/24/student-perspectives-on-applying-to-nlp-phd-programs/)).
 
-Example statements are in the [library](../../library/?topic=choosing). You can also try the Before → Then exercise on [Exercises](../../exercises/).
+Example statements are in the [library](../../library/?topic=choosing).
 
 ## Contacting faculty before you apply
 

@@ -13,6 +13,13 @@ topic: funding
 - **Get feedback, and give it.** Review classmates' drafts and build up a lexicon of hedges you can cut from your own.
 - **Proofread carefully.**
 
+<div class="exercise" markdown="1">
+### Try it: write your origin story
+<p class="meta">30 minutes · alone</p>
+
+Write a paragraph about what drives your interest in research: an experience, a question you couldn't stop thinking about, or a problem you saw up close. Use it to look past your current topic or method and consider problems and approaches you haven't thought of, and to find a project that combines your interests with your advisor's. It also becomes the core of a fellowship personal statement.
+</div>
+
 ## Why and when to apply
 
 - **Fellowships give you freedom.** Funding that follows you frees you from TA duties and grant-specific work, and widens your choice of thesis topic ([Strouse](http://djstrouse.com/guide-to-applying-to-us-science-phd-programs-and-fellowships/)).

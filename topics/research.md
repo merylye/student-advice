@@ -69,13 +69,27 @@ Can you articulate:
 
 The Heilmeier Catechism asks similar questions: What are you trying to do, with no jargon? How is it done today, and what are the limits of current practice? What is new in your approach, and why do you think it will succeed? Who cares? What are the risks? How long will it take? What are the midterm and final "exams" that check for success?
 
+<div class="exercise" markdown="1">
+### Try it: 10 research questions in 10 minutes
+<p class="meta">10 minutes · alone, then share</p>
+
+Set a timer and write ten research questions about your area, one per minute. Don't judge them as you go. Afterward, pick the two most promising and check each against the questions above.
+</div>
+
 ## Mapping a research space
 
-- **Problem abstraction.** What class of problems is your problem one instance of?
-- **Active ingredient.** What do you hypothesize is making the difference?
-- **Current strategies.** How do people currently try to solve that class of problems, technical or not?
+<div class="exercise" markdown="1">
+### Try it: map your research space
+<p class="meta">45 minutes · works best at a whiteboard with someone else</p>
 
-For example, a project on conversation branching for virtual patients (big P: not enough therapists) led to the abstraction "where is retrying important?", with parallel spaces in sports, learning sciences, educational games, music, and design prototyping. Those analogies pointed to new research questions. See the exercise on [Exercises](../../exercises/).
+1. Write your problem in the middle. List the populations or contexts it affects and how you'd measure it.
+2. **Problem abstraction:** What class of problems is this one instance of? List other places the same problem shows up.
+3. **Active ingredient:** What do you hypothesize is making the difference?
+4. **Current strategies:** How do people currently try to solve this class of problems, technical or not?
+5. Draw lines between strategies, populations, and active ingredients. Circle the holes: combinations nobody has tried.
+
+Example: a project on conversation branching for virtual patients led to the abstraction "where is retrying important?", which pointed to parallel work in sports, learning sciences, educational games, music, and design prototyping.
+</div>
 
 ## Reading papers
 
@@ -127,7 +141,12 @@ A paper can make more than one contribution, but name the primary one. Artifact 
 
 ## Moving fast: lean research
 
-Identify your core assumption, then design the smallest, cheapest test that would validate or invalidate it: a few interviews, a lightweight prototype, a pilot study, or a quick scrape of existing data. Before you start, write down three pieces of evidence that this test will teach you what you need to know.
+<div class="exercise" markdown="1">
+### Try it: plan a lean test
+<p class="meta">30 minutes · alone</p>
+
+Write down the core assumption your project depends on. Then design the smallest, cheapest thing you could do to validate or invalidate it: a handful of interviews, a paper prototype, a pilot study, or a quick look at existing data. List three pieces of evidence that this test will teach you what you need to know.
+</div>
 
 ## Habits of effective researchers
 

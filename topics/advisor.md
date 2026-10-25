@@ -23,6 +23,13 @@ More on expectations:
 - **Raise trouble early.** If you're falling behind, talk with your advisor so you can find the cause together ([Vinitsky](http://eugenevinitsky.github.io/posts/expectation_setting.html)). If you're stuck for about a week, ask your advisor, a senior student, or a postdoc ([Guo](https://pg.ucsd.edu/early-stage-PhD-advice.htm)), and say "I'm overwhelmed" before a deadline turns into a crisis ([Marcus](https://marcua.net/writing/gradschool-guide/)).
 - **Ask how much of each paper you should draft yourself** ([Guo](https://pg.ucsd.edu/early-stage-PhD-advice.htm)).
 
+<div class="exercise" markdown="1">
+### Try it: make a PhD curriculum
+<p class="meta">1 hour · alone, then with your advisor</p>
+
+List the experiences you want during your PhD: a project sequence, technical and research skills, reviewing papers, mentoring junior researchers, teaching, a doctoral consortium, a systematic literature review, giving talks, meeting faculty, and an outside hobby. Revisit it each year with your advisor. Start from this [PhD Curriculum (aka Bucket List) template](https://docs.google.com/document/d/1odv3E1QuMM6AUL3TuRaWxvKsZq8V90v27hpsOji1C6o/edit?usp=sharing).
+</div>
+
 ## Running good meetings
 
 - **Treat meetings as help-seeking, not tests.** Presenting your week as positively as possible and hiding what you couldn't do leaves you struggling silently with the same problems. Bring the problems and questions you need help with, including soft skills like time management, losing motivation, or managing undergraduate RAs.
