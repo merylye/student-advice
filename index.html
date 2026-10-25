@@ -17,21 +17,10 @@ title: Advice for Students
 
 <section class="band" id="topics">
   <div class="wrap">
-    <nav class="jump" aria-label="Topic groups">
-      <span class="jump-label">Jump to</span>
-      {%- for g in site.data.groups %}
-      <a class="pill" style="background: {{ g.color }}" href="#group-{{ g.slug }}">{{ g.name }}</a>
-      {%- endfor %}
-    </nav>
-
+    <h2>Topics</h2>
     {%- for g in site.data.groups %}
     {%- assign ts = site.data.topics | where: "group", g.slug %}
-    <div class="group" id="group-{{ g.slug }}">
-      <div class="group-head">
-        <span class="group-num">0{{ forloop.index }}</span>
-        <h2>{{ g.name }}</h2>
-        <p>{{ g.desc }}</p>
-      </div>
+    <div class="group">
       {%- for t in ts %}
       <a class="tile" style="background: {{ g.color }}" href="{{ '/topics/' | append: t.slug | append: '/' | relative_url }}">
         <span class="tile-title">{{ t.title }}</span>

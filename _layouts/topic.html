@@ -5,7 +5,7 @@ layout: default
 {%- assign g = site.data.groups | where: "slug", t.group | first -%}
 <section class="band band-title" style="background: {{ g.color }}">
   <div class="wrap">
-    <p class="eyebrow"><a href="{{ '/#topics' | relative_url }}">topics</a> / <a href="{{ '/#group-' | append: g.slug | relative_url }}">{{ g.name | downcase }}</a></p>
+    <p class="eyebrow"><a href="{{ '/#topics' | relative_url }}">topics</a></p>
     <h1>{{ t.title }}</h1>
     <p class="lede">{{ t.blurb }}</p>
   </div>
