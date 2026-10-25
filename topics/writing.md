@@ -3,8 +3,6 @@ title: Writing
 topic: writing
 ---
 
-*My 2 cents on formatting a paper:* Pretend like people are only going to read the headers and look at the pretty pictures.
-
 ## The parts of an HCI paper
 
 Jacob Wobbrock's [annotated CHI paper template](https://faculty.washington.edu/wobbrock/pubs/Wobbrock-2015.pdf) explains what each section should do:
@@ -47,8 +45,6 @@ Jacob Wobbrock's [annotated CHI paper template](https://faculty.washington.edu/w
 - **Cut words.** Write "we found" instead of "in this paper, we have found," and drop "Note that" ([Durand](http://people.csail.mit.edu/fredo/PUBLI/writing.pdf); [Vetterli](http://mri.beckman.illinois.edu/resources/good_paper.pdf)).
 
 ## Literature reviews and selling your ideas
-
-From Kathleen Carley's practicum talk:
 
 - **A literature review is an argument.** It is key to "selling" your research. Summarize what has been done, what has not been done, and what needs to be done, and link any research question or hypothesis clearly to the review.
 - **Don't try to cover everything.** Select the research most relevant to your paper and use it as evidence that your research is important and your findings relevant.
