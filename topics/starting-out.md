@@ -7,6 +7,7 @@ topic: starting-out
 
 - **Be proactive.** Don't take it personally if faculty/PhD students aren't approaching you. Initiate contact, come to office hours, and ask for specific things. It is much easier for a mentor to respond to a specific request than to a vague ask for mentorship.
 - **Find multiple mentors.** Rather than searching for one perfect mentor, build a team where each person provides something you need. Mentors can be faculty, staff, or other students.
+- **Good mentors make all the difference.** A good mentor can foster a passion, and a bad mentor can kill an interest. Build your team of mentors deliberately, and when you're ready, become one for someone younger than you.
 
 ## Getting your first research position
 

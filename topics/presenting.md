@@ -68,6 +68,7 @@ Explain your research using only the thousand most common English words. Whereve
 
 ## Conferences and networking
 
+- **Talk to people.** While search engines and AI are useful for brainstorming and querying knowledge, field experts offer independent, nuanced perspectives you won't find elsewhere. Research involves much more socializing than most of us anticipated, and meeting new people may turn out to be the most enjoyable part.
 - **Skip some talks to make room for conversations.** Much of a conference's value is in hallway conversations, meals, and dinners, and overscheduling leads to burnout ([Vaughan](https://medium.com/@jennwv/nine-things-i-wish-i-had-known-the-first-time-i-came-to-nips-b939330661ed); [Cai](https://medium.com/syncedreview/neurips-2018-through-the-eyes-of-first-timers-5156384900bd)).
 - **Use questions as openers.** Ask speakers questions after their talks, ask basic questions at posters, and talk to strangers at lunch ([Vaughan](https://medium.com/@jennwv/nine-things-i-wish-i-had-known-the-first-time-i-came-to-nips-b939330661ed); [Cai](https://medium.com/syncedreview/neurips-2018-through-the-eyes-of-first-timers-5156384900bd)).
 - **Prioritize peers.** Your most lasting connections are often with people at your own career stage, and accepting their invitations introduces you to others ([Vaughan](https://medium.com/@jennwv/nine-things-i-wish-i-had-known-the-first-time-i-came-to-nips-b939330661ed)).

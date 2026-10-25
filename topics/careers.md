@@ -30,6 +30,7 @@ People choose differently, for different reasons:
 - Some choose academia for the freedom to pivot and to be judged by the interesting things they bring into the world.
 - Many students won't become professors, and you "can't bet on an academic position" ([APA, Dear Advisor](https://www.apa.org/monitor/2012/07-08/advisor); [Bailis](https://www.bailis.org/blog/i-loved-graduate-school/)). Choose the track where you create the most leverage ([Lazowska](http://lazowska.cs.washington.edu/jobs.pdf)).
 - Some care most about impact on policy or communities. That requires translating your work for those audiences and building relationships with them, beyond publishing.
+- **Impact starts local.** Big-picture societal impact is hard to see or control, and thinking too far ahead gets stressful. Focus on what you can do for your local community and bubble, and the gratification is much more immediate. Let your interests and passions guide the rest.
 
 ## The academic job search
 
