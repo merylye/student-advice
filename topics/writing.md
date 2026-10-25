@@ -34,7 +34,7 @@ Jacob Wobbrock's [annotated CHI paper template](https://faculty.washington.edu/w
 - **Order by logic, not chronology.** Don't narrate the project in the order you did it ([Clemens](https://blogs.lse.ac.uk/impactofsocialsciences/2018/05/21/writing-a-page-turner-how-to-tell-a-story-in-your-scientific-paper/); [Vetterli](http://mri.beckman.illinois.edu/resources/good_paper.pdf)).
 - **Motivate each component.** Introduce each piece through the challenge it solves, and explain why you made each choice ([Durand](http://people.csail.mit.edu/fredo/PUBLI/writing.pdf)). Results should "make a point" ([Vetterli](http://mri.beckman.illinois.edu/resources/good_paper.pdf)).
 - **Report results plainly.** A p = 0.43 is not "trending towards significance" ([Das](https://medium.com/gt-ups-course/resources-for-academic-writing-in-hci-82a27249cb5f)).
-- **Give the discussion room.** Discussions are often too short ([Clemens](https://blogs.lse.ac.uk/impactofsocialsciences/2018/05/21/writing-a-page-turner-how-to-tell-a-story-in-your-scientific-paper/)).
+- **Write a full discussion.** Discussions are often too short ([Clemens](https://blogs.lse.ac.uk/impactofsocialsciences/2018/05/21/writing-a-page-turner-how-to-tell-a-story-in-your-scientific-paper/)).
 
 <div class="exercise" markdown="1">
 ### Try it: Before → Then

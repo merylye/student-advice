@@ -14,7 +14,7 @@ topic: research
 ## Finding problems worth working on
 
 - **Work on important problems.** Important results come from important questions ([Hamming](https://www.cs.princeton.edu/~jrex/teaching/spring2005/fft/hamming.html); [Kung](https://www.eecs.harvard.edu/htk/phdadvice/)), or as Patterson puts it, solve a problem someone cares about ([Patterson](https://people.eecs.berkeley.edu/~pattrsn/talks/BadCareer.pdf)).
-- **Importance requires a way in.** A problem is important when you have a reasonable attack on it ([Hamming](https://www.cs.princeton.edu/~jrex/teaching/spring2005/fft/hamming.html)). Difficulty and importance are different things, and important work often unifies, connects, or enables other work ([Nielsen](https://michaelnielsen.org/blog/principles-of-effective-research/)).
+- **Pick problems you can attack.** A problem is important when you have a reasonable attack on it ([Hamming](https://www.cs.princeton.edu/~jrex/teaching/spring2005/fft/hamming.html)). Difficulty and importance are different things, and important work often unifies, connects, or enables other work ([Nielsen](https://michaelnielsen.org/blog/principles-of-effective-research/)).
 - **Ground the problem in the literature.** A research problem is a gap between the current and ideal state with no acceptable solution, documented by several sources. A topic, a hunch, or a yes/no question isn't a research problem on its own ([Ellis and Levy](http://inform.nu/Articles/Vol11/ISJv11p017-033Ellis486.pdf); [Ko](https://faculty.washington.edu/ajko/papers/Ko2019StudyDesign.pdf)).
 - **Something nobody has studied is not automatically worth studying.** Nobody has tested whether you can sit in every chair, and it isn't a useful question. You don't need to study every chair to know a chair will hold your weight.
 - **Don't exaggerate the distance from previous work.** It is very unlikely that nobody has looked into a question worth asking. Name the closest prior work on every dimension and say exactly what you do differently.
@@ -25,7 +25,7 @@ topic: research
 - **Look where others aren't.** Be wary of crowded, fashionable subfields, and look for confused areas that may hide a simplifying idea ([Nielsen](https://michaelnielsen.org/blog/principles-of-effective-research/); [Kung](https://www.eecs.harvard.edu/htk/phdadvice/)).
 - **Don't clout chase** or pursue projects with a mindset of doing it before someone else does. High quality research takes time. Aim for work that would still be insightful decades from now.
 - **Keep a running list of big problems.** Hold 10 to 20 important problems in mind and set aside regular time to think about them ([Hamming](https://www.cs.princeton.edu/~jrex/teaching/spring2005/fft/hamming.html); [Nielsen](https://michaelnielsen.org/blog/principles-of-effective-research/)).
-- **How ambitious to be early on?** Nielsen advises beginners to work mainly on tractable problems, and Kung warns against goals too big to finish. Hamming emphasizes daring to take on important problems. Together they suggest ambition paired with a feasible attack.
+- **How ambitious to be early on?** Nielsen advises beginners to work mainly on tractable problems, and Kung warns against goals too big to finish. Hamming emphasizes daring to take on important problems.
 - **Talk to experienced people before committing.** Ask senior researchers what remains unresolved, and talk to the audience you hope will care ([Ellis and Levy](http://inform.nu/Articles/Vol11/ISJv11p017-033Ellis486.pdf); [Ko](https://faculty.washington.edu/ajko/papers/Ko2019StudyDesign.pdf)).
 
 > "People always say to follow your passion and it will lead to the thing you should do. But if you like a lot of different things, it doesn't matter which one you pick, because you'll be happy no matter which you end up with. Do the things you're excited about, and even if you're picking one among many, know that you'll be happy, and you can worry about writing a cohesive narrative onto it later."
@@ -34,11 +34,11 @@ topic: research
 
 ## Reading papers
 
-S. Keshav's [three-pass method](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf) is the most widely used approach:
+S. Keshav's [three-pass method](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf) is a common approach:
 
 - **Pass 1 (5 to 10 minutes).** Read the title, abstract, introduction, section headings, and conclusions, and glance at the references. Then answer the "five Cs": *category* (what type of paper is it?), *context* (what work does it build on?), *correctness* (do the assumptions look valid?), *contributions* (what are the main ones?), and *clarity* (is it well written?). Decide whether to keep going.
 - **Pass 2 (up to an hour).** Read carefully but skip proofs and details. Look closely at figures and graphs, and mark references you haven't read.
-- **Pass 3 (several hours).** Virtually recreate the work: make the same assumptions and see whether you'd reach the same conclusions. This is where you find hidden assumptions and ideas for future work.
+- **Pass 3 (several hours).** Virtually recreate the work: make the same assumptions and see whether you'd reach the same conclusions. The third pass surfaces hidden assumptions and ideas for future work.
 
 More advice on reading:
 

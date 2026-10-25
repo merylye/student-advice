@@ -18,7 +18,7 @@ From Eytan Adar's essay [AI-Native PhD Students](https://eytanadar.medium.com/ai
 
 - **Use AI in proportion to what you understand.** Rely on it least for the work you find hardest, and don't use it to avoid learning.
 - **Own your key decisions.** Be able to explain and defend each important choice, such as your analysis method, and say what would falsify your result.
-- **Build deep domain knowledge.** Expertise lets you lead how your field changes in response to AI.
+- **Build deep domain knowledge.** With domain expertise, you can help decide how your area adapts to AI.
 - **Treat AI agreement with suspicion.** AI tools tend to agree with you, so their claims that your work is rigorous are not evidence.
 - **Ask what you add.** Heavy AI use can make different students' work look alike and adds to a flood of low-quality submissions.
 - **Invite oversight.** Ask mentors and peers to hold you accountable for how you use AI.
@@ -36,4 +36,4 @@ Policies change often, so check the current version before you submit.
 ## More reading
 
 - **[Expertise before augmentation](https://zenodo.org/records/18452319)** (Krishnan, 2026) is a practical guide for research trainees. It argues for building core skills before handing tasks to AI, and gives task-specific guidance for data analysis, literature review, writing manuscripts and proposals, figures, and communication.
-- **Understanding as evidence of authorship.** Payan, Gyevnár, Kasirzadeh, and Shah propose a proctored test of whether authors understand their own papers, and found its scores predicted which papers participants had written ([greCAPTCHA, 2026](https://arxiv.org/abs/2609.20481)). It's a preliminary study, and it's one sign that venues may start checking understanding directly.
+- **Understanding as evidence of authorship.** Payan, Gyevnár, Kasirzadeh, and Shah propose a proctored test of whether authors understand their own papers, and found its scores predicted which papers participants had written ([greCAPTCHA, 2026](https://arxiv.org/abs/2609.20481)). The study is preliminary.

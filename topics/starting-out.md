@@ -5,8 +5,8 @@ topic: starting-out
 
 ## What research is like
 
-- **Research uses different skills than coursework.** You choose the problems, they may have no known answer, and you may end up knowing more than anyone about your topic. Grades are a weak signal of research ability ([Hewitt](https://www.cs.columbia.edu/~johnhew/undergrad-researchers.html); [CRA](https://conquer.cra.org/wp-content/uploads/2021/11/ThePhDinComputing_CRAEWebinar.pdf)). Most of your early attempts won't work. The skill you are building is figuring out what to try next.
-- **Expect to spend time confused.** Not knowing what you don't know is part of starting out. Asking questions early saves weeks of going in the wrong direction.
+- **Research uses different skills than coursework.** You choose the problems, they may have no known answer, and you may end up knowing more than anyone about your topic. Grades are a weak signal of research ability ([Hewitt](https://www.cs.columbia.edu/~johnhew/undergrad-researchers.html); [CRA](https://conquer.cra.org/wp-content/uploads/2021/11/ThePhDinComputing_CRAEWebinar.pdf)). Most of your early attempts won't work, and part of research is learning what to try next.
+- **Expect to spend time confused.** Not knowing what you don't know is part of starting out. Ask questions early so you don't spend weeks going in the wrong direction.
 - **Write to think and to learn.** Writing extends your reasoning, and writing down what you read helps you learn hard material ([Blum](https://www.cs.cmu.edu/~mblum/research/pdf/grad.html)).
 
 ## Getting involved

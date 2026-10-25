@@ -56,7 +56,7 @@ List the experiences you want during your PhD: a project sequence, technical and
 
 ## The professional side
 
-- **Keep it professional.** Keep personal matters mostly out of the relationship ([APA, Dear Advisee](https://www.apa.org/monitor/2012/07-08/advisee)), and as a funded RA, expect to deliver results ([Azuma](https://www.cs.unc.edu/~azuma/hitch4.html)).
+- **Keep it professional.** Leave personal matters mostly out of the relationship ([APA, Dear Advisee](https://www.apa.org/monitor/2012/07-08/advisee)), and as a funded RA, expect to deliver results ([Azuma](https://www.cs.unc.edu/~azuma/hitch4.html)).
 - **Choose your committee carefully and listen to it.** Avoid members who are in conflict with your advisor ([APA, Dear Advisee](https://www.apa.org/monitor/2012/07-08/advisee)), and keep them informed, since they remember the advice they gave ([Might](https://matt.might.net/articles/ways-to-fail-a-phd/)).
 - **Be good to staff and peers.** Department staff can help with pay, equipment, and paperwork ([APA, Dear Advisee](https://www.apa.org/monitor/2012/07-08/advisee)). Peers can give feedback on papers and tips on working with particular faculty ([Rexford](https://blog.citp.princeton.edu/2010/09/27/advice-new-graduate-students/)).
 

@@ -24,7 +24,7 @@ topic: time-wellbeing
 
 ## Habits and productivity
 
-- **Make the productive choice the easy one.** Set up your workspace and devices so working is the path of least resistance: work on campus, block distracting sites, and keep reminders where your triggers happen ([Might](https://matt.might.net/articles/productivity-tips-hints-hacks-tricks-for-grad-students-academics/); [Might](https://matt.might.net/articles/how-to-change-your-behavior/)). Make your most frequent tasks the fastest ones ([Might](https://matt.might.net/articles/console-hacks-exploiting-frequency/)).
+- **Make the productive choice the easy one.** Set up your workspace and devices so working is the easiest option. Work on campus, block distracting sites, and keep reminders where your triggers happen ([Might](https://matt.might.net/articles/productivity-tips-hints-hacks-tricks-for-grad-students-academics/); [Might](https://matt.might.net/articles/how-to-change-your-behavior/)). Make your most frequent tasks the fastest ones ([Might](https://matt.might.net/articles/console-hacks-exploiting-frequency/)).
 - **Measure before you change.** Track a habit (when, where, with whom, what emotion) before trying to change it ([Might](https://matt.might.net/articles/how-to-change-your-behavior/)). Do a time audit if your priorities seem off ([Dredze and Wallach](https://www.cs.jhu.edu/~mdredze/publications/HowtoBeaSuccessfulPhDStudent.pdf)).
 - **Batch email and turn off notifications.** Check email at set times, and turn answers you repeat into a post you can link ([Might](https://matt.might.net/articles/productivity-tips-hints-hacks-tricks-for-grad-students-academics/)).
 - **Start small and plan in actions.** Write specific actions and if/when-then rules, and begin with a minimal version you can keep during stressful weeks. After a lapse, forgive yourself and adjust the plan ([Might](https://matt.might.net/articles/how-to-change-your-behavior/)).
@@ -40,7 +40,7 @@ Write down what you learned as advice to your future self. Schedule an email to 
 ## Deadlines and finishing
 
 - **Set your own deadline before the real one.** Finish a week early ([Dredze and Wallach](https://www.cs.jhu.edu/~mdredze/publications/HowtoBeaSuccessfulPhDStudent.pdf)), or set an internal deadline two weeks early and have a full draft reviewed with the real review form ([Karpathy](https://karpathy.github.io/2016/09/07/phd/)). Track deadlines yourself instead of relying on your advisor.
-- **Finishing is a core research skill** ([Yang](https://jxyzabc.blogspot.com/2017/09/the-genius-fallacy.html)).
+- **Practice finishing.** Jean Yang counts finishing as a core research skill ([Yang](https://jxyzabc.blogspot.com/2017/09/the-genius-fallacy.html)).
 - **Submit to make the deadline?** Matt Might favors submitting good-enough work and publishing in stages. Dredze and Wallach warn against submitting weak work, since "there is always another deadline around the corner," and favor a few strong papers over many weak ones. Karpathy also warns against slicing one project into many small papers.
 - **Pace yourself.** A paper a year earlier or later matters little over a career, CS PhDs often take five to six years, and there's no pressure for a first-year paper ([Das](https://medium.com/student-voices/a-letter-to-my-younger-self-about-dealing-with-rejection-in-academia-da4f46ae9a9f); [Dredze and Wallach](https://www.cs.jhu.edu/~mdredze/publications/HowtoBeaSuccessfulPhDStudent.pdf)).
 
@@ -64,17 +64,17 @@ Write down what you learned as advice to your future self. Schedule an email to 
 
 ## Failure and rejection
 
-- **Failure is the normal state of research.** Most ideas fail, and you may work for months without clear progress ([Das](https://sauvik-das.medium.com/the-emotional-labor-of-your-ph-d-84e24846daff); [Might](http://matt.might.net/articles/successful-phd-students/); [Dredze and Wallach](https://www.cs.jhu.edu/~mdredze/publications/HowtoBeaSuccessfulPhDStudent.pdf)).
+- **Expect most ideas to fail.** You may work for months without clear progress ([Das](https://sauvik-das.medium.com/the-emotional-labor-of-your-ph-d-84e24846daff); [Might](http://matt.might.net/articles/successful-phd-students/); [Dredze and Wallach](https://www.cs.jhu.edu/~mdredze/publications/HowtoBeaSuccessfulPhDStudent.pdf)).
 - **Most papers get rejected.** Acceptance rates at good venues run roughly 8 to 25%, and review outcomes involve chance ([Might](http://matt.might.net/articles/successful-phd-students/); [Das](https://medium.com/student-voices/a-letter-to-my-younger-self-about-dealing-with-rejection-in-academia-da4f46ae9a9f); [Fiesler](https://cfiesler.medium.com/tenured-professor-rogers-talks-about-imposter-syndrome-229e0a546ac1)).
 - **Let yourself feel bad, then use the feedback.** Don't take reviews personally; treat them as a guide for revision ([Das](https://medium.com/student-voices/a-letter-to-my-younger-self-about-dealing-with-rejection-in-academia-da4f46ae9a9f); [Fiesler](https://cfiesler.medium.com/tenured-professor-rogers-talks-about-imposter-syndrome-229e0a546ac1)).
 - **Focus on process.** Judge yourself by doing good work and by what you can control, instead of by publication counts or awards ([Das](https://medium.com/student-voices/a-letter-to-my-younger-self-about-dealing-with-rejection-in-academia-da4f46ae9a9f); [Fiesler](https://cfiesler.medium.com/tenured-professor-rogers-talks-about-imposter-syndrome-229e0a546ac1)).
 - **Enjoy the process.** It's where you spend most of your time.
-- **Keep showing up.** Perseverance predicts success better than brilliance ([Might](http://matt.might.net/articles/successful-phd-students/); [Yang](https://jxyzabc.blogspot.com/2017/09/the-genius-fallacy.html)).
+- **Keep showing up.** Might and Yang argue that persistence matters more than brilliance ([Might](http://matt.might.net/articles/successful-phd-students/); [Yang](https://jxyzabc.blogspot.com/2017/09/the-genius-fallacy.html)).
 - **Learn from what went wrong.** Write down what failed, why, and what you'd change, and talk to your advisor when persistent failure suggests it's time to change course ([Dredze and Wallach](https://www.cs.jhu.edu/~mdredze/publications/HowtoBeaSuccessfulPhDStudent.pdf)).
 
 ## Expect it to be hard
 
-- **Volume closes the gap between taste and skill.** Your early work will disappoint you, and doing a lot of it is how it improves ([Das](https://sauvik-das.medium.com/the-shape-of-your-ph-d-426975399d88); [Guo](https://pg.ucsd.edu/early-stage-PhD-advice.htm)).
+- **Do a lot of work early.** Your early work will disappoint you, and doing a lot of it is how it improves ([Das](https://sauvik-das.medium.com/the-shape-of-your-ph-d-426975399d88); [Guo](https://pg.ucsd.edu/early-stage-PhD-advice.htm)).
 - **Drop perfectionism.** "Good enough" beats "perfect" ([Might](https://matt.might.net/articles/ways-to-fail-a-phd/)). Write rough first drafts and prototypes ([Marcus](https://marcua.net/writing/gradschool-guide/); [Guo](https://pg.ucsd.edu/early-stage-PhD-advice.htm)). Jean Yang learned that a paper can do much less than her first one and still be publishable ([Yang](https://jxyzabc.blogspot.com/2016/02/my-phd-abridged.html)).
 - **Scope the dissertation.** Aim for a manageable contribution, keep it narrow, and save other ideas for later ([Might](https://matt.might.net/articles/ways-to-fail-a-phd/); [Fiesler](https://cfiesler.medium.com/advice-for-new-phd-students-your-research-career-is-a-long-game-4721abbd80ac)).
 - **Persist before switching.** Give a project three to nine months before switching, and switch if it has stalled for a year ([Guo](https://pg.ucsd.edu/early-stage-PhD-advice.htm)).

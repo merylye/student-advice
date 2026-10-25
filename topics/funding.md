@@ -52,7 +52,7 @@ Write a paragraph about what drives your interest in research: an experience, a 
 
 ### Stipends
 
-- **Compare stipends against cost of living.** [PhD Stipends](https://www.phdstipends.com) collects thousands of self-reported stipends by school and department. Pair it with the [MIT Living Wage Calculator](https://livingwage.mit.edu) for the city. A 2022 analysis that combined the two found MIT's stipends fell around the 80th percentile once adjusted for cost of living, so a higher number on paper can mean less in practice ([Stipends analysis](https://web.mit.edu/julianst/www/phdstipends/stipends.html)).
+- **Compare stipends against cost of living.** [PhD Stipends](https://www.phdstipends.com) collects thousands of self-reported stipends by school and department. Pair it with the [MIT Living Wage Calculator](https://livingwage.mit.edu) for the city. A 2022 analysis that combined the two found MIT's stipends fell around the 80th percentile once adjusted for cost of living, so a higher stipend can buy less in an expensive city ([Stipends analysis](https://web.mit.edu/julianst/www/phdstipends/stipends.html)).
 - **Self-reported data is noisy.** Treat these numbers as a starting point, and confirm the current stipend, summer funding, and fees with the program and its students during visits.
 
 ### Money

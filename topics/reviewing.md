@@ -47,5 +47,5 @@ Review a paper on your own, then discuss it in a small group as if you were the 
 - **Promise small, specific changes.** Give exact details, say where each change goes, and explain what you'll cut to make room ([Elmqvist](https://sites.umiacs.umd.edu/elm/2016/11/19/writing-rebuttals/); [Bigham](http://jeffreybigham.com/blog/2019/jeffs-rebuttal-guide.html)).
 - **Be polite, firm, and factual.** Never blame or insult reviewers, and avoid sarcasm ([Elmqvist](https://sites.umiacs.umd.edu/elm/2016/11/19/writing-rebuttals/); [Bigham](http://jeffreybigham.com/blog/2019/jeffs-rebuttal-guide.html)).
 - **Admit weaknesses?** Elmqvist advises never admitting a major flaw and presenting concerns as needing minor clarification. Bigham advises accepting some limitations to build credibility.
-- **Spend space where it counts.** Focus on undecided reviewers, and expect scores to move only a little ([Bigham](http://jeffreybigham.com/blog/2019/jeffs-rebuttal-guide.html)).
+- **Focus on undecided reviewers**, and expect scores to move only a little ([Bigham](http://jeffreybigham.com/blog/2019/jeffs-rebuttal-guide.html)).
 - **Fix the paper too.** If a reviewer misunderstood, fix the writing that caused it, and make every promised change if accepted ([Elmqvist](https://sites.umiacs.umd.edu/elm/2016/11/19/writing-rebuttals/)).

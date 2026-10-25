@@ -5,7 +5,7 @@ topic: presenting
 
 ## Structuring a talk
 
-- **A talk is an advertisement for the paper.** A short talk should make listeners want to read the paper, so give context, motivation, and intuition instead of full detail ([Shewchuk](https://people.eecs.berkeley.edu/~jrs/speaking.html); [Ernst](https://homes.cs.washington.edu/~mernst/advice/giving-talk.html)).
+- **Use a short talk to make people want to read the paper.** A short talk should make listeners want to read the paper, so give context, motivation, and intuition instead of full detail ([Shewchuk](https://people.eecs.berkeley.edu/~jrs/speaking.html); [Ernst](https://homes.cs.washington.edu/~mernst/advice/giving-talk.html)).
 - **Fit the talk to the audience.** A research-group talk, a conference talk, and an invited talk have different goals ([Ernst](https://homes.cs.washington.edu/~mernst/advice/giving-talk.html)).
 - **Motivate the question for a diverse audience.** Start with the big P to place the topic in a relatable context, then zoom in to the little p.
 - **Set up your central message early.** When it arrives late, it seems disconnected from everything before it.
