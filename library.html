@@ -40,4 +40,4 @@ title: Library
 
 <script id="library-data" type="application/json">{{ site.data.resources | jsonify }}</script>
 <script id="library-labels" type="application/json">{{ site.data.labels | jsonify }}</script>
-<script src="{{ '/assets/js/library.js' | relative_url }}"></script>
+<script src="{{ '/assets/js/library.js' | relative_url }}?v={{ site.time | date: '%s' }}"></script>
