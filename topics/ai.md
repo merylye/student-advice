@@ -27,4 +27,16 @@ From Eytan Adar's essay [AI-Native PhD Students](https://eytanadar.medium.com/ai
 - **Invite oversight.** Ask mentors and peers to hold you accountable for how you use AI.
 - **Expect to be tested on understanding.** Adar expects more oral defenses and in-person exams, and job talks where you'll have to defend your work without help.
 
-[PLACEHOLDER: more resources.]
+## Know the rules where you publish and apply
+
+Policies change often, so check the current version before you submit.
+
+- **ACM (including CHI, CSCW, and other SIGCHI venues).** AI tools can't be listed as authors. Using them to create content is allowed but must be fully disclosed, for example in the acknowledgements. Basic tools for spelling, grammar, rewording suggestions, and translation don't need disclosure. When unsure, disclose ([ACM Policy on Authorship](https://www.acm.org/publications/policies/new-acm-policy-on-authorship)).
+- **You are responsible for what the tool writes.** SIGCHI's guidance warns that AI tools can invent realistic-looking references, which counts as falsified content under ACM policy, and that serious violations can bring a publication ban and a letter to your chair. It suggests AI is better suited to editing your own writing, such as shortening or copy editing, than to generating new content ([SIGCHI](https://sigchi.org/news/blog/acm-publications-policy-guidance-for-sigchi-venues/)).
+- **Never upload work you're reviewing.** NSF prohibits reviewers from uploading any proposal content to non-approved AI tools, and treats it as a breach of confidentiality. Proposers are encouraged to say in the project description whether and how they used AI, and remain responsible for accuracy ([NSF](https://www.nsf.gov/policies/ai/merit-review)). The same confidentiality applies to papers you review for conferences.
+- **Other publishers and funders.** Martin Monperrus keeps a page comparing AI policies across IEEE, ACM, Elsevier, arXiv, and several funders ([Monperrus](https://www.monperrus.net/martin/generative-ai-scientific-writing)). Your university and department likely have their own rules for coursework, qualifying exams, and theses.
+
+## More reading
+
+- **[Expertise before augmentation](https://zenodo.org/records/18452319)** (Krishnan, 2026) is a practical guide for research trainees. It argues for building core skills before handing tasks to AI, and gives task-specific guidance for data analysis, literature review, writing manuscripts and proposals, figures, and communication.
+- **Understanding as evidence of authorship.** Payan, Gyevnár, Kasirzadeh, and Shah propose a proctored test of whether authors understand their own papers, and found its scores predicted which papers participants had written ([greCAPTCHA, 2026](https://arxiv.org/abs/2609.20481)). It's a preliminary study, and it's one sign that venues may start checking understanding directly.

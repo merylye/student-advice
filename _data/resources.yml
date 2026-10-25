@@ -109,7 +109,7 @@
   type: essay
   note: "Advice for undergrads interested in research."
 - title: "Grad school's hidden curriculum"
-  author: "Scatterplot (guest post)"
+  author: "Jessica Calarco (Scatterplot)"
   url: "https://scatter.wordpress.com/2018/07/24/guest-post-grad-schools-hidden-curriculum/"
   topics: [starting-out, choosing]
   stage: [prospective, early]
@@ -1535,3 +1535,93 @@
   field: [cs, hci]
   type: template
   note: "Ranks CS departments by faculty publications in top venues; filter by area, such as HCI."
+
+# ---------- Added: AI policies and funding ----------
+- title: "ACM Policy on Authorship (generative AI section)"
+  author: "ACM"
+  url: "https://www.acm.org/publications/policies/new-acm-policy-on-authorship"
+  topics: [ai, writing]
+  stage: [any]
+  field: [cs, hci]
+  type: essay
+  note: "ACM's rules: AI can't be an author, AI-generated content must be disclosed, basic spelling and grammar tools are exempt."
+- title: "ACM Publications Policy: Guidance for SIGCHI Venues"
+  author: "Regan Mandryk (SIGCHI)"
+  url: "https://sigchi.org/news/blog/acm-publications-policy-guidance-for-sigchi-venues/"
+  topics: [ai, writing]
+  stage: [any]
+  field: [hci]
+  type: essay
+  note: "What ACM's AI policy means at CHI and other SIGCHI venues, including penalties for invented references."
+- title: "Use of Generative AI in the NSF Merit Review Process"
+  author: "NSF"
+  url: "https://www.nsf.gov/policies/ai/merit-review"
+  topics: [ai, funding, reviewing]
+  stage: [any]
+  field: [general]
+  type: essay
+  note: "NSF bars reviewers from uploading proposal content to AI tools and encourages proposers to disclose AI use."
+- title: "Policies on Generative AI for Scholarly Writing"
+  author: "Martin Monperrus"
+  url: "https://www.monperrus.net/martin/generative-ai-scientific-writing"
+  topics: [ai]
+  stage: [any]
+  field: [cs]
+  type: collection
+  note: "A comparison of AI policies across IEEE, ACM, Elsevier, arXiv, and several research funders."
+- title: "Expertise before augmentation: a practical guide to using generative AI during research training"
+  author: "A. Krishnan"
+  url: "https://zenodo.org/records/18452319"
+  topics: [ai, research]
+  stage: [early, mid]
+  field: [general]
+  type: paper
+  note: "A 2026 guide for trainees and mentors on building core skills before relying on AI, with task-specific protocols."
+- title: "greCAPTCHA: Assessing Understanding as Evidence of Research Authorship Under Generative AI"
+  author: "Payan, Gyevnár, Kasirzadeh, and Shah"
+  url: "https://arxiv.org/abs/2609.20481"
+  topics: [ai]
+  stage: [any]
+  field: [cs]
+  type: paper
+  note: "A 2026 preprint proposing proctored tests of whether authors understand their own papers."
+- title: "PhD Stipends"
+  author: "phdstipends.com"
+  url: "https://www.phdstipends.com"
+  topics: [funding, choosing]
+  stage: [prospective, early]
+  field: [general]
+  type: template
+  note: "Self-reported PhD stipends by school and department."
+- title: "MIT Living Wage Calculator"
+  author: "MIT"
+  url: "https://livingwage.mit.edu"
+  topics: [funding, choosing]
+  stage: [prospective]
+  field: [general]
+  type: template
+  note: "Cost-of-living estimates by US county and city, useful for comparing stipend offers."
+- title: "Gary Marsden Travel Awards"
+  author: "SIGCHI"
+  url: "https://sigchi.org/resources/gary-marsden-travel-awards"
+  topics: [funding, presenting]
+  stage: [any]
+  field: [hci]
+  type: template
+  note: "Travel and registration support for students and others with financial need attending SIGCHI conferences."
+- title: "CHI Student Volunteers"
+  author: "CHI 2026"
+  url: "https://chi2026.acm.org/2025/10/16/call-for-svs/"
+  topics: [funding, presenting]
+  stage: [prospective, early, mid]
+  field: [hci]
+  type: template
+  note: "Free registration and meals at CHI in exchange for about 20 hours of volunteering; selection mostly by lottery."
+- title: "CRA-WP Grad Cohort Workshop"
+  author: "CRA-WP"
+  url: "https://cra.org/cra-wp/grad-cohort-workshops/"
+  topics: [funding, starting-out, careers]
+  stage: [early]
+  field: [cs]
+  type: template
+  note: "A free, travel-funded mentoring workshop for computing grad students at North American institutions."

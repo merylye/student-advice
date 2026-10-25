@@ -3,7 +3,7 @@ title: Choosing a program and advisor
 topic: choosing
 ---
 
-This site is not a guide on applying to grad school, though some of the links below might be helpful for that endeavor. That being said, if you haven't gotten into grad school yet, here are my two cents:
+If you haven't gotten into grad school yet, here are my two cents:
 
 > Don't apply to safeties. For each program on your list, ask yourself "if this is the only program that accepts me, would I be *happy* to go?" If the answer is no, take it off your list. You can always apply again next year. Your chances of graduating on time (or even finishing) decrease if you aren't in the right program, so you're not actually saving time by going to a safety.
 

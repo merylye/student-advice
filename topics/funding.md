@@ -49,4 +49,17 @@ topic: funding
 ## Funding and finances
 
 - Funding shapes which projects are possible. Ask potential advisors how students in their group are funded.
-- [PLACEHOLDER: resources on PhD stipends, conference travel funding, and budgeting.]
+
+### Stipends
+
+- **Compare stipends against cost of living.** [PhD Stipends](https://www.phdstipends.com) collects thousands of self-reported stipends by school and department. Pair it with the [MIT Living Wage Calculator](https://livingwage.mit.edu) for the city. A 2022 analysis that combined the two found MIT's stipends fell around the 80th percentile once adjusted for cost of living, so a higher number on paper can mean less in practice ([Stipends analysis](https://web.mit.edu/julianst/www/phdstipends/stipends.html)).
+- **Self-reported data is noisy.** Treat these numbers as a starting point, and confirm the current stipend, summer funding, and fees with the program and its students during visits.
+
+### Conference travel
+
+- **Volunteer.** CHI's student volunteers get conference registration waived plus breakfast and lunch on site, in exchange for about 20 hours of work. Undergraduate, master's, and PhD students are eligible. Most spots are filled by lottery through the [CHISV system](https://new.chisv.org), which opens months before the conference. Housing and travel are not covered ([CHI 2026 call for SVs](https://chi2026.acm.org/2025/10/16/call-for-svs/)). Many other ACM conferences run similar programs.
+- **Apply for SIGCHI's Gary Marsden Travel Awards.** Students, early-career researchers, and people facing financial hardship or lacking institutional support can apply. The award covers registration and reimburses travel costs after the conference, and applications are judged on financial need and benefit to you. There are seven deadlines a year (the 9th of January, February, March, May, July, September, and November), and you must apply more than a month before the conference ([SIGCHI](https://sigchi.org/resources/gary-marsden-travel-awards)).
+- **Look for conference-specific student travel grants.** Many conferences, such as ICWSM and CSCW, announce their own student travel grants on their websites, often with deadlines well before the event.
+- **Attend funded workshops.** The CRA-WP Grad Cohort Workshop is free for master's and PhD students in computing at North American institutions, and reimburses airfare, ground transport, meals, and a shared hotel room. Priority goes to first-time attendees. It covers finding a research topic, publishing, working with your advisor, and careers. Applications open in the fall ([CRA-WP](https://cra.org/cra-wp/grad-cohort-workshops/)).
+- **Check your university and department.** Many schools fund student conference travel separately from research grants. At CMU, for example, the Graduate Student Assembly runs conference funding, and Scholarly Project Funding gives $750 for research costs such as datasets, software, participant fees, and research travel, excluding conference travel ([CMU](https://www.cmu.edu/graduate/funding/research-grants.html)).
+- **Plan for reimbursement delays.** Most travel funding pays you back weeks after the trip, so you may need to cover airfare and hotels upfront. Some programs, including SIGCHI's awards and CRA-WP, can pay costs in advance if you ask.
