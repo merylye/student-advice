@@ -69,7 +69,8 @@ a:hover { color: var(--ink); text-decoration-thickness: 2px; }
 .band-sand { background: var(--bg); }
 .band-dark { background: var(--ink); color: var(--bg); }
 .band-dark a { color: var(--apricot); }
-.band-title { background: var(--apricot); padding-top: 40px; padding-bottom: 56px; }
+.band-title { background: var(--apricot); padding-top: 32px; padding-bottom: 36px; }
+.band-title h1 { margin-bottom: 0; }
 .band-last { padding-bottom: 88px; }
 .wrap { max-width: var(--max); margin: 0 auto; }
 .prose { max-width: var(--prose); margin: 0; }
@@ -78,10 +79,10 @@ a:hover { color: var(--ink); text-decoration-thickness: 2px; }
 
 /* Type */
 h1, h2, h3 { line-height: 1.08; letter-spacing: -0.02em; margin: 0 0 0.5em; font-weight: 800; }
-h1 { font-size: clamp(42px, 6.4vw, 76px); letter-spacing: -0.035em; }
-h2 { font-size: clamp(30px, 3.6vw, 42px); margin-top: 1.4em; }
+h1 { font-size: clamp(30px, 3.6vw, 46px); letter-spacing: -0.03em; }
+h2 { font-size: clamp(24px, 2.4vw, 30px); margin-top: 1.4em; }
 h2:first-child { margin-top: 0; }
-h3 { font-size: 22px; font-weight: 700; margin-top: 1.6em; letter-spacing: -0.01em; }
+h3 { font-size: 20px; font-weight: 700; margin-top: 1.6em; letter-spacing: -0.01em; }
 p { margin: 0 0 1em; }
 .lede { font-size: 21px; max-width: 760px; margin: 0; }
 .eyebrow { margin: 0 0 12px; font-size: 16px; }
@@ -94,9 +95,9 @@ li { margin: 0.35em 0; }
 li > strong:first-child { font-weight: 700; }
 
 /* Home hero */
-.hero { padding: 56px 48px 56px; }
-.hero-grid { display: grid; grid-template-columns: minmax(0, 1.4fr) minmax(0, 1fr); gap: 48px; align-items: center; }
-.hero h1 { font-size: clamp(52px, 7vw, 104px); line-height: 0.9; letter-spacing: -0.045em; margin: 0 0 24px; }
+.hero { padding: 48px 48px 40px; }
+.hero-grid { max-width: var(--prose); margin: 0; }
+.hero h1 { font-size: clamp(34px, 4.4vw, 56px); line-height: 1.05; letter-spacing: -0.035em; margin: 0 0 20px; }
 .hero .sub { font-size: clamp(19px, 2vw, 23px); font-weight: 600; max-width: 620px; }
 .hero p { max-width: 600px; }
 .sticker-wrap { display: flex; justify-content: center; padding: 24px; }
