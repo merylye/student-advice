@@ -4,7 +4,7 @@
 - **Impact starts local.** Big-picture societal impact is hard to see or control, and thinking too far ahead gets stressful. Focus on what you can do for your local community and bubble, and the gratification is much more immediate. Let your interests and passions guide the rest.
 - **Enjoy the process.** It's where you spend most of your time.
 
-### Advice from Professors
+### Advice from Faculty
 
 > "People always say to follow your passion and it will lead to the thing you should do. But if you like a lot of different things, it doesn't matter which one you pick, because you'll be happy no matter which you end up with. Do the things you're excited about, and even if you're picking one among many, know that you'll be happy, and you can worry about writing a cohesive narrative onto it later."
 >
