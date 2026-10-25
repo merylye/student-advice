@@ -84,7 +84,7 @@ h2 { font-size: clamp(24px, 2.4vw, 30px); margin-top: 1.4em; }
 h2:first-child { margin-top: 0; }
 h3 { font-size: 20px; font-weight: 700; margin-top: 1.6em; letter-spacing: -0.01em; }
 p { margin: 0 0 1em; }
-.lede { font-size: 21px; max-width: 760px; margin: 0; }
+.lede { font-size: 21px; max-width: var(--prose); margin: 0; }
 .eyebrow { margin: 0 0 12px; font-size: 16px; }
 .eyebrow a { color: var(--ink); font-weight: 500; }
 .muted { color: var(--muted); }
@@ -99,7 +99,7 @@ li > strong:first-child { font-weight: 700; }
 .hero-grid { max-width: var(--prose); margin: 0; }
 .hero h1 { font-size: clamp(34px, 4.4vw, 56px); line-height: 1.05; letter-spacing: -0.035em; margin: 0 0 20px; }
 .hero .sub { font-size: clamp(19px, 2vw, 23px); font-weight: 600; max-width: 620px; }
-.hero p { max-width: 600px; }
+.hero p { max-width: var(--prose); }
 .sticker-wrap { display: flex; justify-content: center; padding: 24px; }
 .sticker {
   margin: 0; max-width: 380px; padding: 30px 32px; background: var(--clay); border-radius: var(--radius);
