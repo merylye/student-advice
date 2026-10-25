@@ -268,7 +268,6 @@
   stage: [prospective]
   field: [hci]
   type: essay
-  note: "Not available; the original page blocks automated access and the Internet Archive copy was also blocked."
 - title: "Ph.D. Applications: FAQ"
   author: "Noah Smith"
   url: "https://docs.google.com/document/d/1lT-bsIP0GKfh8l5sQnM2hCzzR9prt-QLx16rimUOdIM/edit"
@@ -357,7 +356,6 @@
   stage: [early, mid]
   field: [cs]
   type: slides
-  note: "UNREADABLE. Content not extracted."
 
 # ---------- Time, projects, and wellbeing ----------
 - title: "Time Management (lecture)"
@@ -512,7 +510,6 @@
   stage: [any]
   field: [general]
   type: essay
-  note: "Not extracted."
 - title: "Successful PhD students"
   author: "Matt Might"
   url: "http://matt.might.net/articles/successful-phd-students/"
@@ -771,7 +768,6 @@
   stage: [any]
   field: [cs]
   type: collection
-  note: "UNREADABLE. Contents not verified."
 
 # ---------- Presenting and networking ----------
 - title: "Giving an Academic Talk"
@@ -813,7 +809,6 @@
   stage: [any]
   field: [general]
   type: essay
-  note: "Not extracted."
 - title: "Nine things I wish I had known the first time I came to NeurIPS"
   author: "Jennifer Wortman Vaughan"
   url: "https://medium.com/@jennwv/nine-things-i-wish-i-had-known-the-first-time-i-came-to-nips-b939330661ed"
@@ -890,7 +885,6 @@
   stage: [prospective, early]
   field: [cs]
   type: essay
-  note: "Not extracted."
   featured: true
 - title: "Guide to applying to US science PhD programs and fellowships"
   author: "DJ Strouse"
@@ -998,7 +992,6 @@
   stage: [early]
   field: [cs]
   type: essay
-  note: "UNREADABLE. Content not extracted."
 - title: "Advice for early-stage Ph.D. students"
   author: "Philip Guo"
   url: "https://pg.ucsd.edu/early-stage-PhD-advice.htm"
@@ -1014,7 +1007,6 @@
   stage: [late]
   field: [cs]
   type: essay
-  note: "UNREADABLE. Only the section list was visible (cover letter, research statement, teaching statement, diversity statement, representative publications, recommendation letters)."
 - title: "The academic job search for computer scientists in 10 questions"
   author: "Nicolas Papernot and Elissa Redmiles"
   url: "https://docs.google.com/document/u/1/d/e/2PACX-1vSeOnC_QdaJVc3OuuMfDHVlk3QotUxvghytRFaDsrdA0uovD5axQjp8kJCM4Evu1cCf9Hg_u_Stabu1/pub"
@@ -1278,7 +1270,6 @@
   stage: [prospective]
   field: [cs]
   type: essay
-  note: "Not available; Quora blocks automated access and the archive URL exceeded the fetch tool's length limit."
 - title: "A PhD Is Not Enough: A Guide to Survival in Science"
   author: "Peter Feibelman"
   url: "https://biomath.usu.edu/files/Peter_J._Feibelman_A_PhD_Is_Not_Enough.pdf"

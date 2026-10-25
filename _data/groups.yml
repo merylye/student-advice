@@ -1,0 +1,17 @@
+# Topic groups on the home page. Each topic in topics.yml names its group.
+- slug: start
+  name: Getting started
+  desc: Trying research and deciding on a PhD.
+  color: "#f2c48d"
+- slug: work
+  name: Doing the work
+  desc: The day-to-day of a research life.
+  color: "#cfd8b6"
+- slug: share
+  name: Sharing your work
+  desc: Writing, talking, and peer review.
+  color: "#b9d3d6"
+- slug: long
+  name: Money, tools, and careers
+  desc: Funding, AI, and the long game.
+  color: "#e9b7a3"

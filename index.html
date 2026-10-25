@@ -3,34 +3,48 @@ layout: default
 title: Advice for Students
 ---
 <section class="hero">
-  <h1>Advice for Students</h1>
-  <p class="sub">For undergrads, RAs, and early PhD students, with a tilt toward computer science, HCI, and computational social science.</p>
-</section>
-
-<section class="band band-dark intro">
-  <div class="wrap">
-    <p>I curated this site primarily for early PhD students and undergrads interested in research.</p>
-    <p>There is a ton of written advice, resources, and so on out on the internet. These are my favorites, accompanied by my own musings, advice I've collected from practicums and seminars, and a library of links you can filter by topic, stage, and field.</p>
-    <p class="tldr">tl;dr Make sure you enjoy what you do. High quality research takes time, and it's okay that it does!</p>
-  </div>
-</section>
-
-<section class="band band-white" id="topics">
-  <div class="wrap">
-    <h2>Topics</h2>
-    <div class="cards">
-      {%- for t in site.data.topics %}
-      <a class="card" href="{{ '/topics/' | append: t.slug | append: '/' | relative_url }}">
-        <span class="num">{{ forloop.index | prepend: '0' | slice: -2, 2 }}</span>
-        <h3>{{ t.title }}</h3>
-        <p>{{ t.blurb }}</p>
-      </a>
-      {%- endfor %}
+  <div class="wrap hero-grid">
+    <div>
+      <h1>Advice for Students</h1>
+      <p class="sub">For undergrads, RAs, and early PhD students, with a tilt toward computer science, HCI, and computational social science.</p>
+      <p>I curated this site primarily for early PhD students and undergrads interested in research.</p>
+      <p>There is a ton of written advice, resources, and so on out on the internet. These are my favorites, accompanied by my own musings, advice I've collected from practicums and seminars, and a library of links you can filter by topic, stage, and field.</p>
+    </div>
+    <div class="sticker-wrap">
+      <p class="sticker"><span class="sticker-label">tl;dr</span>Make sure you enjoy what you do. High quality research takes time, and it's okay that it does!</p>
     </div>
   </div>
 </section>
 
-<section class="band band-cream">
+<section class="band" id="topics">
+  <div class="wrap">
+    <nav class="jump" aria-label="Topic groups">
+      <span class="jump-label">Jump to</span>
+      {%- for g in site.data.groups %}
+      <a class="pill" style="background: {{ g.color }}" href="#group-{{ g.slug }}">{{ g.name }}</a>
+      {%- endfor %}
+    </nav>
+
+    {%- for g in site.data.groups %}
+    {%- assign ts = site.data.topics | where: "group", g.slug %}
+    <div class="group" id="group-{{ g.slug }}">
+      <div class="group-head">
+        <span class="group-num">0{{ forloop.index }}</span>
+        <h2>{{ g.name }}</h2>
+        <p>{{ g.desc }}</p>
+      </div>
+      {%- for t in ts %}
+      <a class="tile" style="background: {{ g.color }}" href="{{ '/topics/' | append: t.slug | append: '/' | relative_url }}">
+        <span class="tile-title">{{ t.title }}</span>
+        <span class="tile-blurb">{{ t.blurb }}</span>
+      </a>
+      {%- endfor %}
+    </div>
+    {%- endfor %}
+  </div>
+</section>
+
+<section class="band">
   <div class="wrap">
     <h2>Start here</h2>
     <div class="split">
@@ -46,28 +60,31 @@ title: Advice for Students
   </div>
 </section>
 
-<section class="band band-white">
-  <div class="wrap">
-    <h2>Favorite reads</h2>
-    {%- assign featured = site.data.resources | where: "featured", true -%}
-    <ul class="resource-list">
-      {%- for r in featured %}{% include resource-item.html r=r %}{% endfor %}
-    </ul>
-    <p style="margin-top:20px"><a href="{{ '/library/' | relative_url }}">Browse all {{ site.data.resources.size }} links in the library</a></p>
+<section class="band">
+  <div class="wrap feature-row">
+    <a class="feature feature-dark" href="{{ '/try-this/' | relative_url }}">
+      <span class="tile-title">Try this</span>
+      <span class="tile-blurb">Exercises for finding research problems, framing your work, and planning your PhD, adapted from first-year PhD seminars.</span>
+    </a>
+    <a class="feature feature-accent" href="{{ '/thoughts/' | relative_url }}">
+      <span class="tile-title">Thoughts from me</span>
+      <span class="tile-blurb">My own reflections on mentors, impact, and enjoying the process, plus a few favorite quotes from practicum speakers.</span>
+    </a>
+    <a class="feature feature-outline" href="{{ '/library/' | relative_url }}">
+      <span class="tile-title">Library</span>
+      <span class="tile-blurb">All {{ site.data.resources.size }} links on the site, filterable by topic, stage, and field.</span>
+    </a>
   </div>
 </section>
 
-<section class="band band-sand">
-  <div class="wrap split">
-    <div>
-      <h2>Try this</h2>
-      <p>Exercises for finding research problems, framing your work, and planning your PhD, adapted from first-year PhD seminars.</p>
-      <p><a href="{{ '/try-this/' | relative_url }}">Go to the exercises</a></p>
-    </div>
-    <div>
-      <h2>Thoughts from me</h2>
-      <p>My own reflections on mentors, impact, and enjoying the process, plus a few favorite quotes from practicum speakers.</p>
-      <p><a href="{{ '/thoughts/' | relative_url }}">Read my thoughts</a></p>
+<section class="band band-last">
+  <div class="wrap">
+    <div class="reads">
+      <h2>Favorite reads</h2>
+      {%- assign featured = site.data.resources | where: "featured", true -%}
+      <ul class="resource-list">
+        {%- for r in featured %}{% include resource-item.html r=r %}{% endfor %}
+      </ul>
     </div>
   </div>
 </section>
