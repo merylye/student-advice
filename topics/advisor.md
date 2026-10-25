@@ -24,17 +24,9 @@ More on expectations:
 - **Ask how much of each paper you should draft yourself** ([Guo](https://pg.ucsd.edu/early-stage-PhD-advice.htm)).
 - **With two advisors, settle the terms up front:** each advisor's role, who covers long-term funding, how authorship works, and who resolves disagreements. You shouldn't have to mediate between them ([Ko](https://faculty.washington.edu/ajko/faq)). Having no clear lead advisor is a common way students fall through the cracks ([Guo](https://pg.ucsd.edu/early-stage-PhD-advice.htm)).
 
-## What each of you brings
-
-Andrew Begel suggests listing what you and your advisor each bring to the PhD. His version:
-
-- **What the student brings:** time management, intrinsic motivation, communication, perseverance, willingness to dive into data and prior work, clarity of mission, doing your own thinking, academic honesty, and telling your advisor when you're finished.
-- **What the advisor brings:** experience, expectation setting, teaching you how to do things, tools, knowledge of the literature, help writing papers, brainstorming, strategy, positioning and storytelling, funding, help getting a job, allyship, and learning to recognize good ideas.
-- **What you build together:** trust that your advisor has your back, no ghosting, and autonomy over time. Your advisor is not your gatekeeper, parent, or boss in every sense. Trust, but verify.
-
 ## Meta-meetings
 
-Begel also recommends occasional meetings about the relationship itself, separate from research updates:
+Andrew Begel recommends occasional meetings about the relationship itself, separate from research updates:
 
 - **Why am I here? (once a year)** What do I want to be when I grow up? Why do I want a PhD? What do I want my research to be about? What kind of impact do I want it to have on society? What will my path to the PhD look like? What tasks and activities make me feel good about myself and my work?
 - **Management and working styles (monthly in your first semester, then once a semester).** Discuss what each of you wants and needs from the relationship, and negotiate how you'll communicate and work together.
