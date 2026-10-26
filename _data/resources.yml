@@ -1608,3 +1608,11 @@
   field: [cs]
   type: template
   note: "A free, travel-funded mentoring workshop for computing grad students at North American institutions."
+- title: "Ethical Costs and Epistemic Risks of LLMs: A Resource for Psychology Researchers"
+  author: "M.J. Crockett"
+  url: "https://docs.google.com/document/d/1Fv9TDqghKOQAMUyLNdxUI-eaQIWc2QAuTx0bSJsc-yU/edit?tab=t.0#heading=h.xhqegzmlpvuq"
+  topics: [ai]
+  stage: [any]
+  field: [general]
+  type: collection
+  note: "A curated reading list on the ethical costs and epistemic risks of using LLMs in research, with a case for open models."
