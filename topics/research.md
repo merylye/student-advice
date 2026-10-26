@@ -25,7 +25,10 @@ topic: research
 - **Look where others aren't.** Be wary of crowded, fashionable subfields, and look for confused areas that may hide a simplifying idea ([Nielsen](https://michaelnielsen.org/blog/principles-of-effective-research/); [Kung](https://www.eecs.harvard.edu/htk/phdadvice/)).
 - **Don't clout chase** or pursue projects with a mindset of doing it before someone else does. High quality research takes time. Aim for work that would still be insightful decades from now.
 - **Keep a running list of big problems.** Hold 10 to 20 important problems in mind and set aside regular time to think about them ([Hamming](https://www.cs.princeton.edu/~jrex/teaching/spring2005/fft/hamming.html); [Nielsen](https://michaelnielsen.org/blog/principles-of-effective-research/)).
-- **How ambitious to be early on?** Nielsen advises beginners to work mainly on tractable problems, and Kung warns against goals too big to finish. Hamming emphasizes daring to take on important problems.
+- **How ambitious to be early on?** There's mixed advice.
+  - [Nielsen](https://michaelnielsen.org/blog/principles-of-effective-research/) advises beginners to work mainly on tractable problems.
+  - [Kung](https://www.eecs.harvard.edu/htk/phdadvice/) warns against goals too big to finish.
+  - [Hamming](https://www.cs.princeton.edu/~jrex/teaching/spring2005/fft/hamming.html) emphasizes daring to take on important problems.
 - **Talk to experienced people before committing.** Ask senior researchers what remains unresolved, and talk to the audience you hope will care ([Ellis and Levy](http://inform.nu/Articles/Vol11/ISJv11p017-033Ellis486.pdf); [Ko](https://faculty.washington.edu/ajko/papers/Ko2019StudyDesign.pdf)).
 
 > "People always say to follow your passion and it will lead to the thing you should do. But if you like a lot of different things, it doesn't matter which one you pick, because you'll be happy no matter which you end up with. Do the things you're excited about, and even if you're picking one among many, know that you'll be happy, and you can worry about writing a cohesive narrative onto it later."

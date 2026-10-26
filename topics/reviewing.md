@@ -26,7 +26,10 @@ Processes change from year to year and venue to venue, so check the current call
 - **Focus on the big picture.** Long typo lists and scattered nitpicks dilute your main message ([Das](https://sauvik-das.medium.com/a-quick-guide-to-reviewing-papers-quick-fe9a493ed228); [Chan](https://engineering.purdue.edu/ChanGroup/write_review.html)).
 - **Give a reason for every judgment.** If you say the work isn't novel, cite the prior work ([CVPR 2022](https://cvpr2022.thecvf.com/sites/default/files/2021-11/How%20to%20be%20a%20good%20reviewer-tutorials%20for%20cvpr2022%20reviewers.pptx.pdf); [Chan](https://engineering.purdue.edu/ChanGroup/write_review.html)).
 - **List strengths, weaknesses, and fixes.** Say whether the evidence supports the claims, check for fundamental flaws, and name what most needs improvement. Your unanswered questions can become revision requests ([CVPR 2022](https://cvpr2022.thecvf.com/sites/default/files/2021-11/How%20to%20be%20a%20good%20reviewer-tutorials%20for%20cvpr2022%20reviewers.pptx.pdf); [Das](https://sauvik-das.medium.com/a-quick-guide-to-reviewing-papers-quick-fe9a493ed228)).
-- **Summary: long or short?** CVPR asks for a concise summary of the problem, solution, and contribution. Chan says to skip a long summary, since editors are experts. Das writes his summary as he reads to sharpen his questions.
+- **Summary: long or short?** There's mixed advice.
+  - [CVPR](https://cvpr2022.thecvf.com/sites/default/files/2021-11/How%20to%20be%20a%20good%20reviewer-tutorials%20for%20cvpr2022%20reviewers.pptx.pdf) asks for a concise summary of the problem, solution, and contribution.
+  - [Chan](https://engineering.purdue.edu/ChanGroup/write_review.html) says to skip a long summary, since editors are experts.
+  - [Das](https://sauvik-das.medium.com/a-quick-guide-to-reviewing-papers-quick-fe9a493ed228) writes his summary as he reads to sharpen his questions.
 - **Make a clear recommendation** and a strong case for it ([Chan](https://engineering.purdue.edu/ChanGroup/write_review.html)).
 
 ## Fair standards and tone
@@ -46,6 +49,8 @@ Review a paper on your own, then discuss it in a small group as if you were the 
 - **Answer every key concern**, and address each reviewer at least once ([Elmqvist](https://sites.umiacs.umd.edu/elm/2016/11/19/writing-rebuttals/); [Bigham](http://jeffreybigham.com/blog/2019/jeffs-rebuttal-guide.html)).
 - **Promise small, specific changes.** Give exact details, say where each change goes, and explain what you'll cut to make room ([Elmqvist](https://sites.umiacs.umd.edu/elm/2016/11/19/writing-rebuttals/); [Bigham](http://jeffreybigham.com/blog/2019/jeffs-rebuttal-guide.html)).
 - **Be polite, firm, and factual.** Never blame or insult reviewers, and avoid sarcasm ([Elmqvist](https://sites.umiacs.umd.edu/elm/2016/11/19/writing-rebuttals/); [Bigham](http://jeffreybigham.com/blog/2019/jeffs-rebuttal-guide.html)).
-- **Admit weaknesses?** Elmqvist advises never admitting a major flaw and presenting concerns as needing minor clarification. Bigham advises accepting some limitations to build credibility.
+- **Admit weaknesses?** There's mixed advice.
+  - [Elmqvist](https://sites.umiacs.umd.edu/elm/2016/11/19/writing-rebuttals/) advises never admitting a major flaw and presenting concerns as needing minor clarification.
+  - [Bigham](http://jeffreybigham.com/blog/2019/jeffs-rebuttal-guide.html) advises accepting some limitations to build credibility.
 - **Focus on undecided reviewers**, and expect scores to move only a little ([Bigham](http://jeffreybigham.com/blog/2019/jeffs-rebuttal-guide.html)).
 - **Fix the paper too.** If a reviewer misunderstood, fix the writing that caused it, and make every promised change if accepted ([Elmqvist](https://sites.umiacs.umd.edu/elm/2016/11/19/writing-rebuttals/)).

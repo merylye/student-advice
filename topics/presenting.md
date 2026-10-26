@@ -24,8 +24,13 @@ topic: presenting
 - **Use large type and real figures.** Use large sans-serif fonts, and prefer real figures over text and clip art ([Shewchuk](https://people.eecs.berkeley.edu/~jrs/speaking.html); [Ernst](https://homes.cs.washington.edu/~mernst/advice/giving-talk.html)).
 - **Remove clutter:** logos, repeated conference names, decorations, and transitions ([Shewchuk](https://people.eecs.berkeley.edu/~jrs/speaking.html); [Ernst](https://homes.cs.washington.edu/~mernst/advice/giving-talk.html)).
 - **Don't read your slides.** Explain what matters and how the parts connect ([Shewchuk](https://people.eecs.berkeley.edu/~jrs/speaking.html); [Ernst](https://homes.cs.washington.edu/~mernst/advice/giving-talk.html)).
-- **Outline slides?** Ernst says never open with one and use one only at major section breaks; Shewchuk recommends brief section slides for talks of 30 minutes or more.
-- **How to end?** Shewchuk ends by saying "Thank you" to cue applause. Ernst advises against a "Thank you" or "Questions" slide and leaves a contributions slide on screen during Q&A. You can do both: say thank you while showing your conclusions.
+- **Outline slides?** There's mixed advice.
+  - [Ernst](https://homes.cs.washington.edu/~mernst/advice/giving-talk.html) says never open with one and use one only at major section breaks.
+  - [Shewchuk](https://people.eecs.berkeley.edu/~jrs/speaking.html) recommends brief section slides for talks of 30 minutes or more.
+- **How to end?** There's mixed advice.
+  - [Shewchuk](https://people.eecs.berkeley.edu/~jrs/speaking.html) ends by saying "Thank you" to cue applause.
+  - [Ernst](https://homes.cs.washington.edu/~mernst/advice/giving-talk.html) advises against a "Thank you" or "Questions" slide and leaves a contributions slide on screen during Q&A.
+  - You can do both: say thank you while showing your conclusions.
 
 ## Delivery
 

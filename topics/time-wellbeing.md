@@ -41,7 +41,10 @@ Write down what you learned as advice to your future self. Schedule an email to 
 
 - **Set your own deadline before the real one.** Finish a week early ([Dredze and Wallach](https://www.cs.jhu.edu/~mdredze/publications/HowtoBeaSuccessfulPhDStudent.pdf)), or set an internal deadline two weeks early and have a full draft reviewed with the real review form ([Karpathy](https://karpathy.github.io/2016/09/07/phd/)). Track deadlines yourself instead of relying on your advisor.
 - **Practice finishing.** Jean Yang counts finishing as a core research skill ([Yang](https://jxyzabc.blogspot.com/2017/09/the-genius-fallacy.html)).
-- **Submit to make the deadline?** Matt Might favors submitting good-enough work and publishing in stages. Dredze and Wallach warn against submitting weak work, since "there is always another deadline around the corner," and favor a few strong papers over many weak ones. Karpathy also warns against slicing one project into many small papers.
+- **Submit to make the deadline?** There's mixed advice.
+  - [Matt Might](https://matt.might.net/articles/productivity-tips-hints-hacks-tricks-for-grad-students-academics/) favors submitting good-enough work and publishing in stages.
+  - [Dredze and Wallach](https://www.cs.jhu.edu/~mdredze/publications/HowtoBeaSuccessfulPhDStudent.pdf) warn against submitting weak work, since "there is always another deadline around the corner," and favor a few strong papers over many weak ones.
+  - [Karpathy](https://karpathy.github.io/2016/09/07/phd/) also warns against slicing one project into many small papers.
 - **Pace yourself.** A paper a year earlier or later matters little over a career, CS PhDs often take five to six years, and there's no pressure for a first-year paper ([Das](https://medium.com/student-voices/a-letter-to-my-younger-self-about-dealing-with-rejection-in-academia-da4f46ae9a9f); [Dredze and Wallach](https://www.cs.jhu.edu/~mdredze/publications/HowtoBeaSuccessfulPhDStudent.pdf)).
 
 ## Saying no
@@ -78,7 +81,10 @@ Write down what you learned as advice to your future self. Schedule an email to 
 - **Drop perfectionism.** "Good enough" beats "perfect" ([Might](https://matt.might.net/articles/ways-to-fail-a-phd/)). Write rough first drafts and prototypes ([Marcus](https://marcua.net/writing/gradschool-guide/); [Guo](https://pg.ucsd.edu/early-stage-PhD-advice.htm)). Jean Yang learned that a paper can do much less than her first one and still be publishable ([Yang](https://jxyzabc.blogspot.com/2016/02/my-phd-abridged.html)).
 - **Scope the dissertation.** Aim for a manageable contribution, keep it narrow, and save other ideas for later ([Might](https://matt.might.net/articles/ways-to-fail-a-phd/); [Fiesler](https://cfiesler.medium.com/advice-for-new-phd-students-your-research-career-is-a-long-game-4721abbd80ac)).
 - **Persist before switching.** Give a project three to nine months before switching, and switch if it has stalled for a year ([Guo](https://pg.ucsd.edu/early-stage-PhD-advice.htm)).
-- **How many hours?** Matt Might says a PhD doesn't fit a 9-to-5 schedule. Philip Guo says to treat it as a job with a fixed schedule and evenings off. Fiesler and Marcus warn against working every waking hour.
+- **How many hours?** There's mixed advice.
+  - [Matt Might](https://matt.might.net/articles/ways-to-fail-a-phd/) says a PhD doesn't fit a 9-to-5 schedule.
+  - [Philip Guo](https://pg.ucsd.edu/early-stage-PhD-advice.htm) says to treat it as a job with a fixed schedule and evenings off.
+  - [Fiesler](https://cfiesler.medium.com/advice-for-new-phd-students-your-research-career-is-a-long-game-4721abbd80ac) and [Marcus](https://marcua.net/writing/gradschool-guide/) warn against working every waking hour.
 
 ## Imposter syndrome and comparison
 

@@ -20,14 +20,22 @@ topic: choosing
 - **Check subfield strength.** Lower-ranked programs can be very strong in specific areas, though switching areas there may be harder ([Harchol-Balter](https://www.cs.cmu.edu/~harchol/gradschooltalk.pdf); [Nguyen](https://raw.githubusercontent.com/nguyenthanhvuh/phd-cs-us/main/demystify.pdf)).
 - **Ask your mentors.** Faculty who know you can suggest a school list quickly and may contact colleagues on your behalf ([Sherry](https://people.eecs.berkeley.edu/~justine/advice.pdf); [Might](https://matt.might.net/articles/how-to-apply-and-get-in-to-graduate-school-in-science-mathematics-engineering-or-computer-science/)).
 - **Plan for money.** Budget for application fees, request fee waivers, and apply for every fellowship you qualify for, since fellowship deadlines come earlier ([Dettmers](https://timdettmers.com/2018/11/26/phd-applications/); [Sap](https://maartensap.com/notes/01-apply-grad-school.html); [Sherry](https://people.eecs.berkeley.edu/~justine/advice.pdf)). See [Fellowships and Grants](../funding/).
-- **How many programs, and safeties?** Other guides recommend a mix of reaches, matches, and safer schools, with counts from about 6 to 7 ([Harchol-Balter](https://www.cs.cmu.edu/~harchol/gradschooltalk.pdf)) to 8 ([CRA](https://conquer.cra.org/wp-content/uploads/2021/11/ThePhDinComputing_CRAEWebinar.pdf)) to 10 to 15 ([Dettmers](https://timdettmers.com/2018/11/26/phd-applications/)), and warn that applying only to top programs is risky. Krishnamurthi, like me, argues against treating backups as safety nets and says to choose every program by learning goals and faculty fit ([Krishnamurthi](https://parentheticallyspeaking.org/articles/us-cs-phd-faq/)).
+- **How many programs, and safeties?** There's mixed advice.
+  - Most guides recommend a mix of reaches, matches, and safer schools, and warn that applying only to top programs is risky. Counts range from about 6 to 7 ([Harchol-Balter](https://www.cs.cmu.edu/~harchol/gradschooltalk.pdf)) to 8 ([CRA](https://conquer.cra.org/wp-content/uploads/2021/11/ThePhDinComputing_CRAEWebinar.pdf)) to 10 to 15 ([Dettmers](https://timdettmers.com/2022/03/13/how-to-choose-your-grad-school/)).
+  - [Krishnamurthi](https://parentheticallyspeaking.org/articles/us-cs-phd-faq/), like me, argues against treating backups as safety nets and says to choose every program by learning goals and faculty fit.
 
 ## Contacting faculty before you apply
 
 - **Read the professor's website first.** Many say how, or whether, to contact them ([Jin](https://medium.com/@zhijing-jin/applying-for-a-phd-in-nlp-9d070a02cda0); [Might](https://matt.might.net/articles/how-to-apply-and-get-in-to-graduate-school-in-science-mathematics-engineering-or-computer-science/)).
 - **If you write, make it short and specific.** Refer to their specific work, explain how your background connects, and never send mass or form emails. Don't ask a professor to predict your chances ([Might](https://matt.might.net/articles/how-to-apply-and-get-in-to-graduate-school-in-science-mathematics-engineering-or-computer-science/); [Nguyen](https://raw.githubusercontent.com/nguyenthanhvuh/phd-cs-us/main/demystify.pdf)).
 - **Meeting in person works better than cold email**, whether at a conference, a visit, or through an introduction from your own advisor ([Liu et al.](https://blog.nelsonliu.me/2019/10/24/student-perspectives-on-applying-to-nlp-phd-programs/); [Dettmers](https://timdettmers.com/2018/11/26/phd-applications/)).
-- **Does emailing help?** Might recommends emailing a month before applying, and Nguyen says contact can lead to faculty advocacy. Smith says emailing about your application will not improve your chances, Sap notes most professors won't reply, and most of the NLP student panel did not email. Faculty practices differ ([Might](https://matt.might.net/articles/how-to-apply-and-get-in-to-graduate-school-in-science-mathematics-engineering-or-computer-science/); [Nguyen](https://raw.githubusercontent.com/nguyenthanhvuh/phd-cs-us/main/demystify.pdf); [Smith](https://docs.google.com/document/d/1lT-bsIP0GKfh8l5sQnM2hCzzR9prt-QLx16rimUOdIM/edit); [Sap](https://maartensap.com/notes/01-apply-grad-school.html); [Liu et al.](https://blog.nelsonliu.me/2019/10/24/student-perspectives-on-applying-to-nlp-phd-programs/); [Jin](https://medium.com/@zhijing-jin/applying-for-a-phd-in-nlp-9d070a02cda0)).
+- **Does emailing help?** There's mixed advice.
+  - [Might](https://matt.might.net/articles/how-to-apply-and-get-in-to-graduate-school-in-science-mathematics-engineering-or-computer-science/) recommends emailing a month before applying.
+  - [Nguyen](https://raw.githubusercontent.com/nguyenthanhvuh/phd-cs-us/main/demystify.pdf) says contact can lead to faculty advocacy.
+  - [Smith](https://docs.google.com/document/d/1lT-bsIP0GKfh8l5sQnM2hCzzR9prt-QLx16rimUOdIM/edit) says emailing about your application will not improve your chances.
+  - [Sap](https://maartensap.com/notes/01-apply-grad-school.html) notes most professors won't reply.
+  - Most of the NLP student panel did not email ([Liu et al.](https://blog.nelsonliu.me/2019/10/24/student-perspectives-on-applying-to-nlp-phd-programs/)).
+  - Faculty practices differ ([Jin](https://medium.com/@zhijing-jin/applying-for-a-phd-in-nlp-9d070a02cda0)).
 
 ## What committees look for
 
@@ -36,14 +44,21 @@ topic: choosing
 - **Someone must be willing to advise you.** Files are read by a few faculty in your area. A faculty advocate greatly raises your odds, and a strong file can be rejected if no advisor is available ([Nguyen](https://raw.githubusercontent.com/nguyenthanhvuh/phd-cs-us/main/demystify.pdf); [Might](https://matt.might.net/articles/how-to-apply-and-get-in-to-graduate-school-in-science-mathematics-engineering-or-computer-science/)).
 - **You need a reason to stand out.** Reviewers spend minutes per file, and a file with no clear strength is often rejected even with no flaws ([Nguyen](https://raw.githubusercontent.com/nguyenthanhvuh/phd-cs-us/main/demystify.pdf); [Andersen](https://da-data.blogspot.com/2015/03/reflecting-on-cs-graduate-admissions.html)).
 - **Grades and tests mostly act as thresholds.** The GRE is optional or ignored at many programs, and English-test minimums are firm ([Harchol-Balter](https://www.cs.cmu.edu/~harchol/gradschooltalk.pdf); [Liu et al.](https://blog.nelsonliu.me/2019/10/24/student-perspectives-on-applying-to-nlp-phd-programs/)). Check each program's current requirements.
-- **How much do grades matter?** Might and Smith say they place little weight on GPA. Andersen's committee read a near-4.0 from a strong school as a meaningful signal, and Jin writes "GPAs do mean something." Lower-ranked programs may rely more on grades and scores ([Might](https://matt.might.net/articles/how-to-apply-and-get-in-to-graduate-school-in-science-mathematics-engineering-or-computer-science/); [Smith](https://docs.google.com/document/d/1lT-bsIP0GKfh8l5sQnM2hCzzR9prt-QLx16rimUOdIM/edit); [Andersen](https://da-data.blogspot.com/2015/03/reflecting-on-cs-graduate-admissions.html); [Jin](https://medium.com/@zhijing-jin/applying-for-a-phd-in-nlp-9d070a02cda0); [Harchol-Balter](https://www.cs.cmu.edu/~harchol/gradschooltalk.pdf)).
+- **How much do grades matter?** There's mixed advice.
+  - [Might](https://matt.might.net/articles/how-to-apply-and-get-in-to-graduate-school-in-science-mathematics-engineering-or-computer-science/) and [Smith](https://docs.google.com/document/d/1lT-bsIP0GKfh8l5sQnM2hCzzR9prt-QLx16rimUOdIM/edit) say they place little weight on GPA.
+  - [Andersen](https://da-data.blogspot.com/2015/03/reflecting-on-cs-graduate-admissions.html)'s committee read a near-4.0 from a strong school as a meaningful signal.
+  - [Jin](https://medium.com/@zhijing-jin/applying-for-a-phd-in-nlp-9d070a02cda0) writes "GPAs do mean something."
+  - Lower-ranked programs may rely more on grades and scores ([Harchol-Balter](https://www.cs.cmu.edu/~harchol/gradschooltalk.pdf)).
 - **Don't reject yourself before the committee does** ([Krishnamurthi](https://parentheticallyspeaking.org/articles/us-cs-phd-faq/); [Hewitt](https://www.cs.columbia.edu/~johnhew/undergrad-researchers.html)).
 
 ## Letters of recommendation
 
 - **Letters are among the most important parts of the file.** Several guides rank them first ([Dettmers](https://timdettmers.com/2018/11/26/phd-applications/); [Sherry](https://people.eecs.berkeley.edu/~justine/advice.pdf); [Nguyen](https://raw.githubusercontent.com/nguyenthanhvuh/phd-cs-us/main/demystify.pdf)).
 - **A detailed letter matters more than a famous name.** A detailed letter from a less-known researcher who supervised you closely is worth more than a vague one from a well-known name ([Nguyen](https://raw.githubusercontent.com/nguyenthanhvuh/phd-cs-us/main/demystify.pdf); [Andersen](https://da-data.blogspot.com/2015/03/reflecting-on-cs-graduate-admissions.html)). Connections between your writers and prospective advisors still help ([Sap](https://maartensap.com/notes/01-apply-grad-school.html); [Liu et al.](https://blog.nelsonliu.me/2019/10/24/student-perspectives-on-applying-to-nlp-phd-programs/)).
-- **Letters from postdocs or grad students?** Harchol-Balter advises avoiding them unless a professor co-signs, and Fletcher says they weigh less. Nguyen says an enthusiastic letter from a postdoc who mentored you is much better than a generic letter from a famous person ([Harchol-Balter](https://www.cs.cmu.edu/~harchol/gradschooltalk.pdf); [Fletcher](http://cwfletcher.net/Pages/SoP.php); [Nguyen](https://raw.githubusercontent.com/nguyenthanhvuh/phd-cs-us/main/demystify.pdf)).
+- **Letters from postdocs or grad students?** There's mixed advice.
+  - [Harchol-Balter](https://www.cs.cmu.edu/~harchol/gradschooltalk.pdf) advises avoiding them unless a professor co-signs.
+  - [Fletcher](http://cwfletcher.net/Pages/SoP.php) says they weigh less.
+  - [Nguyen](https://raw.githubusercontent.com/nguyenthanhvuh/phd-cs-us/main/demystify.pdf) says an enthusiastic letter from a postdoc who mentored you is much better than a generic letter from a famous person.
 
 ## The statement of purpose
 
@@ -59,10 +74,15 @@ topic: choosing
 - **Keep it short and plain.** Most guides set one to two pages. Use short sentences, active voice, and language a non-specialist can follow, and proofread carefully ([Might](https://matt.might.net/articles/how-to-apply-and-get-in-to-graduate-school-in-science-mathematics-engineering-or-computer-science/); [MIT CommLab](https://mitcommlab.mit.edu/eecs/commkit/graduate-school-personal-statement/)).
 - **Revise over weeks with feedback.** Start two to three months ahead, get feedback from mentors and current PhD students, and send a near-final draft to letter writers a month before the deadline ([Fletcher](http://cwfletcher.net/Pages/SoP.php); [Sherry](https://people.eecs.berkeley.edu/~justine/advice.pdf); [Nguyen](https://raw.githubusercontent.com/nguyenthanhvuh/phd-cs-us/main/demystify.pdf)).
 - **Handle weaknesses with care.** Explaining a weak semester is optional and can draw attention to it. A letter writer may explain it more credibly ([Schneider](https://nschneid.medium.com/inside-ph-d-admissions-what-readers-look-for-in-a-statement-of-purpose-3db4e6081f80); [Andersen](https://da-data.blogspot.com/2015/03/reflecting-on-cs-graduate-admissions.html)).
-- **How much to tailor?** Dettmers reuses one statement and changes only the advisor section, and most of the NLP student panel kept 80 to 90% identical. Nguyen says a statement that can go to several programs with few changes is too generic ([Dettmers](https://timdettmers.com/2018/11/26/phd-applications/); [Liu et al.](https://blog.nelsonliu.me/2019/10/24/student-perspectives-on-applying-to-nlp-phd-programs/); [Nguyen](https://raw.githubusercontent.com/nguyenthanhvuh/phd-cs-us/main/demystify.pdf)).
-- **Personal material?** Pavlo, MIT CommLab, and Nguyen advise against personal backstory. Sherry and the NLP student panel encourage a personal, honest voice, and Pavlo allows a personal story about something you built or investigated ([Pavlo](https://www.cs.cmu.edu/~pavlo/blog/2015/10/how-to-write-a-bad-statement-for-a-computer-science-phd-admissions-application.html); [Sherry](https://people.eecs.berkeley.edu/~justine/advice.pdf); [Liu et al.](https://blog.nelsonliu.me/2019/10/24/student-perspectives-on-applying-to-nlp-phd-programs/)).
+- **How much to tailor?** There's mixed advice.
+  - [Dettmers](https://timdettmers.com/2022/03/13/how-to-choose-your-grad-school/) reuses one statement and changes only the advisor section.
+  - Most of the NLP student panel kept 80 to 90% identical ([Liu et al.](https://blog.nelsonliu.me/2019/10/24/student-perspectives-on-applying-to-nlp-phd-programs/)).
+  - [Nguyen](https://raw.githubusercontent.com/nguyenthanhvuh/phd-cs-us/main/demystify.pdf) says a statement that can go to several programs with few changes is too generic.
+- **Personal material?** There's mixed advice.
+  - [Pavlo](https://www.cs.cmu.edu/~pavlo/blog/2015/10/how-to-write-a-bad-statement-for-a-computer-science-phd-admissions-application.html), [MIT CommLab](https://mitcommlab.mit.edu/eecs/commkit/graduate-school-personal-statement/), and [Nguyen](https://raw.githubusercontent.com/nguyenthanhvuh/phd-cs-us/main/demystify.pdf) advise against personal backstory, though Pavlo allows a personal story about something you built or investigated.
+  - [Sherry](https://people.eecs.berkeley.edu/~justine/advice.pdf) and the NLP student panel ([Liu et al.](https://blog.nelsonliu.me/2019/10/24/student-perspectives-on-applying-to-nlp-phd-programs/)) encourage a personal, honest voice.
 
-Example statements are in the [library](../../library/?topic=choosing).
+Example statements are collected at [CS-SOP](https://cs-sop.org).
 
 ## Interviews and visits
 
@@ -78,12 +98,15 @@ Example statements are in the [library](../../library/?topic=choosing).
 - **Junior and senior advisors offer different things.** A newer professor may have more time, empathy, and openness to new areas, but fewer grants and connections. A junior and senior co-advising combination can balance this. Pre-tenure advisors also tend to be more ambitious, and tenure review can interrupt a PhD ([Barres](https://hst.mit.edu/sites/default/files/media/files/Barres%20BA.Neuron.80.275.2013.pdf); [Tasse](https://talesnideas.blogspot.com/2014/08/phd-grind-part-1-of-n-advisor-picking.html)).
 - **Your first choice is not final.** Plenty of students switch advisors in their second or third year and still finish on time. The PhD is as much self-discovery as research.
 
-### Do your homework
+### Do some internet stalking
 
 - **Read their recent work** and the lab website, including for professors outside your top choice ([Kuznetsov guide](https://www.andrewkuz.net/blog/PhD-Advisor-Guide.pdf); [Barres](https://hst.mit.edu/sites/default/files/media/files/Barres%20BA.Neuron.80.275.2013.pdf)). Check current projects so you can ask about specific ones ([Kuznetsov](https://blog.ml.cmu.edu/2020/03/02/questions-to-ask-a-prospective-ph-d-advisor-on-visit-day-with-thorough-and-forthright-explanations/)).
 - **Check the track record.** Find how many students the advisor has graduated, how long it took, where they published, and where they work now. Compare across faculty in the same department ([Carpenter](http://www.sciencemag.org/careers/2007/07/choose-adviser-be-armchair-anthropologist); [Barres](https://hst.mit.edu/sites/default/files/media/files/Barres%20BA.Neuron.80.275.2013.pdf); [Kuznetsov guide](https://www.andrewkuz.net/blog/PhD-Advisor-Guide.pdf)).
 - **Learn the research style.** Ask "What are examples of research papers you like?" and think about whether you want to adopt the advisor's style ([Dettmers](https://timdettmers.com/2022/03/13/how-to-choose-your-grad-school/)).
-- **How much should topics match?** Barres says only scientific and mentoring ability matter, and Dettmers adds that an advisor's values are more stable than their interests. Tasse advises arriving with more than a vague area because you will likely commit to one funded project ([Barres](https://hst.mit.edu/sites/default/files/media/files/Barres%20BA.Neuron.80.275.2013.pdf); [Dettmers](https://timdettmers.com/2022/03/13/how-to-choose-your-grad-school/); [Tasse](https://talesnideas.blogspot.com/2014/08/phd-grind-part-1-of-n-advisor-picking.html)).
+- **How much should topics match?** There's mixed advice.
+  - [Barres](https://hst.mit.edu/sites/default/files/media/files/Barres%20BA.Neuron.80.275.2013.pdf) says only scientific and mentoring ability matter.
+  - [Dettmers](https://timdettmers.com/2022/03/13/how-to-choose-your-grad-school/) adds that an advisor's values are more stable than their interests.
+  - [Tasse](https://talesnideas.blogspot.com/2014/08/phd-grind-part-1-of-n-advisor-picking.html) advises arriving with more than a vague area because you will likely commit to one funded project.
 
 ### Questions to ask the advisor
 
@@ -107,12 +130,17 @@ Example statements are in the [library](../../library/?topic=choosing).
 - **Be cautious about very large or postdoc-heavy labs**, since mentoring takes time ([Barres](https://hst.mit.edu/sites/default/files/media/files/Barres%20BA.Neuron.80.275.2013.pdf)).
 - **Warning signs:** advisors who don't credit students by name, put students in competition on the same project, dictate every step, sit on manuscripts, or expect extreme hours ([Barres](https://hst.mit.edu/sites/default/files/media/files/Barres%20BA.Neuron.80.275.2013.pdf)).
 - **Ask how women and minority students have fared** in the lab, and whether the advisor is aware of their own biases ([Carpenter](http://www.sciencemag.org/careers/2007/07/choose-adviser-be-armchair-anthropologist); [Barres](https://hst.mit.edu/sites/default/files/media/files/Barres%20BA.Neuron.80.275.2013.pdf)).
-- **Ambition or balance?** Tasse says neither style is better. Barres favors advisors who expect a balanced life over 60-plus-hour weeks. Dettmers asks you to decide whether you need an advisor who prioritizes well-being or progress ([Tasse](https://talesnideas.blogspot.com/2014/08/phd-grind-part-1-of-n-advisor-picking.html); [Barres](https://hst.mit.edu/sites/default/files/media/files/Barres%20BA.Neuron.80.275.2013.pdf); [Dettmers](https://timdettmers.com/2022/03/13/how-to-choose-your-grad-school/)).
+- **Ambition or balance?** There's mixed advice.
+  - [Tasse](https://talesnideas.blogspot.com/2014/08/phd-grind-part-1-of-n-advisor-picking.html) says neither style is better.
+  - [Barres](https://hst.mit.edu/sites/default/files/media/files/Barres%20BA.Neuron.80.275.2013.pdf) favors advisors who expect a balanced life over 60-plus-hour weeks.
+  - [Dettmers](https://timdettmers.com/2022/03/13/how-to-choose-your-grad-school/) asks you to decide whether you need an advisor who prioritizes well-being or progress.
 
 ## Deciding
 
 - **Trust your gut** once you have the information ([Sap](https://maartensap.com/notes/01-apply-grad-school.html); [Sherry](https://people.eecs.berkeley.edu/~justine/advice.pdf)).
-- **Advisor fit or a big program?** Nguyen calls "go where the advisor fits" hard to act on and recommends a large, well-known program if you have no strong preference, partly because switching advisors is easier there. Smith and Jin put the individual advisor ahead of the school ([Nguyen](https://raw.githubusercontent.com/nguyenthanhvuh/phd-cs-us/main/demystify.pdf); [Smith](https://docs.google.com/document/d/1lT-bsIP0GKfh8l5sQnM2hCzzR9prt-QLx16rimUOdIM/edit); [Jin](https://medium.com/@zhijing-jin/applying-for-a-phd-in-nlp-9d070a02cda0)).
+- **Advisor fit or a big program?** There's mixed advice.
+  - [Nguyen](https://raw.githubusercontent.com/nguyenthanhvuh/phd-cs-us/main/demystify.pdf) calls "go where the advisor fits" hard to act on and recommends a large, well-known program if you have no strong preference, partly because switching advisors is easier there.
+  - [Smith](https://docs.google.com/document/d/1lT-bsIP0GKfh8l5sQnM2hCzzR9prt-QLx16rimUOdIM/edit) and [Jin](https://medium.com/@zhijing-jin/applying-for-a-phd-in-nlp-9d070a02cda0) put the individual advisor ahead of the school.
 - **Close the loop.** Don't accept unfunded offers. Send thank-you notes and tell schools your decision by April 15. If rejected, ask for feedback and consider reapplying ([Krishnamurthi](https://parentheticallyspeaking.org/articles/us-cs-phd-faq/); [Sherry](https://people.eecs.berkeley.edu/~justine/advice.pdf); [Might](https://matt.might.net/articles/how-to-apply-and-get-in-to-graduate-school-in-science-mathematics-engineering-or-computer-science/)).
 
 ## Co-advising

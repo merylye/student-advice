@@ -8,7 +8,9 @@ topic: writing
 Jacob Wobbrock's [annotated CHI paper template](https://faculty.washington.edu/wobbrock/pubs/Wobbrock-2015.pdf) explains what each section should do:
 
 - **Title.** Engaging without being cute.
-- **Titles: catchy or informative?** Wobbrock and Vetterli accept a catchy title as long as it isn't cute. Durand prefers informative titles, after a quotable but vague title sent one of his papers to the wrong reviewers.
+- **Titles: catchy or informative?** There's mixed advice.
+  - [Wobbrock](https://faculty.washington.edu/wobbrock/pubs/Wobbrock-2015.pdf) and [Vetterli](http://mri.beckman.illinois.edu/resources/good_paper.pdf) accept a catchy title as long as it isn't cute.
+  - [Durand](http://people.csail.mit.edu/fredo/PUBLI/writing.pdf) prefers informative titles, after a quotable but vague title sent one of his papers to the wrong reviewers.
 - **Abstract.** Describe the work, not the paper. Use at most one sentence of motivation, then what you did and what you found, with specific numbers, in one paragraph under 200 words.
 - **Introduction.** Five moves: the state of the world, the big "BUT" (a problem or opportunity), what you did, your key findings, and your one to three contributions. A gap in the literature is weak motivation on its own, and "more research is needed" should not be your main implication. "Over-claiming is a sure way to get your paper rejected."
 - **Related work.** Who did relevant work, what they found, and how your work differs. Group prior work by theme so it teaches the reader, and differentiate on question, method, technology, or result instead of claiming superiority.
@@ -48,7 +50,9 @@ Summarize a piece of work in two sentences: the state of the world *before* it, 
 - **Assume the reader knows little.** Guide them step by step, and favor clarity over elegant prose ([Durand](http://people.csail.mit.edu/fredo/PUBLI/writing.pdf); [Vetterli](http://mri.beckman.illinois.edu/resources/good_paper.pdf)).
 - **Use short, plain sentences**, one idea per sentence ([Durand](http://people.csail.mit.edu/fredo/PUBLI/writing.pdf); [Vetterli](http://mri.beckman.illinois.edu/resources/good_paper.pdf); [Das](https://sauvik-das.medium.com/the-day-you-became-an-academic-writer-2706ae01b2d1)).
 - **Preview, then deliver.** Tell readers what you will tell them, and open each section with its key points ([Bertsekas](http://www.mit.edu/~dimitrib/Ten_Rules.html); [Durand](http://people.csail.mit.edu/fredo/PUBLI/writing.pdf)).
-- **Repetition: yes or no?** Durand says to repeat important points. Vetterli says "Repeat NO, develop YES."
+- **Repetition: yes or no?** There's mixed advice.
+  - [Durand](http://people.csail.mit.edu/fredo/PUBLI/writing.pdf) says to repeat important points.
+  - [Vetterli](http://mri.beckman.illinois.edu/resources/good_paper.pdf) says "Repeat NO, develop YES."
 - **Keep terms and notation consistent.** Durand suggests writing a private glossary to force precise definitions ([Bertsekas](http://www.mit.edu/~dimitrib/Ten_Rules.html); [Durand](http://people.csail.mit.edu/fredo/PUBLI/writing.pdf)).
 - **Make figures self-contained.** Captions should make sense without the text, and figures should appear near where they're cited ([Durand](http://people.csail.mit.edu/fredo/PUBLI/writing.pdf); [Vetterli](http://mri.beckman.illinois.edu/resources/good_paper.pdf)).
 - **Cut words.** Write "we found" instead of "in this paper, we have found," and drop "Note that" ([Durand](http://people.csail.mit.edu/fredo/PUBLI/writing.pdf); [Vetterli](http://mri.beckman.illinois.edu/resources/good_paper.pdf)).
@@ -58,7 +62,9 @@ Summarize a piece of work in two sentences: the state of the world *before* it, 
 - **Outline before you draft.** An outline is cheaper to change than paragraphs and shows you the flow ([Das](https://medium.com/gt-ups-course/resources-for-academic-writing-in-hci-82a27249cb5f); [Durand](http://people.csail.mit.edu/fredo/PUBLI/writing.pdf); [Vetterli](http://mri.beckman.illinois.edu/resources/good_paper.pdf)). Plan your figures at the outline stage too ([Durand](http://people.csail.mit.edu/fredo/PUBLI/writing.pdf)).
 - **Write regularly.** Write a little every day, and read well-written work ([Das](https://medium.com/gt-ups-course/resources-for-academic-writing-in-hci-82a27249cb5f); [Vetterli](http://mri.beckman.illinois.edu/resources/good_paper.pdf)).
 - **Write early in the project.** Early writing exposes flaws in your thinking while you can still change course ([Das](https://medium.com/gt-ups-course/resources-for-academic-writing-in-hci-82a27249cb5f); [Durand](http://people.csail.mit.edu/fredo/PUBLI/writing.pdf)).
-- **Where to start?** Durand starts with the overview. Das outlines the introduction first but writes it last, and starts with the methods when stuck.
+- **Where to start?** There's mixed advice.
+  - [Durand](http://people.csail.mit.edu/fredo/PUBLI/writing.pdf) starts with the overview.
+  - [Das](https://medium.com/gt-ups-course/resources-for-academic-writing-in-hci-82a27249cb5f) outlines the introduction first but writes it last, and starts with the methods when stuck.
 - **Expect to rewrite.** Delete and redo sections, and let drafts sit before rereading ([Durand](http://people.csail.mit.edu/fredo/PUBLI/writing.pdf); [Vetterli](http://mri.beckman.illinois.edu/resources/good_paper.pdf)).
 - **Get outside readers.** Ask non-authors to read drafts, and read your work aloud. Early feedback should target scope and approach; later feedback should target exposition ([Durand](http://people.csail.mit.edu/fredo/PUBLI/writing.pdf)).
 

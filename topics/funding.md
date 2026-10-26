@@ -38,13 +38,18 @@ Write a paragraph about what drives your interest in research: an experience, a 
 - **Propose something concrete you know well**, feasible in about three years. Reviewers assess your knowledge and clarity, and you aren't bound to carry out the exact plan ([Strouse](http://djstrouse.com/guide-to-applying-to-us-science-phd-programs-and-fellowships/); [Liu](http://www.christineliuart.com/writing/2018/8/31/advice-for-applying-to-the-nsf-grfp); [Lang](https://www.alexhunterlang.com/nsf-fellowship)).
 - **Show novelty, rigor, and self-critique.** Confirm the question is open, state a hypothesis and two or three independent aims, explain your methods and what each outcome would mean, and acknowledge limitations ([Liu](http://www.christineliuart.com/writing/2018/8/31/advice-for-applying-to-the-nsf-grfp); [Safavi](https://tsafavi.github.io/nsf-grfp.html)).
 - **Write for a general science reader** who knows your field but not your subfield ([Lang](https://www.alexhunterlang.com/nsf-fellowship)).
-- **Figures?** URI advises one relevant figure because space is limited; Safavi says "Don't be afraid to use figures"; Liu says use them only when they clearly help.
+- **Figures?** There's mixed advice.
+  - [URI](https://web.uri.edu/graduate-writing-center/tips-for-the-nsf-grfp-application/) advises one relevant figure because space is limited.
+  - [Safavi](https://tsafavi.github.io/nsf-grfp.html) says "Don't be afraid to use figures."
+  - [Liu](http://www.christineliuart.com/writing/2018/8/31/advice-for-applying-to-the-nsf-grfp) says use them only when they clearly help.
 
 ## The personal statement
 
 - **Tell a story with evidence.** Use concrete examples instead of adjectives about yourself, organize around a theme, and avoid clichéd openings ([Liu](http://www.christineliuart.com/writing/2018/8/31/advice-for-applying-to-the-nsf-grfp); [URI](https://web.uri.edu/graduate-writing-center/tips-for-the-nsf-grfp-application/)).
 - **Don't undersell yourself.** Bold key results, awards, and contributions for busy reviewers, and use clear topic sentences ([Safavi](https://tsafavi.github.io/nsf-grfp.html); [Liu](http://www.christineliuart.com/writing/2018/8/31/advice-for-applying-to-the-nsf-grfp)).
-- **How much research to include?** URI says the personal statement should focus on you, with research mentioned to show qualifications. Strouse and Safavi put more weight on research.
+- **How much research to include?** There's mixed advice.
+  - [URI](https://web.uri.edu/graduate-writing-center/tips-for-the-nsf-grfp-application/) says the personal statement should focus on you, with research mentioned to show qualifications.
+  - [Strouse](http://djstrouse.com/guide-to-applying-to-us-science-phd-programs-and-fellowships/) and [Safavi](https://tsafavi.github.io/nsf-grfp.html) put more weight on research.
 
 ## Funding and finances
 
