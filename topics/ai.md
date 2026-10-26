@@ -33,6 +33,6 @@ Policies change often, so check the current version before you submit.
 
 ## More reading
 
-- **[Ethical Costs and Epistemic Risks of LLMs](https://docs.google.com/document/d/1Fv9TDqghKOQAMUyLNdxUI-eaQIWc2QAuTx0bSJsc-yU/edit?tab=t.0#heading=h.xhqegzmlpvuq)** (Crockett, updated 2025) is a curated reading list for psychology researchers who use LLMs. It covers ethical costs (worker exploitation, intellectual property, environmental costs, privacy) and epistemic risks (reproducibility and scientific monocultures), recommends open LLMs over proprietary ones for research, and includes sample text for reviewing papers that use proprietary models.
+- Molly Crockett has a [public resource](https://docs.google.com/document/d/1Fv9TDqghKOQAMUyLNdxUI-eaQIWc2QAuTx0bSJsc-yU/edit?tab=t.0#heading=h.xhqegzmlpvuq) that covers ethical costs and epistemic risks of using proprietary LLMs.
 - **[Expertise before augmentation](https://zenodo.org/records/18452319)** (Krishnan, 2026) is a practical guide for research trainees. It argues for building core skills before handing tasks to AI, and gives task-specific guidance for data analysis, literature review, writing manuscripts and proposals, figures, and communication.
 - **Understanding as evidence of authorship.** Payan, Gyevnár, Kasirzadeh, and Shah propose a proctored test of whether authors understand their own papers, and found its scores predicted which papers participants had written ([greCAPTCHA, 2026](https://arxiv.org/abs/2609.20481)). The study is preliminary.
