@@ -1616,3 +1616,11 @@
   field: [general]
   type: collection
   note: "A curated reading list on the ethical costs and epistemic risks of using LLMs in research, with a case for open models."
+- title: "Choosing the Right Grad School"
+  author: "danah boyd"
+  url: "https://www.danah.org/aca-advice/gradschooladvice/"
+  topics: [choosing]
+  stage: [prospective]
+  field: [general, css]
+  type: essay
+  note: "Advice for prospective PhD students, especially in the social sciences and information schools, on motivation, choosing advisors by method and theory, academic status, and contacting faculty."
