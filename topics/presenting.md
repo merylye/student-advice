@@ -54,7 +54,7 @@ From the talk guides:
 <div class="exercise" markdown="1">
 ### Exercise: record a two-minute talk
 
-Prepare a two-minute talk on your research, record it, and watch it. Write down at least three things you notice about yourself and your slides. Then ask someone else what landed and whether you spoke too fast.
+Prepare a two-minute talk on your research, record it, and watch it. Write down at least three things you notice about yourself and your slides.
 </div>
 
 ## Elevator pitches
@@ -62,12 +62,6 @@ Prepare a two-minute talk on your research, record it, and watch it. Write down 
 - **Prepare a 30- to 60-second version of your research.** Focus on your goals and why the work excites you, and leave out technical details ([Academia Stack Exchange](https://academia.stackexchange.com/questions/1779/what-are-the-elements-of-an-effective-elevator-pitch); [Vaughan](https://medium.com/@jennwv/nine-things-i-wish-i-had-known-the-first-time-i-came-to-nips-b939330661ed)). Try different hooks and frames, and aim to create a knowledge gap that makes the listener ask a question.
 - **Make versions for different audiences:** experts in your subfield, your broader field, and the general public. Rehearse until it comes without effort ([Academia Stack Exchange](https://academia.stackexchange.com/questions/1779/what-are-the-elements-of-an-effective-elevator-pitch); [Vaughan](https://medium.com/@jennwv/nine-things-i-wish-i-had-known-the-first-time-i-came-to-nips-b939330661ed)).
 - **Connect your pitch to the other person's.** When someone tells you their work, start yours with a specific connection ("I also look at how people learn, but in the context of interface design"), not "I also do HCI research."
-
-<div class="exercise" markdown="1">
-### Exercise: explain it with common words
-
-Explain your research using only the thousand most common English words. Wherever you get stuck, you've found jargon you'll need to define for a general audience.
-</div>
 
 ## Conferences and networking
 
