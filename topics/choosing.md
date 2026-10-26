@@ -30,13 +30,7 @@ topic: choosing
 - **If you write, make it short and specific.** Refer to their specific work, explain how your background connects, and never send mass or form emails. Don't ask a professor to predict your chances ([Might](https://matt.might.net/articles/how-to-apply-and-get-in-to-graduate-school-in-science-mathematics-engineering-or-computer-science/); [Nguyen](https://raw.githubusercontent.com/nguyenthanhvuh/phd-cs-us/main/demystify.pdf)).
 - **Write the email yourself.** Professors say AI-written emails are easy to spot. Many share the same structure, flatter the reader, and cite a paper the sender can't discuss, and they lower your chances of a reply. Your own writing, rough edges included, tells a professor more about you. If you use an LLM to help you understand a professor's work, make sure you can talk about everything in your email in an interview ([Chancellor](https://notatechdemo.substack.com/p/how-to-email-a-professor-and-actually); [Zaman](https://tribune.com.pk/story/2619331/bad-advice-to-aspiring-students); [Guerzhoy](https://www.cs.toronto.edu/~guerzhoy/advice/coldemails.html)).
 - **Meeting in person works better than cold email**, whether at a conference, a visit, or through an introduction from your own advisor ([Liu et al.](https://blog.nelsonliu.me/2019/10/24/student-perspectives-on-applying-to-nlp-phd-programs/); [Dettmers](https://timdettmers.com/2018/11/26/phd-applications/)).
-- **Does emailing help?** There's mixed advice.
-  - [Might](https://matt.might.net/articles/how-to-apply-and-get-in-to-graduate-school-in-science-mathematics-engineering-or-computer-science/) recommends emailing a month before applying.
-  - [Nguyen](https://raw.githubusercontent.com/nguyenthanhvuh/phd-cs-us/main/demystify.pdf) says contact can lead to faculty advocacy.
-  - [Smith](https://docs.google.com/document/d/1lT-bsIP0GKfh8l5sQnM2hCzzR9prt-QLx16rimUOdIM/edit) says emailing about your application will not improve your chances.
-  - [Sap](https://maartensap.com/notes/01-apply-grad-school.html) notes most professors won't reply.
-  - Most of the NLP student panel did not email ([Liu et al.](https://blog.nelsonliu.me/2019/10/24/student-perspectives-on-applying-to-nlp-phd-programs/)).
-  - Faculty practices differ ([Jin](https://medium.com/@zhijing-jin/applying-for-a-phd-in-nlp-9d070a02cda0)).
+- **Should you email?** First, check if the professor's website specifically says not to email them. If it does, don't. Also, see if their website says whether they're taking students. If their website doesn't say either of these things, it doesn't hurt to send an email introducing yourself, putting yourself on their radar as someone applying to work with them, and asking if they're taking new students.
 
 ## What committees look for
 
