@@ -88,9 +88,9 @@ topic: time-wellbeing
 
 ## Taking care of yourself
 
-- **Take real time off on weekends, even a couple of hours.** Go out. Socialize outside your research group. Do not isolate yourself. Find mentors, and become one.
+- **Take real time off on weekends, even a couple of hours.** Go out. Socialize outside your research group. Do not isolate yourself.
 - **Take care of your health:** eat, sleep, exercise (even 20 minutes makes a difference), keep your medical appointments, and stay home when sick.
-- **Don't let the PhD take over your life.** If you do, you will burn out. Schedule exercise, meal prep, hobbies, and social time the same way you schedule classes and meetings, and plan a vacation each semester.
+- **Don't let the PhD take over your life.** If you do, you will burn out. Schedule meal prep and hobbies the same way you schedule classes and meetings, and plan a vacation each semester.
 - **Pay attention to what helps you work.** Sleep, sunshine, caffeine, forgetting to eat, and exercise can make or break a day. Without noticing those connections, it's easy to doubt your ability to do research instead.
 - **Everyone in grad school is smart, so strive to be kind as well**, to yourself, your collaborators, and everyone outside research.
 - **Watch for depression and act on it.** "It's OK to get depressed. It's not OK to do nothing about it" ([Might](https://matt.might.net/articles/grad-student-resolutions/)). Depression and anxiety are treatable, and there is no shame in therapy or medication ([Sorbara](https://cheekyscientist.com/7-ways-phd-students-academics-deal-stress-anxiety-depression/)).

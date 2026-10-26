@@ -880,7 +880,7 @@
 # ---------- Fellowships and funding ----------
 - title: "Fellowship tips"
   author: "Philip Guo"
-  url: "http://www.pgbovine.net/fellowship-tips.htm"
+  url: "https://pg.ucsd.edu/"
   topics: [funding]
   stage: [prospective, early]
   field: [cs]
@@ -1092,7 +1092,7 @@
 # ---------- Memoirs and fun reads ----------
 - title: "The Ph.D. Grind"
   author: "Philip Guo"
-  url: "https://pg.ucsd.edu/PhD-memoir.htm"
+  url: "https://pg.ucsd.edu/"
   topics: [careers]
   stage: [any]
   field: [cs]
