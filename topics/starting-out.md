@@ -23,7 +23,7 @@ topic: starting-out
 - **Make time during the year.** Aim to work a few hours a week with a professor across a full academic year, and consider a lighter course load if you can still graduate on time ([Hewitt](https://www.cs.columbia.edu/~johnhew/undergrad-researchers.html)).
 - **Build a portfolio if you lack publications.** Projects, reimplementations, blog posts, and follow-up work on papers all count ([Krishnamurthi](https://parentheticallyspeaking.org/articles/us-cs-phd-faq/)). For computational social science, D-Lab's guide lists three steps: skills, a portfolio, and community ([D-Lab](https://dlab.berkeley.edu/news/introducing-three-step-guide-training-computational-social-science-students)).
 
-## The hidden curriculum
+## Unwritten rules
 
 - **Expect unwritten rules.** Much of how research works, from authorship norms to how often to check in, is never written down, and not knowing these norms can feel like not belonging. First-generation students and others outside academic networks are often less comfortable asking ([Calarco](https://scatter.wordpress.com/2018/07/24/guest-post-grad-schools-hidden-curriculum/); [Nakai and Guo](https://pg.ucsd.edu/publications/hidden-curriculum-undergrad-mentoring_ICER-2023.pdf)).
 - **Ask anyway.** Assume someone can teach you any new task, look for that information before struggling alone, and test whether professors will answer, since most will ([Calarco](https://scatter.wordpress.com/2018/07/24/guest-post-grad-schools-hidden-curriculum/)). A good first question for a senior student in the lab: what do you wish you had known when you joined?

@@ -70,13 +70,13 @@ topic: time-wellbeing
 
 ## Expect it to be hard
 
-- **Do a lot of work early.** Your early work will disappoint you, and doing a lot of it is how it improves ([Das](https://sauvik-das.medium.com/the-shape-of-your-ph-d-426975399d88)).
-- **Drop perfectionism.** "Good enough" beats "perfect" ([Might](https://matt.might.net/articles/ways-to-fail-a-phd/)). Write rough first drafts and prototypes ([Marcus](https://marcua.net/writing/gradschool-guide/)). Jean Yang learned that a paper can do much less than her first one and still be publishable ([Yang](https://jxyzabc.blogspot.com/2016/02/my-phd-abridged.html)).
+- **Do a lot of work early.** Your early work will disappoint you, and doing a lot of it is how it improves ([Das](https://sauvik-das.medium.com/the-shape-of-your-ph-d-426975399d88); [Guo](https://pg.ucsd.edu/)).
+- **Drop perfectionism.** "Good enough" beats "perfect" ([Might](https://matt.might.net/articles/ways-to-fail-a-phd/)). Write rough first drafts and prototypes ([Marcus](https://marcua.net/writing/gradschool-guide/); [Guo](https://pg.ucsd.edu/)). Jean Yang learned that a paper can do much less than her first one and still be publishable ([Yang](https://jxyzabc.blogspot.com/2016/02/my-phd-abridged.html)).
 - **Scope the dissertation.** Aim for a manageable contribution, keep it narrow, and save other ideas for later ([Might](https://matt.might.net/articles/ways-to-fail-a-phd/); [Fiesler](https://cfiesler.medium.com/advice-for-new-phd-students-your-research-career-is-a-long-game-4721abbd80ac)).
-- **Persist before switching.** Give a project three to nine months before switching, and switch if it has stalled for a year.
+- **Persist before switching.** Give a project three to nine months before switching, and switch if it has stalled for a year ([Guo](https://pg.ucsd.edu/)).
 - **How many hours?** There's mixed advice.
   - [Matt Might](https://matt.might.net/articles/ways-to-fail-a-phd/) says a PhD doesn't fit a 9-to-5 schedule.
-  - Philip Guo says to treat it as a job with a fixed schedule and evenings off.
+  - [Philip Guo](https://pg.ucsd.edu/) says to treat it as a job with a fixed schedule and evenings off.
   - [Fiesler](https://cfiesler.medium.com/advice-for-new-phd-students-your-research-career-is-a-long-game-4721abbd80ac) and [Marcus](https://marcua.net/writing/gradschool-guide/) warn against working every waking hour.
 
 ## Imposter syndrome and comparison
