@@ -992,14 +992,6 @@
   stage: [early]
   field: [cs]
   type: essay
-- title: "Advice for early-stage Ph.D. students"
-  author: "Philip Guo"
-  url: "https://pg.ucsd.edu/early-stage-PhD-advice.htm"
-  topics: [careers, starting-out, research]
-  stage: [early]
-  field: [cs, hci]
-  type: essay
-  note: "A long, practical guide for the first years of a PhD covering classes, working with advisors, daily schedule, saying no to service, and getting unstuck."
 - title: "Tips for Computer Science Faculty Applications"
   author: "Yisong Yue"
   url: "https://yisongyue.medium.com/checklist-of-tips-for-computer-science-faculty-applications-9fd2480649cc"

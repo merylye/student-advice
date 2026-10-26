@@ -20,8 +20,8 @@ At the start of your research journey, talk through expectations with your mento
 More on expectations:
 
 - **Ask what is expected of you each year.** Written expectations keep you from overworking toward impossible goals or underestimating the effort needed ([Vinitsky](http://eugenevinitsky.github.io/posts/expectation_setting.html)).
-- **Raise trouble early.** If you're falling behind, talk with your advisor so you can find the cause together ([Vinitsky](http://eugenevinitsky.github.io/posts/expectation_setting.html)). If you're stuck for about a week, ask your advisor, a senior student, or a postdoc ([Guo](https://pg.ucsd.edu/early-stage-PhD-advice.htm)), and say "I'm overwhelmed" before a deadline turns into a crisis ([Marcus](https://marcua.net/writing/gradschool-guide/)).
-- **Ask how much of each paper you should draft yourself** ([Guo](https://pg.ucsd.edu/early-stage-PhD-advice.htm)).
+- **Raise trouble early.** If you're falling behind, talk with your advisor so you can find the cause together ([Vinitsky](http://eugenevinitsky.github.io/posts/expectation_setting.html)). If you're stuck for about a week, ask your advisor, a senior student, or a postdoc, and say "I'm overwhelmed" before a deadline turns into a crisis ([Marcus](https://marcua.net/writing/gradschool-guide/)).
+- **Ask how much of each paper you should draft yourself.**
 
 <div class="exercise" markdown="1">
 ### Exercise: make a PhD curriculum
@@ -35,17 +35,17 @@ List the experiences you want during your PhD: a project sequence, technical and
 - **Your advisor wants you to succeed.** They plan to work with you for years. You are not being assessed for selection, as you were in undergrad; the goal is the shortest path to building you up as a researcher.
 - **Bring decisions, not a status list.** Before the meeting, write down the decisions that need to be made to reach your next goal. Sort out which questions need your advisor, which a labmate could answer, and what specific actions you need from your advisor, such as a recommendation letter by a certain date.
 - **Start with a recap.** Advisors are busy and often don't remember last week's meeting. Open by recapping what you decided last time, and keep running meeting notes for each project in a shared doc.
-- **Keep in regular contact.** Advisors like students who stop by outside scheduled meetings ([APA, Dear Advisee](https://www.apa.org/monitor/2012/07-08/advisee)), and feedback every week or two reduces uncertainty and isolation ([Guo](https://pg.ucsd.edu/early-stage-PhD-advice.htm)). Send regular status reports to your advisor and committee ([Azuma](https://www.cs.unc.edu/~azuma/hitch4.html)).
+- **Keep in regular contact.** Advisors like students who stop by outside scheduled meetings ([APA, Dear Advisee](https://www.apa.org/monitor/2012/07-08/advisee)), and feedback every week or two reduces uncertainty and isolation. Send regular status reports to your advisor and committee ([Azuma](https://www.cs.unc.edu/~azuma/hitch4.html)).
 - **Try first, then ask.** Solve what you can before bringing a problem to your advisor ([APA, Dear Advisee](https://www.apa.org/monitor/2012/07-08/advisee); [Azuma](https://www.cs.unc.edu/~azuma/hitch4.html)).
-- **Bring specific options.** Ask your advisor to choose among a few concrete options, and come with prepared questions ([Guo](https://pg.ucsd.edu/early-stage-PhD-advice.htm)).
-- **Follow up.** Busy faculty need reminders and aren't offended by them ([Guo](https://pg.ucsd.edu/early-stage-PhD-advice.htm)).
+- **Bring specific options.** Ask your advisor to choose among a few concrete options, and come with prepared questions.
+- **Follow up.** Busy faculty need reminders and aren't offended by them.
 - **Ask for the feedback you need**, on theory and methods as well as writing ([APA, Dear Advisor](https://www.apa.org/monitor/2012/07-08/advisor)).
 
 ## Taking ownership
 
-- **Drive your own projects.** Your advisor isn't a day-to-day boss, so create your own deadlines and accountability, such as lab talks and scheduled one-on-ones ([Guo](https://pg.ucsd.edu/early-stage-PhD-advice.htm)).
+- **Drive your own projects.** Your advisor isn't a day-to-day boss, so create your own deadlines and accountability, such as lab talks and scheduled one-on-ones.
 - **Contribute your own ideas.** Students want room to propose ideas beyond grunt work ([APA, Dear Advisor](https://www.apa.org/monitor/2012/07-08/advisor)). Chris Martens found that moving to a problem she devised herself was a turning point ([Martens](https://lambdamaphone.blogspot.com/2015/11/how-to-get-phd-in-computer-science-if.html)).
-- **Make up for gaps.** No advisor is perfect, so take initiative where yours falls short ([Guo](https://pg.ucsd.edu/early-stage-PhD-advice.htm)).
+- **Make up for gaps.** No advisor is perfect, so take initiative where yours falls short.
 
 ## Methods and feedback
 
