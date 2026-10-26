@@ -3,8 +3,6 @@ title: Using Generative AI
 topic: ai
 ---
 
-I use AI regularly, mostly for coding and organization, but I *try* to maintain human oversight, read over everything, and cross-check new factual claims.
-
 ## Guidelines for research tasks
 
 - **Don't use LLMs to find references.** They make up literature, favor work that is popular in the press, and misattribute credit.
