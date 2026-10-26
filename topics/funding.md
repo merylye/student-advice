@@ -5,9 +5,9 @@ topic: funding
 
 ## Why and when to apply
 
-- **Fellowships give you freedom.** Funding that follows you frees you from TA duties and grant-specific work, and widens your choice of thesis topic ([Strouse](http://djstrouse.com/guide-to-applying-to-us-science-phd-programs-and-fellowships/)).
-- **Start at least two months before the deadline**, and update your CV before you write. The NSF GRFP deadline usually falls in October or November, earlier than most grad school deadlines ([Strouse](http://djstrouse.com/guide-to-applying-to-us-science-phd-programs-and-fellowships/); [Liu](http://www.christineliuart.com/writing/2018/8/31/advice-for-applying-to-the-nsf-grfp)). Check current dates.
-- **Know the options.** Major US fellowships include NSF GRFP, Ford, NDSEG, DOE CSGF, and Hertz ([Strouse](http://djstrouse.com/guide-to-applying-to-us-science-phd-programs-and-fellowships/)). Federal awards generally can't be combined.
+- **Fellowships give you freedom.** Funding that follows you frees you from TA duties and grant-specific work, and widens your choice of thesis topic ([Strouse](https://djstrouse.com/guide-to-applying-to-us-science-phd-programs-and-fellowships)).
+- **Start at least two months before the deadline**, and update your CV before you write. The NSF GRFP deadline usually falls in October or November, earlier than most grad school deadlines ([Strouse](https://djstrouse.com/guide-to-applying-to-us-science-phd-programs-and-fellowships); [Liu](http://www.christineliuart.com/writing/2018/8/31/advice-for-applying-to-the-nsf-grfp)). Check current dates.
+- **Know the options.** Major US fellowships include NSF GRFP, Ford, NDSEG, DOE CSGF, and Hertz ([Strouse](https://djstrouse.com/guide-to-applying-to-us-science-phd-programs-and-fellowships)). Federal awards generally can't be combined.
 - **Check eligibility in the current program solicitation.** GRFP rules about who can apply and how many times have changed over the years, and older guides conflict.
 
 ## Writing a fellowship proposal
@@ -30,11 +30,11 @@ Write a paragraph about what drives your interest in research: an experience, a 
 
 - **Read the program solicitation first.** Formatting errors can get an application rejected without review. Keep the instructions beside your draft as you edit ([Safavi](https://tsafavi.github.io/nsf-grfp.html); [Liu](http://www.christineliuart.com/writing/2018/8/31/advice-for-applying-to-the-nsf-grfp)).
 - **Address Intellectual Merit and Broader Impacts explicitly**, with headers for both in each essay ([Safavi](https://tsafavi.github.io/nsf-grfp.html); [Lang](https://www.alexhunterlang.com/nsf-fellowship); [Liu](http://www.christineliuart.com/writing/2018/8/31/advice-for-applying-to-the-nsf-grfp)).
-- **Make Broader Impacts concrete and personal.** Describe specific outreach, teaching, mentoring, or public communication and your role in it. Every guide treats this as central ([Strouse](http://djstrouse.com/guide-to-applying-to-us-science-phd-programs-and-fellowships/); [URI Graduate Writing Center](https://web.uri.edu/graduate-writing-center/tips-for-the-nsf-grfp-application/); [Safavi](https://tsafavi.github.io/nsf-grfp.html); [Liu](http://www.christineliuart.com/writing/2018/8/31/advice-for-applying-to-the-nsf-grfp)).
+- **Make Broader Impacts concrete and personal.** Describe specific outreach, teaching, mentoring, or public communication and your role in it. Every guide treats this as central ([Strouse](https://djstrouse.com/guide-to-applying-to-us-science-phd-programs-and-fellowships); [URI Graduate Writing Center](https://web.uri.edu/graduate-writing-center/tips-for-the-nsf-grfp-application/); [Safavi](https://tsafavi.github.io/nsf-grfp.html); [Liu](http://www.christineliuart.com/writing/2018/8/31/advice-for-applying-to-the-nsf-grfp)).
 
 ## The research proposal
 
-- **Propose something concrete you know well**, feasible in about three years. Reviewers assess your knowledge and clarity, and you aren't bound to carry out the exact plan ([Strouse](http://djstrouse.com/guide-to-applying-to-us-science-phd-programs-and-fellowships/); [Liu](http://www.christineliuart.com/writing/2018/8/31/advice-for-applying-to-the-nsf-grfp); [Lang](https://www.alexhunterlang.com/nsf-fellowship)).
+- **Propose something concrete you know well**, feasible in about three years. Reviewers assess your knowledge and clarity, and you aren't bound to carry out the exact plan ([Strouse](https://djstrouse.com/guide-to-applying-to-us-science-phd-programs-and-fellowships); [Liu](http://www.christineliuart.com/writing/2018/8/31/advice-for-applying-to-the-nsf-grfp); [Lang](https://www.alexhunterlang.com/nsf-fellowship)).
 - **Show novelty, rigor, and self-critique.** Confirm the question is open, state a hypothesis and two or three independent aims, explain your methods and what each outcome would mean, and acknowledge limitations ([Liu](http://www.christineliuart.com/writing/2018/8/31/advice-for-applying-to-the-nsf-grfp); [Safavi](https://tsafavi.github.io/nsf-grfp.html)).
 - **Write for a general science reader** who knows your field but not your subfield ([Lang](https://www.alexhunterlang.com/nsf-fellowship)).
 - **Figures?** There's mixed advice.
@@ -48,7 +48,7 @@ Write a paragraph about what drives your interest in research: an experience, a 
 - **Don't undersell yourself.** Bold key results, awards, and contributions for busy reviewers, and use clear topic sentences ([Safavi](https://tsafavi.github.io/nsf-grfp.html); [Liu](http://www.christineliuart.com/writing/2018/8/31/advice-for-applying-to-the-nsf-grfp)).
 - **How much research to include?** There's mixed advice.
   - [URI](https://web.uri.edu/graduate-writing-center/tips-for-the-nsf-grfp-application/) says the personal statement should focus on you, with research mentioned to show qualifications.
-  - [Strouse](http://djstrouse.com/guide-to-applying-to-us-science-phd-programs-and-fellowships/) and [Safavi](https://tsafavi.github.io/nsf-grfp.html) put more weight on research.
+  - [Strouse](https://djstrouse.com/guide-to-applying-to-us-science-phd-programs-and-fellowships) and [Safavi](https://tsafavi.github.io/nsf-grfp.html) put more weight on research.
 
 ## Funding and finances
 

@@ -10,10 +10,9 @@ topic: presenting
 - **Motivate the question for a diverse audience.** Start with the big P to place the topic in a relatable context, then zoom in to the little p.
 - **Set up your central message early.** When it arrives late, it seems disconnected from everything before it.
 - **Be explicit about your novelty** and what past work misses.
-- **In a short talk, less is more.** Focus on the key takeaway and one research question. Covering everything makes the audience miss what matters.
+- **In a short talk, less is more.** Focus on the key takeaway and one research question, and cut what you don't have time to explain instead of using shorthand. Covering everything makes the audience miss what matters.
 - **Points connected in your head may not be connected for the audience.** Make links between examples, prior work, and your main point explicit, and bridge transitions between parts of the talk.
 - **One case study can beat several examples** whose comparison the audience never sees.
-- **Cut what you don't have time to explain** instead of using shorthand for the sake of completeness.
 - **Define jargon** and use concrete examples for abstract ideas.
 - **End with the new little p's your work creates** and why they matter.
 - **Anticipate questions** from people you haven't met, and build a model of how others think.

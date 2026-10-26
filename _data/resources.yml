@@ -50,7 +50,7 @@
   type: collection
 - title: "CS PhD: the greatest hits"
   author: "Angela Jiang"
-  url: "https://phdadvice.carrd.co/"
+  url: "https://web.archive.org/web/20251117194035/https://phdadvice.carrd.co/"
   topics: [starting-out, research]
   stage: [any]
   field: [cs]
@@ -127,7 +127,7 @@
   note: "An ICER 2023 paper about a 50-page peer-written guide for UCSD HCI undergrads; it names the tacit knowledge computing majors miss and shows how students can write such a guide for their own department."
 - title: "Research with Michael: getting started"
   author: "Michael Bernstein"
-  url: "https://hci.stanford.edu/msb/gettingstarted/"
+  url: "https://web.archive.org/web/20260906181235/https://hci.stanford.edu/msb/gettingstarted/"
   topics: [starting-out, advisor]
   stage: [prospective, early]
   field: [hci]
@@ -263,7 +263,7 @@
   note: "A CMU professor's catalog of the opening lines that weaken CS PhD statements, with what to write instead."
 - title: "Some suggestions on writing your statement of purpose"
   author: "Jennifer Mankoff"
-  url: "https://www.cc.gatech.edu/fce/people/jmankoff/gradschool/sops.html"
+  url: "https://sites.cc.gatech.edu/fce/people/jmankoff/gradschool/sops.html"
   topics: [choosing]
   stage: [prospective]
   field: [hci]
@@ -335,7 +335,7 @@
   note: "A list of ten common ways PhD students stall or fail, each with a short explanation of how to avoid it."
 - title: "Expectation Setting"
   author: "Eugene Vinitsky"
-  url: "http://eugenevinitsky.github.io/posts/expectation_setting.html"
+  url: "https://web.archive.org/web/20230606000504/http://eugenevinitsky.github.io/posts/expectation_setting.html"
   topics: [advisor]
   stage: [early]
   field: [cs]
@@ -527,7 +527,7 @@
   type: collection
 - title: "PhDLife Blog"
   author: "University of Warwick"
-  url: "https://phdlife.warwick.ac.uk/"
+  url: "https://web.archive.org/web/20251104154325/https://phdlife.warwick.ac.uk/"
   topics: [time-wellbeing]
   stage: [any]
   field: [general]
@@ -601,7 +601,7 @@
   note: "A UC Riverside security professor's list of recurring patterns for generating CS research ideas and habits that keep ideas coming."
 - title: "Principles of Effective Research"
   author: "Michael Nielsen"
-  url: "https://michaelnielsen.org/blog/principles-of-effective-research/"
+  url: "https://web.archive.org/web/20260824165302/https://michaelnielsen.org/blog/principles-of-effective-research/"
   topics: [research]
   stage: [any]
   field: [general]
@@ -625,7 +625,7 @@
   note: "Patterson's talk, framed as ironic \"commandments\" for a bad career, each paired with what to do instead in research, writing, talks, and posters."
 - title: "How to Do Great Research"
   author: "Nick Feamster and Alex Gray"
-  url: "https://greatresearch.org/"
+  url: "https://web.archive.org/web/20250613190400/https://greatresearch.org/"
   topics: [research]
   stage: [any]
   field: [cs]
@@ -804,7 +804,7 @@
   note: "A short Q&A that gives a three-question template for a 30 to 60 second research pitch."
 - title: "Networking on the Network: A Guide to Professional Skills for PhD Students"
   author: "Phil Agre"
-  url: "https://vlsicad.ucsd.edu/Research/Advice/network.html"
+  url: "https://web.archive.org/web/20260314061907/https://vlsicad.ucsd.edu/Research/Advice/network.html"
   topics: [presenting, careers]
   stage: [any]
   field: [general]
@@ -888,7 +888,7 @@
   featured: true
 - title: "Guide to applying to US science PhD programs and fellowships"
   author: "DJ Strouse"
-  url: "http://djstrouse.com/guide-to-applying-to-us-science-phd-programs-and-fellowships/"
+  url: "https://djstrouse.com/guide-to-applying-to-us-science-phd-programs-and-fellowships"
   topics: [funding, choosing]
   stage: [prospective, early]
   field: [general]
@@ -1202,7 +1202,7 @@
   type: collection
 - title: "Graduate School Advice"
   author: "Stanford CS"
-  url: "https://cs.stanford.edu/degrees/phd/PhD/GraduateSchoolAdvice.pdf"
+  url: "https://web.archive.org/web/20230328020500/https://cs.stanford.edu/degrees/phd/PhD/GraduateSchoolAdvice.pdf"
   topics: [choosing, starting-out]
   stage: [prospective]
   field: [cs]
@@ -1249,7 +1249,7 @@
   note: "A 150-page handbook by a faculty reviewer that explains step by step how committees assign and decide files, with detailed guidance on letters, statements, school lists, and cold emails, written with international applicants in mind."
 - title: "A long, rambling, mostly personal corpus of advice on applying to CS grad school"
   author: "Justine Sherry"
-  url: "https://people.eecs.berkeley.edu/~justine/advice.pdf"
+  url: "https://web.archive.org/web/20230529022655/https://people.eecs.berkeley.edu/~justine/advice.pdf"
   topics: [choosing]
   stage: [prospective]
   field: [cs]
@@ -1279,7 +1279,7 @@
   note: "CRA-E webinar slides covering why to do a CS PhD, undergraduate preparation, applications, choosing schools and advisors, and what the first years look like."
 - title: "Graduate School Personal Statements"
   author: "Christopher Fletcher"
-  url: "http://cwfletcher.net/Pages/SoP.php"
+  url: "https://web.archive.org/web/20230930100945/http://cwfletcher.net/Pages/SoP.php"
   topics: [choosing]
   stage: [prospective]
   field: [cs]
@@ -1406,7 +1406,7 @@
   note: "A detailed guide to the faculty interview visit, including a minute-by-minute plan for the job talk, questions to expect and ask, and what to evaluate about each place."
 - title: "Example statement of purpose: Cody Coleman"
   author: "Cody Coleman"
-  url: "https://www.codycoleman.com/public/misc/Stanford-purpose.pdf"
+  url: "https://web.archive.org/web/20220211172944/https://www.codycoleman.com/public/misc/Stanford-purpose.pdf"
   topics: [choosing]
   stage: [prospective]
   field: [cs]
@@ -1438,7 +1438,7 @@
   note: "A public example statement of purpose."
 - title: "Example statement of purpose: Zahid Hossain"
   author: "Zahid Hossain"
-  url: "https://graphics.stanford.edu/~zhossain/grad/sop_mit.pdf"
+  url: "https://web.archive.org/web/20260211094846/https://graphics.stanford.edu/~zhossain/grad/sop_mit.pdf"
   topics: [choosing]
   stage: [prospective]
   field: [cs]
