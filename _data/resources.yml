@@ -288,7 +288,7 @@
 # ---------- Working with your advisor ----------
 - title: "Advising Questionnaire"
   author: "Template"
-  url: "https://docs.google.com/spreadsheets/d/1TgvBLfBLhpiI2MGhVXGeqbirrgCHgiFi0zyY6mnvXCE/edit?usp=drive_link"
+  url: "https://merylye.github.io/student-advice/assets/files/advising-questionnaire.xlsx"
   topics: [advisor]
   stage: [early]
   field: [general]
@@ -297,14 +297,14 @@
   featured: true
 - title: "Individual Development Plan (IDP) for Doctoral Students"
   author: "Template"
-  url: "https://docs.google.com/document/d/1uyU50vvEAxGjDdKsduEZlmJRmDGdwpIr6a1EDeooG2Q/edit?usp=drive_link"
+  url: "https://merylye.github.io/student-advice/assets/files/individual-development-plan.docx"
   topics: [advisor, careers]
   stage: [early, mid]
   field: [general]
   type: template
 - title: "Mentor-mentee contract"
   author: "CRA (template)"
-  url: "https://docs.google.com/document/d/1PABvFUXcjm9dXKPCrzpS0Hg7lsXzG11uXu2yBpiNN98/edit"
+  url: "https://merylye.github.io/student-advice/assets/files/mentor-mentee-contract.docx"
   topics: [advisor]
   stage: [early]
   field: [cs]
@@ -1091,7 +1091,7 @@
   type: collection
 - title: "Make a PhD Curriculum (aka Bucket List)"
   author: "Template"
-  url: "https://docs.google.com/document/d/1odv3E1QuMM6AUL3TuRaWxvKsZq8V90v27hpsOji1C6o/edit?usp=sharing"
+  url: "https://merylye.github.io/student-advice/assets/files/phd-curriculum-template.docx"
   topics: [careers, advisor]
   stage: [early]
   field: [general]

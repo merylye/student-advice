@@ -30,12 +30,6 @@ topic: time-wellbeing
 - **Start small and plan in actions.** Write specific actions and if/when-then rules, and begin with a minimal version you can keep during stressful weeks. After a lapse, forgive yourself and adjust the plan ([Might](https://matt.might.net/articles/how-to-change-your-behavior/)).
 - **Plan the year.** Map deadlines, venues, and milestones; update your CV and website; and meet your committee at least once a year ([Might](https://matt.might.net/articles/grad-student-resolutions/); [Dredze and Wallach](https://www.cs.jhu.edu/~mdredze/publications/HowtoBeaSuccessfulPhDStudent.pdf)).
 
-<div class="exercise" markdown="1">
-### Exercise: advice for your future self
-
-Write down what you learned as advice to your future self. Schedule an email to yourself for a date when you'll need it, such as the week before your first research talk.
-</div>
-
 ## Deadlines and finishing
 
 - **Set your own deadline before the real one.** Finish a week early ([Dredze and Wallach](https://www.cs.jhu.edu/~mdredze/publications/HowtoBeaSuccessfulPhDStudent.pdf)), or set an internal deadline two weeks early and have a full draft reviewed with the real review form ([Karpathy](https://karpathy.github.io/2016/09/07/phd/)). Track deadlines yourself instead of relying on your advisor.
@@ -48,7 +42,7 @@ Write down what you learned as advice to your future self. Schedule an email to 
 
 ## Saying no
 
-- **Learn to say no (but not all the time).** Reading recommendation: *The No Club* (see resources below).
+- **Learn to say no (but not all the time).** Reading recommendation: [*The No Club*](https://www.thenoclub.com/).
 - **Decline by stating what you're saying yes to.** Define your goals, accept what fits them, and explain that context when you turn something down ([Ami Vora, on Deb Liu's newsletter](https://debliu.substack.com/p/how-to-say-no)).
 - **Take a day before committing.** Say yes only if you're still excited the next day ([Vora](https://debliu.substack.com/p/how-to-say-no)).
 - **Drop tasks that don't matter.** Stop doing a task and see what breaks; if nothing does, take it off your list ([Vora](https://debliu.substack.com/p/how-to-say-no)).

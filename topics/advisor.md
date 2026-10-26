@@ -13,9 +13,9 @@ As your mentor, your advisor's purpose is to help you become an independent rese
 
 At the start of your research journey, talk through expectations with your mentor: goals, hours, skills you want to learn, how you'll get feedback, and what success would look like for each of you.
 
-- [Advising Questionnaire](https://docs.google.com/spreadsheets/d/1TgvBLfBLhpiI2MGhVXGeqbirrgCHgiFi0zyY6mnvXCE/edit?usp=drive_link): I recommend making a copy and filling this out at the start of your PhD to set expectations and boundaries with your advisor.
-- [Individual Development Plan (IDP) for Doctoral Students](https://docs.google.com/document/d/1uyU50vvEAxGjDdKsduEZlmJRmDGdwpIr6a1EDeooG2Q/edit?usp=drive_link)
-- [CRA mentor-mentee contract](https://docs.google.com/document/d/1PABvFUXcjm9dXKPCrzpS0Hg7lsXzG11uXu2yBpiNN98/edit)
+- [Advising Questionnaire]({{ '/assets/files/advising-questionnaire.xlsx' | relative_url }}): I recommend making a copy and filling this out at the start of your PhD to set expectations and boundaries with your advisor.
+- [Individual Development Plan (IDP) for Doctoral Students]({{ '/assets/files/individual-development-plan.docx' | relative_url }})
+- [CRA mentor-mentee contract]({{ '/assets/files/mentor-mentee-contract.docx' | relative_url }})
 
 More on expectations:
 
@@ -26,7 +26,7 @@ More on expectations:
 <div class="exercise" markdown="1">
 ### Exercise: make a PhD curriculum
 
-List the experiences you want during your PhD: a project sequence, technical and research skills, reviewing papers, mentoring junior researchers, teaching, a doctoral consortium, a systematic literature review, giving talks, meeting faculty, and an outside hobby. Revisit it each year with your advisor. Start from this [PhD Curriculum (aka Bucket List) template](https://docs.google.com/document/d/1odv3E1QuMM6AUL3TuRaWxvKsZq8V90v27hpsOji1C6o/edit?usp=sharing).
+List the experiences you want during your PhD: a project sequence, technical and research skills, reviewing papers, mentoring junior researchers, teaching, a doctoral consortium, a systematic literature review, giving talks, meeting faculty, and an outside hobby. Revisit it each year with your advisor. Start from this [PhD Curriculum (aka Bucket List) template]({{ '/assets/files/phd-curriculum-template.docx' | relative_url }}).
 </div>
 
 ## Meetings and staying in touch
