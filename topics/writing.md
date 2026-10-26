@@ -39,8 +39,7 @@ Jacob Wobbrock's [annotated CHI paper template](https://faculty.washington.edu/w
 - **Write a full discussion.** Discussions are often too short ([Clemens](https://blogs.lse.ac.uk/impactofsocialsciences/2018/05/21/writing-a-page-turner-how-to-tell-a-story-in-your-scientific-paper/)).
 
 <div class="exercise" markdown="1">
-### Try it: Before → Then
-<p class="meta">10 minutes · while listening to a talk or reading a paper</p>
+### Exercise: Before → Then
 
 Summarize a piece of work in two sentences: the state of the world *before* it, and the state of the world *then*, after it. If you can't, the speaker or author didn't make the contribution clear, or you missed it. Try it on your own project too.
 </div>

@@ -21,8 +21,7 @@ topic: funding
 - **Proofread carefully.**
 
 <div class="exercise" markdown="1">
-### Try it: write your origin story
-<p class="meta">30 minutes · alone</p>
+### Exercise: write your origin story
 
 Write a paragraph about what drives your interest in research: an experience, a question you couldn't stop thinking about, or a problem you saw up close. Use it to look past your current topic or method and consider problems and approaches you haven't thought of, and to find a project that combines your interests with your advisor's. It also becomes the core of a fellowship personal statement.
 </div>

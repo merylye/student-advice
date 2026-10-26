@@ -24,8 +24,7 @@ More on expectations:
 - **Ask how much of each paper you should draft yourself** ([Guo](https://pg.ucsd.edu/early-stage-PhD-advice.htm)).
 
 <div class="exercise" markdown="1">
-### Try it: make a PhD curriculum
-<p class="meta">1 hour · alone, then with your advisor</p>
+### Exercise: make a PhD curriculum
 
 List the experiences you want during your PhD: a project sequence, technical and research skills, reviewing papers, mentoring junior researchers, teaching, a doctoral consortium, a systematic literature review, giving talks, meeting faculty, and an outside hobby. Revisit it each year with your advisor. Start from this [PhD Curriculum (aka Bucket List) template](https://docs.google.com/document/d/1odv3E1QuMM6AUL3TuRaWxvKsZq8V90v27hpsOji1C6o/edit?usp=sharing).
 </div>

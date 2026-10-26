@@ -64,8 +64,7 @@ More advice on reading:
 ## Mapping a research space
 
 <div class="exercise" markdown="1">
-### Try it: map your research space
-<p class="meta">45 minutes · works best at a whiteboard with someone else</p>
+### Exercise: map your research space
 
 1. Write your problem in the middle. List the populations or contexts it affects and how you'd measure it.
 2. **Problem abstraction:** What class of problems is this one instance of? List other places the same problem shows up.
@@ -120,8 +119,7 @@ The Heilmeier Catechism asks similar questions: What are you trying to do, with 
 > Nicolas Christin (Fall Practicum 2024)
 
 <div class="exercise" markdown="1">
-### Try it: 10 research questions in 10 minutes
-<p class="meta">10 minutes · alone, then share</p>
+### Exercise: 10 research questions in 10 minutes
 
 Set a timer and write ten research questions about your area, one per minute. Don't judge them as you go. Afterward, pick the two most promising and check each against the questions above.
 </div>
@@ -137,8 +135,7 @@ Set a timer and write ten research questions about your area, one per minute. Do
 ## Moving fast: lean research
 
 <div class="exercise" markdown="1">
-### Try it: plan a lean test
-<p class="meta">30 minutes · alone</p>
+### Exercise: plan a lean test
 
 Write down the core assumption your project depends on. Then design the smallest, cheapest thing you could do to validate or invalidate it: a handful of interviews, a paper prototype, a pilot study, or a quick look at existing data. List three pieces of evidence that this test will teach you what you need to know.
 </div>

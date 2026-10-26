@@ -31,8 +31,7 @@ topic: time-wellbeing
 - **Plan the year.** Map deadlines, venues, and milestones; update your CV and website; and meet your committee at least once a year ([Might](https://matt.might.net/articles/grad-student-resolutions/); [Dredze and Wallach](https://www.cs.jhu.edu/~mdredze/publications/HowtoBeaSuccessfulPhDStudent.pdf)).
 
 <div class="exercise" markdown="1">
-### Try it: advice for your future self
-<p class="meta">5 minutes · after every class, talk, or meeting</p>
+### Exercise: advice for your future self
 
 Write down what you learned as advice to your future self. Schedule an email to yourself for a date when you'll need it, such as the week before your first research talk.
 </div>

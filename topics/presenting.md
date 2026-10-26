@@ -52,8 +52,7 @@ From the talk guides:
 - **Repeat each question before answering it**, and say "I don't know" when you don't ([Ernst](https://homes.cs.washington.edu/~mernst/advice/giving-talk.html)).
 
 <div class="exercise" markdown="1">
-### Try it: record a two-minute talk
-<p class="meta">1 hour · with a friend</p>
+### Exercise: record a two-minute talk
 
 Prepare a two-minute talk on your research, record it, and watch it. Write down at least three things you notice about yourself and your slides. Then ask someone else what landed and whether you spoke too fast.
 </div>
@@ -65,8 +64,7 @@ Prepare a two-minute talk on your research, record it, and watch it. Write down 
 - **Connect your pitch to the other person's.** When someone tells you their work, start yours with a specific connection ("I also look at how people learn, but in the context of interface design"), not "I also do HCI research."
 
 <div class="exercise" markdown="1">
-### Try it: explain it with common words
-<p class="meta">15 minutes · alone</p>
+### Exercise: explain it with common words
 
 Explain your research using only the thousand most common English words. Wherever you get stuck, you've found jargon you'll need to define for a general audience.
 </div>
