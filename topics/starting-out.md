@@ -5,7 +5,7 @@ topic: starting-out
 
 ## What research is like
 
-- **Research uses different skills than coursework.** You choose the problems, they may have no known answer, and you may end up knowing more than anyone about your topic. Grades are a weak signal of research ability ([Hewitt](https://www.cs.columbia.edu/~johnhew/undergrad-researchers.html); [CRA](https://conquer.cra.org/wp-content/uploads/2021/11/ThePhDinComputing_CRAEWebinar.pdf)). Most of your early attempts won't work, and part of research is learning what to try next.
+- **Research uses different skills than coursework.** You choose the problems, they may have no known answer, and you may end up knowing more than anyone about your topic. Grades are a weak signal of research ability ([Hewitt](https://www.cs.columbia.edu/~johnhew/undergrad-researchers.html); [CRA](https://conquer.cra.org/wp-content/uploads/2021/11/ThePhDinComputing_CRAEWebinar.pdf)). Jason Hong calls this breaking out of the undergraduate mentality. Coursework asks you to show you can build something, research asks what to build and why, and no one will tell you what to do next ([Hong](https://cacm.acm.org/blogcacm/ph-d-s-from-the-facultys-perspective)). Most of your early attempts won't work, and part of research is learning what to try next.
 - **Expect to spend time confused.** Not knowing what you don't know is part of starting out. Ask questions early so you don't spend weeks going in the wrong direction.
 - **Write to think and to learn.** Writing extends your reasoning, and writing down what you read helps you learn hard material ([Blum](https://www.cs.cmu.edu/~mblum/research/pdf/grad.html)).
 
@@ -13,7 +13,7 @@ topic: starting-out
 
 - **Be proactive.** Don't take it personally if faculty/PhD students aren't approaching you. Initiate contact, come to office hours, and ask for specific things. It is much easier for a mentor to respond to a specific request than to a vague ask for mentorship.
 - **Good mentors make all the difference.** A good mentor can foster a passion, and a bad mentor can kill an interest. Build your team of mentors deliberately, and when you're ready, become one for someone younger than you.
-- **Find multiple mentors.** Rather than searching for one perfect mentor, build a team where each person provides something you need. Mentors can be faculty, staff, or other students.
+- **Find multiple mentors.** Rather than searching for one perfect mentor, build a team where each person provides something you need. Mentors can be faculty, staff, or other students. I highly recommend having non-advisor faculty mentors.
 
 ## Getting your first research position
 
